@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>openasr clip visualizer</title>
+<link rel="stylesheet" href="/visualize/style.css">
+<script src="/visualize/vendor/wavesurfer.min.js"></script>
+</head>
+<body>
+<header>
+  <span id="clip-name" class="clip-name"></span>
+  <button id="playstop" class="playstop" title="play">▶</button>
+  <label class="zoom">
+    zoom
+    <input id="zoom" type="range" min="30" max="2000" value="30" step="10">
+  </label>
+  <span id="meta" class="meta"></span>
+</header>
+<div id="hint">
+  <span class="chip"><b>drag</b> on the waveform → play that region</span>
+  <span class="chip"><b>2×click</b> a word → play that word</span>
+  <span class="chip"><b>click</b> a word → seek to it</span>
+  <span class="chip"><b>wheel over waveform / zoom slider</b> → zoom (at cursor)</span>
+  <span class="chip chip-miss"><b>red</b> word = no overlap with truth (miss)</span>
+  <span class="chip"><b>hover</b> a lane label → timeline quality</span>
+  <span class="chip"><b>▶</b> play / stop the selection</span>
+</div>
+<div id="layout">
+  <nav id="sidebar"></nav>
+  <main id="main">
+    <div id="waveform"></div>
+    <div id="lanescroll"><div id="lanescroll-inner"></div></div>
+    <pre id="now"></pre>
+  </main>
+</div>
+<script src="/visualize/app.js"></script>
+</body>
+</html>

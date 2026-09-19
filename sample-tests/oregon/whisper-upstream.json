@@ -1,0 +1,530 @@
+{
+  "duration": 56.98169,
+  "text": "This music is so good! Hey, what's up bud? So long! Alright, oh! Howdy! Howdy! Howdy! Who's this guy? Howdy! Aaaaaah!",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "text": "This music is so good!",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 10.58684,
+          "confidence": 0.5621501
+        },
+        {
+          "word": "music",
+          "start": 10.58684,
+          "end": 10.58684,
+          "confidence": 0.9799652
+        },
+        {
+          "word": "is",
+          "start": 10.58684,
+          "end": 10.58684,
+          "confidence": 0.9986952
+        },
+        {
+          "word": "so",
+          "start": 10.58684,
+          "end": 13.10101,
+          "confidence": 0.98730123
+        },
+        {
+          "word": "good!",
+          "start": 13.10101,
+          "end": 30.0,
+          "confidence": 0.82256866
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 56.98169,
+      "text": "Hey, what's up bud? So long! Alright, oh! Howdy! Howdy! Howdy! Who's this guy? Howdy! Aaaaaah!",
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 29.5,
+          "end": 42.603973,
+          "confidence": 0.3378542
+        },
+        {
+          "word": "what's",
+          "start": 42.603973,
+          "end": 43.16342,
+          "confidence": 0.89092433
+        },
+        {
+          "word": "up",
+          "start": 43.16342,
+          "end": 43.596325,
+          "confidence": 0.99216896
+        },
+        {
+          "word": "bud?",
+          "start": 43.596325,
+          "end": 44.681587,
+          "confidence": 0.6217727
+        },
+        {
+          "word": "So",
+          "start": 44.681587,
+          "end": 45.905186,
+          "confidence": 0.3654855
+        },
+        {
+          "word": "long!",
+          "start": 45.905186,
+          "end": 46.781036,
+          "confidence": 0.69451636
+        },
+        {
+          "word": "Alright,",
+          "start": 46.781036,
+          "end": 47.354362,
+          "confidence": 0.37738577
+        },
+        {
+          "word": "oh!",
+          "start": 47.354362,
+          "end": 48.105965,
+          "confidence": 0.7480533
+        },
+        {
+          "word": "Howdy!",
+          "start": 48.105965,
+          "end": 48.790676,
+          "confidence": 0.72154146
+        },
+        {
+          "word": "Howdy!",
+          "start": 48.790676,
+          "end": 49.139126,
+          "confidence": 0.9157818
+        },
+        {
+          "word": "Howdy!",
+          "start": 49.139126,
+          "end": 49.405552,
+          "confidence": 0.86679333
+        },
+        {
+          "word": "Who's",
+          "start": 49.405552,
+          "end": 49.52535,
+          "confidence": 0.82125175
+        },
+        {
+          "word": "this",
+          "start": 49.52535,
+          "end": 49.98317,
+          "confidence": 0.9977077
+        },
+        {
+          "word": "guy?",
+          "start": 49.98317,
+          "end": 50.8357,
+          "confidence": 0.98856354
+        },
+        {
+          "word": "Howdy!",
+          "start": 50.8357,
+          "end": 51.821888,
+          "confidence": 0.88826865
+        },
+        {
+          "word": "Aaaaaah!",
+          "start": 51.821888,
+          "end": 56.98169,
+          "confidence": 0.2770391
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 10.58684,
+      "text": "This",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 10.58684,
+          "confidence": 0.5621501
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 10.58684,
+      "end": 13.10101,
+      "text": "music is so",
+      "words": [
+        {
+          "word": "music",
+          "start": 10.58684,
+          "end": 10.58684,
+          "confidence": 0.9799652
+        },
+        {
+          "word": "is",
+          "start": 10.58684,
+          "end": 10.58684,
+          "confidence": 0.9986952
+        },
+        {
+          "word": "so",
+          "start": 10.58684,
+          "end": 13.10101,
+          "confidence": 0.98730123
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 13.10101,
+      "end": 30.0,
+      "text": "good!",
+      "words": [
+        {
+          "word": "good!",
+          "start": 13.10101,
+          "end": 30.0,
+          "confidence": 0.82256866
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 30.0,
+      "end": 42.603973,
+      "text": "Hey,",
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 29.5,
+          "end": 42.603973,
+          "confidence": 0.3378542
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 42.603973,
+      "end": 44.681587,
+      "text": "what's up bud?",
+      "words": [
+        {
+          "word": "what's",
+          "start": 42.603973,
+          "end": 43.16342,
+          "confidence": 0.89092433
+        },
+        {
+          "word": "up",
+          "start": 43.16342,
+          "end": 43.596325,
+          "confidence": 0.99216896
+        },
+        {
+          "word": "bud?",
+          "start": 43.596325,
+          "end": 44.681587,
+          "confidence": 0.6217727
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 44.681587,
+      "end": 46.781036,
+      "text": "So long!",
+      "words": [
+        {
+          "word": "So",
+          "start": 44.681587,
+          "end": 45.905186,
+          "confidence": 0.3654855
+        },
+        {
+          "word": "long!",
+          "start": 45.905186,
+          "end": 46.781036,
+          "confidence": 0.69451636
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 46.781036,
+      "end": 48.105965,
+      "text": "Alright, oh!",
+      "words": [
+        {
+          "word": "Alright,",
+          "start": 46.781036,
+          "end": 47.354362,
+          "confidence": 0.37738577
+        },
+        {
+          "word": "oh!",
+          "start": 47.354362,
+          "end": 48.105965,
+          "confidence": 0.7480533
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 48.105965,
+      "end": 48.790676,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 48.105965,
+          "end": 48.790676,
+          "confidence": 0.72154146
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 48.790676,
+      "end": 49.139126,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 48.790676,
+          "end": 49.139126,
+          "confidence": 0.9157818
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 49.139126,
+      "end": 49.405552,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 49.139126,
+          "end": 49.405552,
+          "confidence": 0.86679333
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 49.405552,
+      "end": 50.8357,
+      "text": "Who's this guy?",
+      "words": [
+        {
+          "word": "Who's",
+          "start": 49.405552,
+          "end": 49.52535,
+          "confidence": 0.82125175
+        },
+        {
+          "word": "this",
+          "start": 49.52535,
+          "end": 49.98317,
+          "confidence": 0.9977077
+        },
+        {
+          "word": "guy?",
+          "start": 49.98317,
+          "end": 50.8357,
+          "confidence": 0.98856354
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 50.8357,
+      "end": 51.821888,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 50.8357,
+          "end": 51.821888,
+          "confidence": 0.88826865
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 51.821888,
+      "end": 56.731686,
+      "text": "Aaaaaah!",
+      "words": [
+        {
+          "word": "Aaaaaah!",
+          "start": 51.821888,
+          "end": 56.98169,
+          "confidence": 0.2770391
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_reliable",
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 10.58684,
+      "confidence": 0.5621501
+    },
+    {
+      "word": "music",
+      "start": 10.58684,
+      "end": 10.58684,
+      "confidence": 0.9799652
+    },
+    {
+      "word": "is",
+      "start": 10.58684,
+      "end": 10.58684,
+      "confidence": 0.9986952
+    },
+    {
+      "word": "so",
+      "start": 10.58684,
+      "end": 13.10101,
+      "confidence": 0.98730123
+    },
+    {
+      "word": "good!",
+      "start": 13.10101,
+      "end": 30.0,
+      "confidence": 0.82256866
+    },
+    {
+      "word": "Hey,",
+      "start": 29.5,
+      "end": 42.603973,
+      "confidence": 0.3378542
+    },
+    {
+      "word": "what's",
+      "start": 42.603973,
+      "end": 43.16342,
+      "confidence": 0.89092433
+    },
+    {
+      "word": "up",
+      "start": 43.16342,
+      "end": 43.596325,
+      "confidence": 0.99216896
+    },
+    {
+      "word": "bud?",
+      "start": 43.596325,
+      "end": 44.681587,
+      "confidence": 0.6217727
+    },
+    {
+      "word": "So",
+      "start": 44.681587,
+      "end": 45.905186,
+      "confidence": 0.3654855
+    },
+    {
+      "word": "long!",
+      "start": 45.905186,
+      "end": 46.781036,
+      "confidence": 0.69451636
+    },
+    {
+      "word": "Alright,",
+      "start": 46.781036,
+      "end": 47.354362,
+      "confidence": 0.37738577
+    },
+    {
+      "word": "oh!",
+      "start": 47.354362,
+      "end": 48.105965,
+      "confidence": 0.7480533
+    },
+    {
+      "word": "Howdy!",
+      "start": 48.105965,
+      "end": 48.790676,
+      "confidence": 0.72154146
+    },
+    {
+      "word": "Howdy!",
+      "start": 48.790676,
+      "end": 49.139126,
+      "confidence": 0.9157818
+    },
+    {
+      "word": "Howdy!",
+      "start": 49.139126,
+      "end": 49.405552,
+      "confidence": 0.86679333
+    },
+    {
+      "word": "Who's",
+      "start": 49.405552,
+      "end": 49.52535,
+      "confidence": 0.82125175
+    },
+    {
+      "word": "this",
+      "start": 49.52535,
+      "end": 49.98317,
+      "confidence": 0.9977077
+    },
+    {
+      "word": "guy?",
+      "start": 49.98317,
+      "end": 50.8357,
+      "confidence": 0.98856354
+    },
+    {
+      "word": "Howdy!",
+      "start": 50.8357,
+      "end": 51.821888,
+      "confidence": 0.88826865
+    },
+    {
+      "word": "Aaaaaah!",
+      "start": 51.821888,
+      "end": 56.98169,
+      "confidence": 0.2770391
+    }
+  ],
+  "longform": {
+    "chunk_count": 2,
+    "skipped_silent_chunks": 0,
+    "duplicate_merge_count": 0,
+    "provenance": [
+      "core.longform.plan:auto",
+      "core.longform.slice-kind:fixed",
+      "core.longform.timeline:identity",
+      "core.native.backend:gpu",
+      "core.longform.assembler",
+      "core.native.ggml",
+      "core.native.longform.policy:invocation-span-cap=30",
+      "core.longform.auto.disqualified:energy-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=1.35:audible_window_s=24.75-25.25:peak_dbfs=-40.3:audible_threshold_dbfs=-43.3",
+      "core.longform.auto.disqualified:vad-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=2.31:audible_window_s=24.45-24.95:peak_dbfs=-40.8:audible_threshold_dbfs=-43.3",
+      "core.longform.auto.disqualified:vad-identity:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=3.81:audible_window_s=24.20-24.70:peak_dbfs=-40.0:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.selected:fixed-identity:score=973035:processed_samples=919707:chunks=2:short_penalty=0:boundary_penalty=3328:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=40000:stability_bias=10000:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[0]:fixed-identity:score=973035:processed_samples=919707:chunks=2:short_penalty=0:boundary_penalty=3328:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=40000:stability_bias=10000:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[1]:energy-identity:score=1190718:processed_samples=939707:chunks=3:short_penalty=170693:boundary_penalty=318:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=80000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.native.vad.engine:firered-stream-gpu"
+    ]
+  }
+}

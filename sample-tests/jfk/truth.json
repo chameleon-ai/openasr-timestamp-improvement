@@ -1,0 +1,148 @@
+{
+  "duration": 11.0,
+  "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.316,
+      "end": 10.443,
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.316,
+          "end": 0.535,
+          "confidence": 1.0
+        },
+        {
+          "word": "so,",
+          "start": 0.555,
+          "end": 0.993,
+          "confidence": 1.0
+        },
+        {
+          "word": "my",
+          "start": 0.993,
+          "end": 1.283,
+          "confidence": 1.0
+        },
+        {
+          "word": "fellow",
+          "start": 1.335,
+          "end": 1.631,
+          "confidence": 1.0
+        },
+        {
+          "word": "Americans,",
+          "start": 1.631,
+          "end": 2.315,
+          "confidence": 1.0
+        },
+        {
+          "word": "ask",
+          "start": 3.269,
+          "end": 3.753,
+          "confidence": 1.0
+        },
+        {
+          "word": "not",
+          "start": 3.991,
+          "end": 4.481,
+          "confidence": 1.0
+        },
+        {
+          "word": "what",
+          "start": 5.39,
+          "end": 5.584,
+          "confidence": 1.0
+        },
+        {
+          "word": "your",
+          "start": 5.584,
+          "end": 5.9,
+          "confidence": 1.0
+        },
+        {
+          "word": "country",
+          "start": 5.9,
+          "end": 6.46,
+          "confidence": 1.0
+        },
+        {
+          "word": "can",
+          "start": 6.46,
+          "end": 6.667,
+          "confidence": 1.0
+        },
+        {
+          "word": "do",
+          "start": 6.667,
+          "end": 6.951,
+          "confidence": 1.0
+        },
+        {
+          "word": "for",
+          "start": 6.951,
+          "end": 7.1,
+          "confidence": 1.0
+        },
+        {
+          "word": "you,",
+          "start": 7.1,
+          "end": 7.55,
+          "confidence": 1.0
+        },
+        {
+          "word": "ask",
+          "start": 8.157,
+          "end": 8.582,
+          "confidence": 1.0
+        },
+        {
+          "word": "what",
+          "start": 8.6,
+          "end": 8.84,
+          "confidence": 1.0
+        },
+        {
+          "word": "you",
+          "start": 8.88,
+          "end": 9.227,
+          "confidence": 1.0
+        },
+        {
+          "word": "can",
+          "start": 9.227,
+          "end": 9.407,
+          "confidence": 1.0
+        },
+        {
+          "word": "do",
+          "start": 9.407,
+          "end": 9.685,
+          "confidence": 1.0
+        },
+        {
+          "word": "for",
+          "start": 9.7,
+          "end": 9.814,
+          "confidence": 1.0
+        },
+        {
+          "word": "your",
+          "start": 9.814,
+          "end": 10.046,
+          "confidence": 1.0
+        },
+        {
+          "word": "country.",
+          "start": 10.046,
+          "end": 10.443,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "model": "truth",
+  "language": "en"
+}

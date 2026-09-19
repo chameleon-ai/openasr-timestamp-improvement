@@ -1,0 +1,674 @@
+{
+  "language": "english",
+  "duration": 16.605438,
+  "text": "Rick, the way I got into smoking Stogies is very simple. I went home with Maria in 1977 when I met her at the tennis tournament. I went home with her to meet her parents.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 16.605438,
+      "text": "Rick, the way I got into smoking Stogies is very simple. I went home with Maria in 1977 when I met her at the tennis tournament. I went home with her to meet her parents.",
+      "words": [
+        {
+          "word": "Rick,",
+          "start": 0.0,
+          "end": 0.86486655,
+          "confidence": 0.99651
+        },
+        {
+          "word": "the",
+          "start": 0.86486655,
+          "end": 1.3837864,
+          "confidence": 0.9998128
+        },
+        {
+          "word": "way",
+          "start": 1.3837864,
+          "end": 1.7297332,
+          "confidence": 0.9999865
+        },
+        {
+          "word": "I",
+          "start": 1.7297332,
+          "end": 2.0756798,
+          "confidence": 0.9999838
+        },
+        {
+          "word": "got",
+          "start": 2.0756798,
+          "end": 2.4216266,
+          "confidence": 0.9998739
+        },
+        {
+          "word": "into",
+          "start": 2.4216266,
+          "end": 2.8540597,
+          "confidence": 0.99997103
+        },
+        {
+          "word": "smoking",
+          "start": 2.8540597,
+          "end": 3.5459528,
+          "confidence": 0.99988854
+        },
+        {
+          "word": "Stogies",
+          "start": 3.5459528,
+          "end": 4.3243327,
+          "confidence": 0.43717
+        },
+        {
+          "word": "is",
+          "start": 4.3243327,
+          "end": 4.843253,
+          "confidence": 0.9953122
+        },
+        {
+          "word": "very",
+          "start": 4.843253,
+          "end": 5.2756863,
+          "confidence": 0.99998677
+        },
+        {
+          "word": "simple.",
+          "start": 5.2756863,
+          "end": 5.794606,
+          "confidence": 0.99956375
+        },
+        {
+          "word": "I",
+          "start": 5.794606,
+          "end": 6.2270393,
+          "confidence": 0.99999404
+        },
+        {
+          "word": "went",
+          "start": 6.2270393,
+          "end": 6.5729856,
+          "confidence": 0.99999547
+        },
+        {
+          "word": "home",
+          "start": 6.5729856,
+          "end": 6.918933,
+          "confidence": 0.99999654
+        },
+        {
+          "word": "with",
+          "start": 6.918933,
+          "end": 7.351366,
+          "confidence": 0.9999789
+        },
+        {
+          "word": "Maria",
+          "start": 7.351366,
+          "end": 7.870286,
+          "confidence": 0.99993086
+        },
+        {
+          "word": "in",
+          "start": 7.870286,
+          "end": 8.389206,
+          "confidence": 0.9999511
+        },
+        {
+          "word": "1977",
+          "start": 8.389206,
+          "end": 8.908126,
+          "confidence": 0.9940068
+        },
+        {
+          "word": "when",
+          "start": 8.908126,
+          "end": 9.340559,
+          "confidence": 0.9996082
+        },
+        {
+          "word": "I",
+          "start": 9.340559,
+          "end": 9.686506,
+          "confidence": 0.99998605
+        },
+        {
+          "word": "met",
+          "start": 9.686506,
+          "end": 10.032452,
+          "confidence": 0.9999794
+        },
+        {
+          "word": "her",
+          "start": 10.032452,
+          "end": 10.378399,
+          "confidence": 0.9999809
+        },
+        {
+          "word": "at",
+          "start": 10.378399,
+          "end": 10.724346,
+          "confidence": 0.99854267
+        },
+        {
+          "word": "the",
+          "start": 10.724346,
+          "end": 11.156778,
+          "confidence": 0.99871385
+        },
+        {
+          "word": "tennis",
+          "start": 11.156778,
+          "end": 11.935159,
+          "confidence": 0.99987817
+        },
+        {
+          "word": "tournament.",
+          "start": 11.935159,
+          "end": 12.886512,
+          "confidence": 0.9929691
+        },
+        {
+          "word": "I",
+          "start": 12.886512,
+          "end": 13.491919,
+          "confidence": 0.9998555
+        },
+        {
+          "word": "went",
+          "start": 13.491919,
+          "end": 13.837866,
+          "confidence": 0.9999901
+        },
+        {
+          "word": "home",
+          "start": 13.837866,
+          "end": 14.183811,
+          "confidence": 0.9999913
+        },
+        {
+          "word": "with",
+          "start": 14.183811,
+          "end": 14.529758,
+          "confidence": 0.99954754
+        },
+        {
+          "word": "her",
+          "start": 14.529758,
+          "end": 14.875706,
+          "confidence": 0.9999927
+        },
+        {
+          "word": "to",
+          "start": 14.875706,
+          "end": 15.221651,
+          "confidence": 0.99990284
+        },
+        {
+          "word": "meet",
+          "start": 15.221651,
+          "end": 15.567598,
+          "confidence": 0.99992263
+        },
+        {
+          "word": "her",
+          "start": 15.567598,
+          "end": 16.00003,
+          "confidence": 0.9999013
+        },
+        {
+          "word": "parents.",
+          "start": 16.00003,
+          "end": 16.605438,
+          "confidence": 0.98792714
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.794606,
+      "text": "Rick, the way I got into smoking Stogies is very simple.",
+      "words": [
+        {
+          "word": "Rick,",
+          "start": 0.0,
+          "end": 0.86486655,
+          "confidence": 0.99651
+        },
+        {
+          "word": "the",
+          "start": 0.86486655,
+          "end": 1.3837864,
+          "confidence": 0.9998128
+        },
+        {
+          "word": "way",
+          "start": 1.3837864,
+          "end": 1.7297332,
+          "confidence": 0.9999865
+        },
+        {
+          "word": "I",
+          "start": 1.7297332,
+          "end": 2.0756798,
+          "confidence": 0.9999838
+        },
+        {
+          "word": "got",
+          "start": 2.0756798,
+          "end": 2.4216266,
+          "confidence": 0.9998739
+        },
+        {
+          "word": "into",
+          "start": 2.4216266,
+          "end": 2.8540597,
+          "confidence": 0.99997103
+        },
+        {
+          "word": "smoking",
+          "start": 2.8540597,
+          "end": 3.5459528,
+          "confidence": 0.99988854
+        },
+        {
+          "word": "Stogies",
+          "start": 3.5459528,
+          "end": 4.3243327,
+          "confidence": 0.43717
+        },
+        {
+          "word": "is",
+          "start": 4.3243327,
+          "end": 4.843253,
+          "confidence": 0.9953122
+        },
+        {
+          "word": "very",
+          "start": 4.843253,
+          "end": 5.2756863,
+          "confidence": 0.99998677
+        },
+        {
+          "word": "simple.",
+          "start": 5.2756863,
+          "end": 5.794606,
+          "confidence": 0.99956375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.794606,
+      "end": 12.886512,
+      "text": "I went home with Maria in 1977 when I met her at the tennis tournament.",
+      "words": [
+        {
+          "word": "I",
+          "start": 5.794606,
+          "end": 6.2270393,
+          "confidence": 0.99999404
+        },
+        {
+          "word": "went",
+          "start": 6.2270393,
+          "end": 6.5729856,
+          "confidence": 0.99999547
+        },
+        {
+          "word": "home",
+          "start": 6.5729856,
+          "end": 6.918933,
+          "confidence": 0.99999654
+        },
+        {
+          "word": "with",
+          "start": 6.918933,
+          "end": 7.351366,
+          "confidence": 0.9999789
+        },
+        {
+          "word": "Maria",
+          "start": 7.351366,
+          "end": 7.870286,
+          "confidence": 0.99993086
+        },
+        {
+          "word": "in",
+          "start": 7.870286,
+          "end": 8.389206,
+          "confidence": 0.9999511
+        },
+        {
+          "word": "1977",
+          "start": 8.389206,
+          "end": 8.908126,
+          "confidence": 0.9940068
+        },
+        {
+          "word": "when",
+          "start": 8.908126,
+          "end": 9.340559,
+          "confidence": 0.9996082
+        },
+        {
+          "word": "I",
+          "start": 9.340559,
+          "end": 9.686506,
+          "confidence": 0.99998605
+        },
+        {
+          "word": "met",
+          "start": 9.686506,
+          "end": 10.032452,
+          "confidence": 0.9999794
+        },
+        {
+          "word": "her",
+          "start": 10.032452,
+          "end": 10.378399,
+          "confidence": 0.9999809
+        },
+        {
+          "word": "at",
+          "start": 10.378399,
+          "end": 10.724346,
+          "confidence": 0.99854267
+        },
+        {
+          "word": "the",
+          "start": 10.724346,
+          "end": 11.156778,
+          "confidence": 0.99871385
+        },
+        {
+          "word": "tennis",
+          "start": 11.156778,
+          "end": 11.935159,
+          "confidence": 0.99987817
+        },
+        {
+          "word": "tournament.",
+          "start": 11.935159,
+          "end": 12.886512,
+          "confidence": 0.9929691
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 12.886512,
+      "end": 16.605438,
+      "text": "I went home with her to meet her parents.",
+      "words": [
+        {
+          "word": "I",
+          "start": 12.886512,
+          "end": 13.491919,
+          "confidence": 0.9998555
+        },
+        {
+          "word": "went",
+          "start": 13.491919,
+          "end": 13.837866,
+          "confidence": 0.9999901
+        },
+        {
+          "word": "home",
+          "start": 13.837866,
+          "end": 14.183811,
+          "confidence": 0.9999913
+        },
+        {
+          "word": "with",
+          "start": 14.183811,
+          "end": 14.529758,
+          "confidence": 0.99954754
+        },
+        {
+          "word": "her",
+          "start": 14.529758,
+          "end": 14.875706,
+          "confidence": 0.9999927
+        },
+        {
+          "word": "to",
+          "start": 14.875706,
+          "end": 15.221651,
+          "confidence": 0.99990284
+        },
+        {
+          "word": "meet",
+          "start": 15.221651,
+          "end": 15.567598,
+          "confidence": 0.99992263
+        },
+        {
+          "word": "her",
+          "start": 15.567598,
+          "end": 16.00003,
+          "confidence": 0.9999013
+        },
+        {
+          "word": "parents.",
+          "start": 16.00003,
+          "end": 16.605438,
+          "confidence": 0.98792714
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_approximate",
+  "words": [
+    {
+      "word": "Rick,",
+      "start": 0.0,
+      "end": 0.86486655,
+      "confidence": 0.99651
+    },
+    {
+      "word": "the",
+      "start": 0.86486655,
+      "end": 1.3837864,
+      "confidence": 0.9998128
+    },
+    {
+      "word": "way",
+      "start": 1.3837864,
+      "end": 1.7297332,
+      "confidence": 0.9999865
+    },
+    {
+      "word": "I",
+      "start": 1.7297332,
+      "end": 2.0756798,
+      "confidence": 0.9999838
+    },
+    {
+      "word": "got",
+      "start": 2.0756798,
+      "end": 2.4216266,
+      "confidence": 0.9998739
+    },
+    {
+      "word": "into",
+      "start": 2.4216266,
+      "end": 2.8540597,
+      "confidence": 0.99997103
+    },
+    {
+      "word": "smoking",
+      "start": 2.8540597,
+      "end": 3.5459528,
+      "confidence": 0.99988854
+    },
+    {
+      "word": "Stogies",
+      "start": 3.5459528,
+      "end": 4.3243327,
+      "confidence": 0.43717
+    },
+    {
+      "word": "is",
+      "start": 4.3243327,
+      "end": 4.843253,
+      "confidence": 0.9953122
+    },
+    {
+      "word": "very",
+      "start": 4.843253,
+      "end": 5.2756863,
+      "confidence": 0.99998677
+    },
+    {
+      "word": "simple.",
+      "start": 5.2756863,
+      "end": 5.794606,
+      "confidence": 0.99956375
+    },
+    {
+      "word": "I",
+      "start": 5.794606,
+      "end": 6.2270393,
+      "confidence": 0.99999404
+    },
+    {
+      "word": "went",
+      "start": 6.2270393,
+      "end": 6.5729856,
+      "confidence": 0.99999547
+    },
+    {
+      "word": "home",
+      "start": 6.5729856,
+      "end": 6.918933,
+      "confidence": 0.99999654
+    },
+    {
+      "word": "with",
+      "start": 6.918933,
+      "end": 7.351366,
+      "confidence": 0.9999789
+    },
+    {
+      "word": "Maria",
+      "start": 7.351366,
+      "end": 7.870286,
+      "confidence": 0.99993086
+    },
+    {
+      "word": "in",
+      "start": 7.870286,
+      "end": 8.389206,
+      "confidence": 0.9999511
+    },
+    {
+      "word": "1977",
+      "start": 8.389206,
+      "end": 8.908126,
+      "confidence": 0.9940068
+    },
+    {
+      "word": "when",
+      "start": 8.908126,
+      "end": 9.340559,
+      "confidence": 0.9996082
+    },
+    {
+      "word": "I",
+      "start": 9.340559,
+      "end": 9.686506,
+      "confidence": 0.99998605
+    },
+    {
+      "word": "met",
+      "start": 9.686506,
+      "end": 10.032452,
+      "confidence": 0.9999794
+    },
+    {
+      "word": "her",
+      "start": 10.032452,
+      "end": 10.378399,
+      "confidence": 0.9999809
+    },
+    {
+      "word": "at",
+      "start": 10.378399,
+      "end": 10.724346,
+      "confidence": 0.99854267
+    },
+    {
+      "word": "the",
+      "start": 10.724346,
+      "end": 11.156778,
+      "confidence": 0.99871385
+    },
+    {
+      "word": "tennis",
+      "start": 11.156778,
+      "end": 11.935159,
+      "confidence": 0.99987817
+    },
+    {
+      "word": "tournament.",
+      "start": 11.935159,
+      "end": 12.886512,
+      "confidence": 0.9929691
+    },
+    {
+      "word": "I",
+      "start": 12.886512,
+      "end": 13.491919,
+      "confidence": 0.9998555
+    },
+    {
+      "word": "went",
+      "start": 13.491919,
+      "end": 13.837866,
+      "confidence": 0.9999901
+    },
+    {
+      "word": "home",
+      "start": 13.837866,
+      "end": 14.183811,
+      "confidence": 0.9999913
+    },
+    {
+      "word": "with",
+      "start": 14.183811,
+      "end": 14.529758,
+      "confidence": 0.99954754
+    },
+    {
+      "word": "her",
+      "start": 14.529758,
+      "end": 14.875706,
+      "confidence": 0.9999927
+    },
+    {
+      "word": "to",
+      "start": 14.875706,
+      "end": 15.221651,
+      "confidence": 0.99990284
+    },
+    {
+      "word": "meet",
+      "start": 15.221651,
+      "end": 15.567598,
+      "confidence": 0.99992263
+    },
+    {
+      "word": "her",
+      "start": 15.567598,
+      "end": 16.00003,
+      "confidence": 0.9999013
+    },
+    {
+      "word": "parents.",
+      "start": 16.00003,
+      "end": 16.605438,
+      "confidence": 0.98792714
+    }
+  ]
+}

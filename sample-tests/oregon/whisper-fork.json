@@ -1,0 +1,1036 @@
+{
+  "duration": 56.73169,
+  "text": "This music is so good! The trail journal of Violet You're a surveyor who has come to independence in 1843 for the purpose of setting off on a journey west to Oregon City. You've already bought a large farm wagon, but you still need to buy the other supplies you'll need for your journey. Hey, what's up bud? So long. Alright. Oh. Howdy! Howdy! Howdy! Who's this guy? Howdy! Howdy! Howdy! Ahhhh!",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 25.35,
+      "text": "This music is so good! The trail journal of Violet",
+      "words": [
+        {
+          "word": "This",
+          "start": 5.32,
+          "end": 5.6054997,
+          "confidence": 0.24686418
+        },
+        {
+          "word": "music",
+          "start": 5.4055,
+          "end": 5.8089995,
+          "confidence": 0.9788795
+        },
+        {
+          "word": "is",
+          "start": 5.6089997,
+          "end": 6.0559993,
+          "confidence": 0.9963404
+        },
+        {
+          "word": "so",
+          "start": 5.8559995,
+          "end": 6.3629994,
+          "confidence": 0.9827435
+        },
+        {
+          "word": "good!",
+          "start": 6.1629996,
+          "end": 7.8629994,
+          "confidence": 0.7486025
+        },
+        {
+          "word": "The",
+          "start": 12.767,
+          "end": 14.467001,
+          "confidence": 0.080765344
+        },
+        {
+          "word": "trail",
+          "start": 20.772,
+          "end": 21.395,
+          "confidence": 0.6605638
+        },
+        {
+          "word": "journal",
+          "start": 21.195,
+          "end": 21.94,
+          "confidence": 0.7941872
+        },
+        {
+          "word": "of",
+          "start": 21.74,
+          "end": 23.008001,
+          "confidence": 0.9882555
+        },
+        {
+          "word": "Violet",
+          "start": 22.808,
+          "end": 24.508001,
+          "confidence": 0.6628801
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 25.35,
+      "end": 56.73169,
+      "text": "You're a surveyor who has come to independence in 1843 for the purpose of setting off on a journey west to Oregon City. You've already bought a large farm wagon, but you still need to buy the other supplies you'll need for your journey. Hey, what's up bud? So long. Alright. Oh. Howdy! Howdy! Howdy! Who's this guy? Howdy! Howdy! Howdy! Ahhhh!",
+      "words": [
+        {
+          "word": "You're",
+          "start": 25.470001,
+          "end": 25.868
+        },
+        {
+          "word": "a",
+          "start": 25.668001,
+          "end": 26.162
+        },
+        {
+          "word": "surveyor",
+          "start": 25.962,
+          "end": 26.459
+        },
+        {
+          "word": "who",
+          "start": 26.259,
+          "end": 26.652
+        },
+        {
+          "word": "has",
+          "start": 26.452,
+          "end": 26.803
+        },
+        {
+          "word": "come",
+          "start": 26.603,
+          "end": 26.979
+        },
+        {
+          "word": "to",
+          "start": 26.779001,
+          "end": 27.217001
+        },
+        {
+          "word": "independence",
+          "start": 27.017,
+          "end": 27.495
+        },
+        {
+          "word": "in",
+          "start": 27.295,
+          "end": 27.849
+        },
+        {
+          "word": "1843",
+          "start": 27.649,
+          "end": 28.296
+        },
+        {
+          "word": "for",
+          "start": 28.096,
+          "end": 28.596
+        },
+        {
+          "word": "the",
+          "start": 28.396,
+          "end": 28.766
+        },
+        {
+          "word": "purpose",
+          "start": 28.566,
+          "end": 28.992
+        },
+        {
+          "word": "of",
+          "start": 28.792,
+          "end": 29.206
+        },
+        {
+          "word": "setting",
+          "start": 29.006,
+          "end": 29.468
+        },
+        {
+          "word": "off",
+          "start": 29.268,
+          "end": 29.69
+        },
+        {
+          "word": "on",
+          "start": 29.49,
+          "end": 29.836
+        },
+        {
+          "word": "a",
+          "start": 29.636,
+          "end": 29.987999
+        },
+        {
+          "word": "journey",
+          "start": 29.788,
+          "end": 30.282
+        },
+        {
+          "word": "west",
+          "start": 30.082,
+          "end": 30.605999
+        },
+        {
+          "word": "to",
+          "start": 30.406,
+          "end": 30.895
+        },
+        {
+          "word": "Oregon",
+          "start": 30.695,
+          "end": 31.2535
+        },
+        {
+          "word": "City.",
+          "start": 31.053501,
+          "end": 31.41
+        },
+        {
+          "word": "You've",
+          "start": 31.83,
+          "end": 32.195
+        },
+        {
+          "word": "already",
+          "start": 31.995,
+          "end": 32.477
+        },
+        {
+          "word": "bought",
+          "start": 32.277,
+          "end": 32.692
+        },
+        {
+          "word": "a",
+          "start": 32.492,
+          "end": 32.878998
+        },
+        {
+          "word": "large",
+          "start": 32.679,
+          "end": 33.135002
+        },
+        {
+          "word": "farm",
+          "start": 32.934998,
+          "end": 33.475502
+        },
+        {
+          "word": "wagon,",
+          "start": 33.275497,
+          "end": 33.7575
+        },
+        {
+          "word": "but",
+          "start": 33.5575,
+          "end": 33.894
+        },
+        {
+          "word": "you",
+          "start": 33.694,
+          "end": 34.023
+        },
+        {
+          "word": "still",
+          "start": 33.822998,
+          "end": 34.190002
+        },
+        {
+          "word": "need",
+          "start": 33.989998,
+          "end": 34.336
+        },
+        {
+          "word": "to",
+          "start": 34.136,
+          "end": 34.434
+        },
+        {
+          "word": "buy",
+          "start": 34.234,
+          "end": 34.563
+        },
+        {
+          "word": "the",
+          "start": 34.363,
+          "end": 34.703
+        },
+        {
+          "word": "other",
+          "start": 34.503,
+          "end": 34.942
+        },
+        {
+          "word": "supplies",
+          "start": 34.742,
+          "end": 35.275
+        },
+        {
+          "word": "you'll",
+          "start": 35.074997,
+          "end": 35.53
+        },
+        {
+          "word": "need",
+          "start": 35.329998,
+          "end": 35.703
+        },
+        {
+          "word": "for",
+          "start": 35.503,
+          "end": 35.843002
+        },
+        {
+          "word": "your",
+          "start": 35.642998,
+          "end": 36.145
+        },
+        {
+          "word": "journey.",
+          "start": 35.945,
+          "end": 36.27
+        },
+        {
+          "word": "Hey,",
+          "start": 38.61,
+          "end": 39.252
+        },
+        {
+          "word": "what's",
+          "start": 39.396,
+          "end": 39.968002
+        },
+        {
+          "word": "up",
+          "start": 39.767998,
+          "end": 40.9685
+        },
+        {
+          "word": "bud?",
+          "start": 40.7685,
+          "end": 42.4685
+        },
+        {
+          "word": "So",
+          "start": 42.5905,
+          "end": 44.2905
+        },
+        {
+          "word": "long.",
+          "start": 44.1455,
+          "end": 45.767
+        },
+        {
+          "word": "Alright.",
+          "start": 45.567,
+          "end": 46.718502
+        },
+        {
+          "word": "Oh.",
+          "start": 46.5185,
+          "end": 47.584
+        },
+        {
+          "word": "Howdy!",
+          "start": 48.129997,
+          "end": 48.873
+        },
+        {
+          "word": "Howdy!",
+          "start": 48.672997,
+          "end": 49.68467
+        },
+        {
+          "word": "Howdy!",
+          "start": 49.484665,
+          "end": 50.36
+        },
+        {
+          "word": "Who's",
+          "start": 50.16,
+          "end": 50.881
+        },
+        {
+          "word": "this",
+          "start": 50.681,
+          "end": 51.083504
+        },
+        {
+          "word": "guy?",
+          "start": 50.8835,
+          "end": 51.4
+        },
+        {
+          "word": "Howdy!",
+          "start": 51.2455,
+          "end": 51.4
+        },
+        {
+          "word": "Howdy!",
+          "start": 51.4,
+          "end": 51.4
+        },
+        {
+          "word": "Howdy!",
+          "start": 51.4,
+          "end": 51.4
+        },
+        {
+          "word": "Howdy",
+          "start": 51.4,
+          "end": 51.4
+        },
+        {
+          "word": "Howdy!",
+          "start": 51.120003,
+          "end": 52.16467,
+          "confidence": 0.8290542
+        },
+        {
+          "word": "Howdy!",
+          "start": 51.96467,
+          "end": 53.66467,
+          "confidence": 0.82427806
+        },
+        {
+          "word": "Ahhhh!",
+          "start": 54.145336,
+          "end": 55.845333,
+          "confidence": 0.29377103
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 5.32,
+      "end": 7.8629994,
+      "text": "This music is so good!",
+      "words": [
+        {
+          "word": "This",
+          "start": 5.32,
+          "end": 5.6054997,
+          "confidence": 0.24686418
+        },
+        {
+          "word": "music",
+          "start": 5.4055,
+          "end": 5.8089995,
+          "confidence": 0.9788795
+        },
+        {
+          "word": "is",
+          "start": 5.6089997,
+          "end": 6.0559993,
+          "confidence": 0.9963404
+        },
+        {
+          "word": "so",
+          "start": 5.8559995,
+          "end": 6.3629994,
+          "confidence": 0.9827435
+        },
+        {
+          "word": "good!",
+          "start": 6.1629996,
+          "end": 7.8629994,
+          "confidence": 0.7486025
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 12.767,
+      "end": 14.467001,
+      "text": "The",
+      "words": [
+        {
+          "word": "The",
+          "start": 12.767,
+          "end": 14.467001,
+          "confidence": 0.080765344
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 20.772,
+      "end": 24.508001,
+      "text": "trail journal of Violet",
+      "words": [
+        {
+          "word": "trail",
+          "start": 20.772,
+          "end": 21.395,
+          "confidence": 0.6605638
+        },
+        {
+          "word": "journal",
+          "start": 21.195,
+          "end": 21.94,
+          "confidence": 0.7941872
+        },
+        {
+          "word": "of",
+          "start": 21.74,
+          "end": 23.008001,
+          "confidence": 0.9882555
+        },
+        {
+          "word": "Violet",
+          "start": 22.808,
+          "end": 24.508001,
+          "confidence": 0.6628801
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 25.35,
+      "end": 30.042236,
+      "text": "You're a surveyor who has come to independence in 1843 for"
+    },
+    {
+      "id": 4,
+      "start": 30.123138,
+      "end": 34.977173,
+      "text": "the purpose of setting off on a journey west to Oregon City."
+    },
+    {
+      "id": 5,
+      "start": 35.058075,
+      "end": 38.375,
+      "text": "You've already bought a large farm wagon,"
+    },
+    {
+      "id": 6,
+      "start": 38.455902,
+      "end": 44.44255,
+      "text": "but you still need to buy the other supplies you'll need for your journey."
+    },
+    {
+      "id": 7,
+      "start": 44.52345,
+      "end": 46.060562,
+      "text": "Hey, what's up bud?"
+    },
+    {
+      "id": 8,
+      "start": 46.14146,
+      "end": 46.788666,
+      "text": "So long."
+    },
+    {
+      "id": 9,
+      "start": 46.869568,
+      "end": 47.51677,
+      "text": "Alright."
+    },
+    {
+      "id": 10,
+      "start": 47.59767,
+      "end": 47.840374,
+      "text": "Oh."
+    },
+    {
+      "id": 11,
+      "start": 47.921272,
+      "end": 48.406677,
+      "text": "Howdy!"
+    },
+    {
+      "id": 12,
+      "start": 48.48758,
+      "end": 48.972984,
+      "text": "Howdy!"
+    },
+    {
+      "id": 13,
+      "start": 49.053883,
+      "end": 49.539284,
+      "text": "Howdy!"
+    },
+    {
+      "id": 14,
+      "start": 49.620186,
+      "end": 50.833694,
+      "text": "Who's this guy?"
+    },
+    {
+      "id": 15,
+      "start": 50.914597,
+      "end": 51.4,
+      "text": "Howdy!"
+    },
+    {
+      "id": 16,
+      "start": 51.4,
+      "end": 51.96467,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 51.120003,
+          "end": 52.16467,
+          "confidence": 0.8290542
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 51.96467,
+      "end": 53.66467,
+      "text": "Howdy!",
+      "words": [
+        {
+          "word": "Howdy!",
+          "start": 51.96467,
+          "end": 53.66467,
+          "confidence": 0.82427806
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 54.145336,
+      "end": 55.845333,
+      "text": "Ahhhh!",
+      "words": [
+        {
+          "word": "Ahhhh!",
+          "start": 54.145336,
+          "end": 55.845333,
+          "confidence": 0.29377103
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_approximate",
+  "words": [
+    {
+      "word": "This",
+      "start": 5.32,
+      "end": 5.6054997,
+      "confidence": 0.24686418
+    },
+    {
+      "word": "music",
+      "start": 5.4055,
+      "end": 5.8089995,
+      "confidence": 0.9788795
+    },
+    {
+      "word": "is",
+      "start": 5.6089997,
+      "end": 6.0559993,
+      "confidence": 0.9963404
+    },
+    {
+      "word": "so",
+      "start": 5.8559995,
+      "end": 6.3629994,
+      "confidence": 0.9827435
+    },
+    {
+      "word": "good!",
+      "start": 6.1629996,
+      "end": 7.8629994,
+      "confidence": 0.7486025
+    },
+    {
+      "word": "The",
+      "start": 12.767,
+      "end": 14.467001,
+      "confidence": 0.080765344
+    },
+    {
+      "word": "trail",
+      "start": 20.772,
+      "end": 21.395,
+      "confidence": 0.6605638
+    },
+    {
+      "word": "journal",
+      "start": 21.195,
+      "end": 21.94,
+      "confidence": 0.7941872
+    },
+    {
+      "word": "of",
+      "start": 21.74,
+      "end": 23.008001,
+      "confidence": 0.9882555
+    },
+    {
+      "word": "Violet",
+      "start": 22.808,
+      "end": 24.508001,
+      "confidence": 0.6628801
+    },
+    {
+      "word": "You're",
+      "start": 25.470001,
+      "end": 25.868
+    },
+    {
+      "word": "a",
+      "start": 25.668001,
+      "end": 26.162
+    },
+    {
+      "word": "surveyor",
+      "start": 25.962,
+      "end": 26.459
+    },
+    {
+      "word": "who",
+      "start": 26.259,
+      "end": 26.652
+    },
+    {
+      "word": "has",
+      "start": 26.452,
+      "end": 26.803
+    },
+    {
+      "word": "come",
+      "start": 26.603,
+      "end": 26.979
+    },
+    {
+      "word": "to",
+      "start": 26.779001,
+      "end": 27.217001
+    },
+    {
+      "word": "independence",
+      "start": 27.017,
+      "end": 27.495
+    },
+    {
+      "word": "in",
+      "start": 27.295,
+      "end": 27.849
+    },
+    {
+      "word": "1843",
+      "start": 27.649,
+      "end": 28.296
+    },
+    {
+      "word": "for",
+      "start": 28.096,
+      "end": 28.596
+    },
+    {
+      "word": "the",
+      "start": 28.396,
+      "end": 28.766
+    },
+    {
+      "word": "purpose",
+      "start": 28.566,
+      "end": 28.992
+    },
+    {
+      "word": "of",
+      "start": 28.792,
+      "end": 29.206
+    },
+    {
+      "word": "setting",
+      "start": 29.006,
+      "end": 29.468
+    },
+    {
+      "word": "off",
+      "start": 29.268,
+      "end": 29.69
+    },
+    {
+      "word": "on",
+      "start": 29.49,
+      "end": 29.836
+    },
+    {
+      "word": "a",
+      "start": 29.636,
+      "end": 29.987999
+    },
+    {
+      "word": "journey",
+      "start": 29.788,
+      "end": 30.282
+    },
+    {
+      "word": "west",
+      "start": 30.082,
+      "end": 30.605999
+    },
+    {
+      "word": "to",
+      "start": 30.406,
+      "end": 30.895
+    },
+    {
+      "word": "Oregon",
+      "start": 30.695,
+      "end": 31.2535
+    },
+    {
+      "word": "City.",
+      "start": 31.053501,
+      "end": 31.41
+    },
+    {
+      "word": "You've",
+      "start": 31.83,
+      "end": 32.195
+    },
+    {
+      "word": "already",
+      "start": 31.995,
+      "end": 32.477
+    },
+    {
+      "word": "bought",
+      "start": 32.277,
+      "end": 32.692
+    },
+    {
+      "word": "a",
+      "start": 32.492,
+      "end": 32.878998
+    },
+    {
+      "word": "large",
+      "start": 32.679,
+      "end": 33.135002
+    },
+    {
+      "word": "farm",
+      "start": 32.934998,
+      "end": 33.475502
+    },
+    {
+      "word": "wagon,",
+      "start": 33.275497,
+      "end": 33.7575
+    },
+    {
+      "word": "but",
+      "start": 33.5575,
+      "end": 33.894
+    },
+    {
+      "word": "you",
+      "start": 33.694,
+      "end": 34.023
+    },
+    {
+      "word": "still",
+      "start": 33.822998,
+      "end": 34.190002
+    },
+    {
+      "word": "need",
+      "start": 33.989998,
+      "end": 34.336
+    },
+    {
+      "word": "to",
+      "start": 34.136,
+      "end": 34.434
+    },
+    {
+      "word": "buy",
+      "start": 34.234,
+      "end": 34.563
+    },
+    {
+      "word": "the",
+      "start": 34.363,
+      "end": 34.703
+    },
+    {
+      "word": "other",
+      "start": 34.503,
+      "end": 34.942
+    },
+    {
+      "word": "supplies",
+      "start": 34.742,
+      "end": 35.275
+    },
+    {
+      "word": "you'll",
+      "start": 35.074997,
+      "end": 35.53
+    },
+    {
+      "word": "need",
+      "start": 35.329998,
+      "end": 35.703
+    },
+    {
+      "word": "for",
+      "start": 35.503,
+      "end": 35.843002
+    },
+    {
+      "word": "your",
+      "start": 35.642998,
+      "end": 36.145
+    },
+    {
+      "word": "journey.",
+      "start": 35.945,
+      "end": 36.27
+    },
+    {
+      "word": "Hey,",
+      "start": 38.61,
+      "end": 39.252
+    },
+    {
+      "word": "what's",
+      "start": 39.396,
+      "end": 39.968002
+    },
+    {
+      "word": "up",
+      "start": 39.767998,
+      "end": 40.9685
+    },
+    {
+      "word": "bud?",
+      "start": 40.7685,
+      "end": 42.4685
+    },
+    {
+      "word": "So",
+      "start": 42.5905,
+      "end": 44.2905
+    },
+    {
+      "word": "long.",
+      "start": 44.1455,
+      "end": 45.767
+    },
+    {
+      "word": "Alright.",
+      "start": 45.567,
+      "end": 46.718502
+    },
+    {
+      "word": "Oh.",
+      "start": 46.5185,
+      "end": 47.584
+    },
+    {
+      "word": "Howdy!",
+      "start": 48.129997,
+      "end": 48.873
+    },
+    {
+      "word": "Howdy!",
+      "start": 48.672997,
+      "end": 49.68467
+    },
+    {
+      "word": "Howdy!",
+      "start": 49.484665,
+      "end": 50.36
+    },
+    {
+      "word": "Who's",
+      "start": 50.16,
+      "end": 50.881
+    },
+    {
+      "word": "this",
+      "start": 50.681,
+      "end": 51.083504
+    },
+    {
+      "word": "guy?",
+      "start": 50.8835,
+      "end": 51.4
+    },
+    {
+      "word": "Howdy!",
+      "start": 51.2455,
+      "end": 51.4
+    },
+    {
+      "word": "Howdy!",
+      "start": 51.4,
+      "end": 51.4
+    },
+    {
+      "word": "Howdy!",
+      "start": 51.4,
+      "end": 51.4
+    },
+    {
+      "word": "Howdy",
+      "start": 51.4,
+      "end": 51.4
+    },
+    {
+      "word": "Howdy!",
+      "start": 51.120003,
+      "end": 52.16467,
+      "confidence": 0.8290542
+    },
+    {
+      "word": "Howdy!",
+      "start": 51.96467,
+      "end": 53.66467,
+      "confidence": 0.82427806
+    },
+    {
+      "word": "Ahhhh!",
+      "start": 54.145336,
+      "end": 55.845333,
+      "confidence": 0.29377103
+    }
+  ],
+  "longform": {
+    "chunk_count": 3,
+    "skipped_silent_chunks": 0,
+    "duplicate_merge_count": 0,
+    "provenance": [
+      "core.longform.plan:auto",
+      "core.longform.slice-kind:energy",
+      "core.longform.timeline:identity",
+      "core.native.backend:gpu",
+      "core.longform.assembler",
+      "core.native.ggml",
+      "core.native.longform.policy:invocation-span-cap=30",
+      "core.native.longform.policy:whisper-xattn-dtw-no-padding",
+      "core.native.longform.policy:whisper-window=27",
+      "core.longform.auto.disqualified:energy-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=6.33:audible_window_s=8.96-9.46:peak_dbfs=-42.9:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.disqualified:vad-identity:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=3.81:audible_window_s=24.20-24.70:peak_dbfs=-40.0:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.selected:energy-identity:score=1118679:processed_samples=923707:chunks=3:short_penalty=122693:boundary_penalty=279:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=72000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[0]:energy-identity:score=1118679:processed_samples=923707:chunks=3:short_penalty=122693:boundary_penalty=279:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=72000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[1]:fixed-identity:score=1164018:processed_samples=923707:chunks=3:short_penalty=156293:boundary_penalty=3018:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=72000:stability_bias=9000:contextual_credit=0:contextual_penalty=0",
+      "core.native.vad.engine:firered-stream-gpu",
+      "core.native.decode.truncated:slices=2@?:degenerate-repeat-guard"
+    ]
+  },
+  "truncated": [
+    {
+      "slice": 2,
+      "reason": "degenerate-repeat-guard"
+    }
+  ]
+}

@@ -1,0 +1,1626 @@
+{
+  "duration": 537.0453,
+  "text": "Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music Music",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.925,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 0.0,
+          "end": 29.925,
+          "confidence": 0.21085533
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 29.925,
+      "end": 59.35,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 29.35,
+          "end": 59.35,
+          "confidence": 0.6034916
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 59.35,
+      "end": 85.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 58.4,
+          "end": 85.65,
+          "confidence": 0.9507573
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 85.65,
+      "end": 113.9,
+      "text": "Music Music"
+    },
+    {
+      "id": 4,
+      "start": 141.75,
+      "end": 171.1,
+      "text": "Music Music"
+    },
+    {
+      "id": 5,
+      "start": 171.1,
+      "end": 199.75,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 187.09846,
+          "end": 199.75,
+          "confidence": 0.50621986
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 199.75,
+      "end": 228.75,
+      "text": "Music Music"
+    },
+    {
+      "id": 7,
+      "start": 228.75,
+      "end": 253.55,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 243.24637,
+          "end": 253.55,
+          "confidence": 0.57125854
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 253.55,
+      "end": 282.1,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 252.55,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.52344
+        },
+        {
+          "word": "Music",
+          "start": 266.52344,
+          "end": 266.62424
+        },
+        {
+          "word": "Music",
+          "start": 266.62424,
+          "end": 266.74564
+        },
+        {
+          "word": "Music",
+          "start": 266.74564,
+          "end": 282.1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 282.1,
+      "end": 309.55002,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 281.1,
+          "end": 300.3279
+        },
+        {
+          "word": "Music",
+          "start": 300.3279,
+          "end": 300.4063
+        },
+        {
+          "word": "Music",
+          "start": 300.4063,
+          "end": 300.4224
+        },
+        {
+          "word": "Music",
+          "start": 300.4224,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 309.55002
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 309.55002,
+      "end": 338.5,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 308.55,
+          "end": 321.55063
+        },
+        {
+          "word": "Music",
+          "start": 321.55063,
+          "end": 321.7754
+        },
+        {
+          "word": "Music",
+          "start": 321.7754,
+          "end": 321.93152
+        },
+        {
+          "word": "Music",
+          "start": 321.93152,
+          "end": 322.0715
+        },
+        {
+          "word": "Music",
+          "start": 322.0715,
+          "end": 322.21756
+        },
+        {
+          "word": "Music",
+          "start": 322.21756,
+          "end": 322.3465
+        },
+        {
+          "word": "Music",
+          "start": 322.3465,
+          "end": 338.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 338.5,
+      "end": 363.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 337.5,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 363.65
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 363.65,
+      "end": 390.9,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 362.65,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.92337
+        },
+        {
+          "word": "Music",
+          "start": 377.92337,
+          "end": 378.00723
+        },
+        {
+          "word": "Music",
+          "start": 378.00723,
+          "end": 390.9
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 390.9,
+      "end": 417.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 389.9,
+          "end": 405.17548
+        },
+        {
+          "word": "Music",
+          "start": 405.17548,
+          "end": 405.22083
+        },
+        {
+          "word": "Music",
+          "start": 405.22083,
+          "end": 405.24857
+        },
+        {
+          "word": "Music",
+          "start": 405.24857,
+          "end": 405.29184
+        },
+        {
+          "word": "Music",
+          "start": 405.29184,
+          "end": 405.3661
+        },
+        {
+          "word": "Music",
+          "start": 405.3661,
+          "end": 405.50034
+        },
+        {
+          "word": "Music",
+          "start": 405.50034,
+          "end": 417.65
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 417.65,
+      "end": 443.0,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 416.65,
+          "end": 433.3402
+        },
+        {
+          "word": "Music",
+          "start": 433.3402,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.39404
+        },
+        {
+          "word": "Music",
+          "start": 433.39404,
+          "end": 433.41898
+        },
+        {
+          "word": "Music",
+          "start": 433.41898,
+          "end": 443.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 443.0,
+      "end": 467.85,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 442.0,
+          "end": 459.1867
+        },
+        {
+          "word": "Music",
+          "start": 459.1867,
+          "end": 459.20322
+        },
+        {
+          "word": "Music",
+          "start": 459.20322,
+          "end": 459.20566
+        },
+        {
+          "word": "Music",
+          "start": 459.20566,
+          "end": 459.2245
+        },
+        {
+          "word": "Music",
+          "start": 459.2245,
+          "end": 459.24777
+        },
+        {
+          "word": "Music",
+          "start": 459.24777,
+          "end": 459.2588
+        },
+        {
+          "word": "Music",
+          "start": 459.2588,
+          "end": 467.85
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 467.85,
+      "end": 495.30002,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 466.85,
+          "end": 483.21042
+        },
+        {
+          "word": "Music",
+          "start": 483.21042,
+          "end": 483.3166
+        },
+        {
+          "word": "Music",
+          "start": 483.3166,
+          "end": 483.42847
+        },
+        {
+          "word": "Music",
+          "start": 483.42847,
+          "end": 483.53702
+        },
+        {
+          "word": "Music",
+          "start": 483.53702,
+          "end": 483.63394
+        },
+        {
+          "word": "Music",
+          "start": 483.63394,
+          "end": 483.72845
+        },
+        {
+          "word": "Music",
+          "start": 483.72845,
+          "end": 495.30002
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 495.30002,
+      "end": 537.0453,
+      "text": "Music Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 494.3,
+          "end": 514.3565
+        },
+        {
+          "word": "Music",
+          "start": 514.3565,
+          "end": 514.4267
+        },
+        {
+          "word": "Music",
+          "start": 514.4267,
+          "end": 514.46655
+        },
+        {
+          "word": "Music",
+          "start": 514.46655,
+          "end": 514.4857
+        },
+        {
+          "word": "Music",
+          "start": 514.4857,
+          "end": 514.51465
+        },
+        {
+          "word": "Music",
+          "start": 514.51465,
+          "end": 514.54675
+        },
+        {
+          "word": "Music",
+          "start": 514.54675,
+          "end": 522.05
+        },
+        {
+          "word": "Music",
+          "start": 521.05,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 537.0453
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.925,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 0.0,
+          "end": 29.925,
+          "confidence": 0.21085533
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 29.925,
+      "end": 59.35,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 29.35,
+          "end": 59.35,
+          "confidence": 0.6034916
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 59.35,
+      "end": 85.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 58.4,
+          "end": 85.65,
+          "confidence": 0.9507573
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 85.65,
+      "end": 98.49091,
+      "text": "Music"
+    },
+    {
+      "id": 4,
+      "start": 101.05909,
+      "end": 113.9,
+      "text": "Music"
+    },
+    {
+      "id": 5,
+      "start": 141.75,
+      "end": 155.09091,
+      "text": "Music"
+    },
+    {
+      "id": 6,
+      "start": 157.7591,
+      "end": 171.1,
+      "text": "Music"
+    },
+    {
+      "id": 7,
+      "start": 171.1,
+      "end": 199.75,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 187.09846,
+          "end": 199.75,
+          "confidence": 0.50621986
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 199.75,
+      "end": 212.93182,
+      "text": "Music"
+    },
+    {
+      "id": 9,
+      "start": 215.56818,
+      "end": 228.75,
+      "text": "Music"
+    },
+    {
+      "id": 10,
+      "start": 228.75,
+      "end": 253.55,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 243.24637,
+          "end": 253.55,
+          "confidence": 0.57125854
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 253.55,
+      "end": 282.1,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 252.55,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.47955
+        },
+        {
+          "word": "Music",
+          "start": 266.47955,
+          "end": 266.52344
+        },
+        {
+          "word": "Music",
+          "start": 266.52344,
+          "end": 266.62424
+        },
+        {
+          "word": "Music",
+          "start": 266.62424,
+          "end": 266.74564
+        },
+        {
+          "word": "Music",
+          "start": 266.74564,
+          "end": 282.1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 282.1,
+      "end": 309.55002,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 281.1,
+          "end": 300.3279
+        },
+        {
+          "word": "Music",
+          "start": 300.3279,
+          "end": 300.4063
+        },
+        {
+          "word": "Music",
+          "start": 300.4063,
+          "end": 300.4224
+        },
+        {
+          "word": "Music",
+          "start": 300.4224,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 300.42288
+        },
+        {
+          "word": "Music",
+          "start": 300.42288,
+          "end": 309.55002
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 309.55002,
+      "end": 338.5,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 308.55,
+          "end": 321.55063
+        },
+        {
+          "word": "Music",
+          "start": 321.55063,
+          "end": 321.7754
+        },
+        {
+          "word": "Music",
+          "start": 321.7754,
+          "end": 321.93152
+        },
+        {
+          "word": "Music",
+          "start": 321.93152,
+          "end": 322.0715
+        },
+        {
+          "word": "Music",
+          "start": 322.0715,
+          "end": 322.21756
+        },
+        {
+          "word": "Music",
+          "start": 322.21756,
+          "end": 322.3465
+        },
+        {
+          "word": "Music",
+          "start": 322.3465,
+          "end": 338.5
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 338.5,
+      "end": 363.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 337.5,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 353.1182
+        },
+        {
+          "word": "Music",
+          "start": 353.1182,
+          "end": 363.65
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 363.65,
+      "end": 390.9,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 362.65,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.8826
+        },
+        {
+          "word": "Music",
+          "start": 377.8826,
+          "end": 377.92337
+        },
+        {
+          "word": "Music",
+          "start": 377.92337,
+          "end": 378.00723
+        },
+        {
+          "word": "Music",
+          "start": 378.00723,
+          "end": 390.9
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 390.9,
+      "end": 417.65,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 389.9,
+          "end": 405.17548
+        },
+        {
+          "word": "Music",
+          "start": 405.17548,
+          "end": 405.22083
+        },
+        {
+          "word": "Music",
+          "start": 405.22083,
+          "end": 405.24857
+        },
+        {
+          "word": "Music",
+          "start": 405.24857,
+          "end": 405.29184
+        },
+        {
+          "word": "Music",
+          "start": 405.29184,
+          "end": 405.3661
+        },
+        {
+          "word": "Music",
+          "start": 405.3661,
+          "end": 405.50034
+        },
+        {
+          "word": "Music",
+          "start": 405.50034,
+          "end": 417.65
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 417.65,
+      "end": 443.0,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 416.65,
+          "end": 433.3402
+        },
+        {
+          "word": "Music",
+          "start": 433.3402,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.36957
+        },
+        {
+          "word": "Music",
+          "start": 433.36957,
+          "end": 433.39404
+        },
+        {
+          "word": "Music",
+          "start": 433.39404,
+          "end": 433.41898
+        },
+        {
+          "word": "Music",
+          "start": 433.41898,
+          "end": 443.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 443.0,
+      "end": 467.85,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 442.0,
+          "end": 459.1867
+        },
+        {
+          "word": "Music",
+          "start": 459.1867,
+          "end": 459.20322
+        },
+        {
+          "word": "Music",
+          "start": 459.20322,
+          "end": 459.20566
+        },
+        {
+          "word": "Music",
+          "start": 459.20566,
+          "end": 459.2245
+        },
+        {
+          "word": "Music",
+          "start": 459.2245,
+          "end": 459.24777
+        },
+        {
+          "word": "Music",
+          "start": 459.24777,
+          "end": 459.2588
+        },
+        {
+          "word": "Music",
+          "start": 459.2588,
+          "end": 467.85
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 467.85,
+      "end": 495.30002,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 466.85,
+          "end": 483.21042
+        },
+        {
+          "word": "Music",
+          "start": 483.21042,
+          "end": 483.3166
+        },
+        {
+          "word": "Music",
+          "start": 483.3166,
+          "end": 483.42847
+        },
+        {
+          "word": "Music",
+          "start": 483.42847,
+          "end": 483.53702
+        },
+        {
+          "word": "Music",
+          "start": 483.53702,
+          "end": 483.63394
+        },
+        {
+          "word": "Music",
+          "start": 483.63394,
+          "end": 483.72845
+        },
+        {
+          "word": "Music",
+          "start": 483.72845,
+          "end": 495.30002
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 495.30002,
+      "end": 522.05,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 494.3,
+          "end": 514.3565
+        },
+        {
+          "word": "Music",
+          "start": 514.3565,
+          "end": 514.4267
+        },
+        {
+          "word": "Music",
+          "start": 514.4267,
+          "end": 514.46655
+        },
+        {
+          "word": "Music",
+          "start": 514.46655,
+          "end": 514.4857
+        },
+        {
+          "word": "Music",
+          "start": 514.4857,
+          "end": 514.51465
+        },
+        {
+          "word": "Music",
+          "start": 514.51465,
+          "end": 514.54675
+        },
+        {
+          "word": "Music",
+          "start": 514.54675,
+          "end": 522.05
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 522.05,
+      "end": 536.7953,
+      "text": "Music",
+      "words": [
+        {
+          "word": "Music",
+          "start": 521.05,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 530.8166
+        },
+        {
+          "word": "Music",
+          "start": 530.8166,
+          "end": 537.0453
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_approximate",
+  "words": [
+    {
+      "word": "Music",
+      "start": 0.0,
+      "end": 29.925,
+      "confidence": 0.21085533
+    },
+    {
+      "word": "Music",
+      "start": 29.35,
+      "end": 59.35,
+      "confidence": 0.6034916
+    },
+    {
+      "word": "Music",
+      "start": 58.4,
+      "end": 85.65,
+      "confidence": 0.9507573
+    },
+    {
+      "word": "Music",
+      "start": 187.09846,
+      "end": 199.75,
+      "confidence": 0.50621986
+    },
+    {
+      "word": "Music",
+      "start": 243.24637,
+      "end": 253.55,
+      "confidence": 0.57125854
+    },
+    {
+      "word": "Music",
+      "start": 252.55,
+      "end": 266.47955
+    },
+    {
+      "word": "Music",
+      "start": 266.47955,
+      "end": 266.47955
+    },
+    {
+      "word": "Music",
+      "start": 266.47955,
+      "end": 266.47955
+    },
+    {
+      "word": "Music",
+      "start": 266.47955,
+      "end": 266.52344
+    },
+    {
+      "word": "Music",
+      "start": 266.52344,
+      "end": 266.62424
+    },
+    {
+      "word": "Music",
+      "start": 266.62424,
+      "end": 266.74564
+    },
+    {
+      "word": "Music",
+      "start": 266.74564,
+      "end": 282.1
+    },
+    {
+      "word": "Music",
+      "start": 281.1,
+      "end": 300.3279
+    },
+    {
+      "word": "Music",
+      "start": 300.3279,
+      "end": 300.4063
+    },
+    {
+      "word": "Music",
+      "start": 300.4063,
+      "end": 300.4224
+    },
+    {
+      "word": "Music",
+      "start": 300.4224,
+      "end": 300.42288
+    },
+    {
+      "word": "Music",
+      "start": 300.42288,
+      "end": 300.42288
+    },
+    {
+      "word": "Music",
+      "start": 300.42288,
+      "end": 300.42288
+    },
+    {
+      "word": "Music",
+      "start": 300.42288,
+      "end": 309.55002
+    },
+    {
+      "word": "Music",
+      "start": 308.55,
+      "end": 321.55063
+    },
+    {
+      "word": "Music",
+      "start": 321.55063,
+      "end": 321.7754
+    },
+    {
+      "word": "Music",
+      "start": 321.7754,
+      "end": 321.93152
+    },
+    {
+      "word": "Music",
+      "start": 321.93152,
+      "end": 322.0715
+    },
+    {
+      "word": "Music",
+      "start": 322.0715,
+      "end": 322.21756
+    },
+    {
+      "word": "Music",
+      "start": 322.21756,
+      "end": 322.3465
+    },
+    {
+      "word": "Music",
+      "start": 322.3465,
+      "end": 338.5
+    },
+    {
+      "word": "Music",
+      "start": 337.5,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 353.1182
+    },
+    {
+      "word": "Music",
+      "start": 353.1182,
+      "end": 363.65
+    },
+    {
+      "word": "Music",
+      "start": 362.65,
+      "end": 377.8826
+    },
+    {
+      "word": "Music",
+      "start": 377.8826,
+      "end": 377.8826
+    },
+    {
+      "word": "Music",
+      "start": 377.8826,
+      "end": 377.8826
+    },
+    {
+      "word": "Music",
+      "start": 377.8826,
+      "end": 377.8826
+    },
+    {
+      "word": "Music",
+      "start": 377.8826,
+      "end": 377.92337
+    },
+    {
+      "word": "Music",
+      "start": 377.92337,
+      "end": 378.00723
+    },
+    {
+      "word": "Music",
+      "start": 378.00723,
+      "end": 390.9
+    },
+    {
+      "word": "Music",
+      "start": 389.9,
+      "end": 405.17548
+    },
+    {
+      "word": "Music",
+      "start": 405.17548,
+      "end": 405.22083
+    },
+    {
+      "word": "Music",
+      "start": 405.22083,
+      "end": 405.24857
+    },
+    {
+      "word": "Music",
+      "start": 405.24857,
+      "end": 405.29184
+    },
+    {
+      "word": "Music",
+      "start": 405.29184,
+      "end": 405.3661
+    },
+    {
+      "word": "Music",
+      "start": 405.3661,
+      "end": 405.50034
+    },
+    {
+      "word": "Music",
+      "start": 405.50034,
+      "end": 417.65
+    },
+    {
+      "word": "Music",
+      "start": 416.65,
+      "end": 433.3402
+    },
+    {
+      "word": "Music",
+      "start": 433.3402,
+      "end": 433.36957
+    },
+    {
+      "word": "Music",
+      "start": 433.36957,
+      "end": 433.36957
+    },
+    {
+      "word": "Music",
+      "start": 433.36957,
+      "end": 433.36957
+    },
+    {
+      "word": "Music",
+      "start": 433.36957,
+      "end": 433.39404
+    },
+    {
+      "word": "Music",
+      "start": 433.39404,
+      "end": 433.41898
+    },
+    {
+      "word": "Music",
+      "start": 433.41898,
+      "end": 443.0
+    },
+    {
+      "word": "Music",
+      "start": 442.0,
+      "end": 459.1867
+    },
+    {
+      "word": "Music",
+      "start": 459.1867,
+      "end": 459.20322
+    },
+    {
+      "word": "Music",
+      "start": 459.20322,
+      "end": 459.20566
+    },
+    {
+      "word": "Music",
+      "start": 459.20566,
+      "end": 459.2245
+    },
+    {
+      "word": "Music",
+      "start": 459.2245,
+      "end": 459.24777
+    },
+    {
+      "word": "Music",
+      "start": 459.24777,
+      "end": 459.2588
+    },
+    {
+      "word": "Music",
+      "start": 459.2588,
+      "end": 467.85
+    },
+    {
+      "word": "Music",
+      "start": 466.85,
+      "end": 483.21042
+    },
+    {
+      "word": "Music",
+      "start": 483.21042,
+      "end": 483.3166
+    },
+    {
+      "word": "Music",
+      "start": 483.3166,
+      "end": 483.42847
+    },
+    {
+      "word": "Music",
+      "start": 483.42847,
+      "end": 483.53702
+    },
+    {
+      "word": "Music",
+      "start": 483.53702,
+      "end": 483.63394
+    },
+    {
+      "word": "Music",
+      "start": 483.63394,
+      "end": 483.72845
+    },
+    {
+      "word": "Music",
+      "start": 483.72845,
+      "end": 495.30002
+    },
+    {
+      "word": "Music",
+      "start": 494.3,
+      "end": 514.3565
+    },
+    {
+      "word": "Music",
+      "start": 514.3565,
+      "end": 514.4267
+    },
+    {
+      "word": "Music",
+      "start": 514.4267,
+      "end": 514.46655
+    },
+    {
+      "word": "Music",
+      "start": 514.46655,
+      "end": 514.4857
+    },
+    {
+      "word": "Music",
+      "start": 514.4857,
+      "end": 514.51465
+    },
+    {
+      "word": "Music",
+      "start": 514.51465,
+      "end": 514.54675
+    },
+    {
+      "word": "Music",
+      "start": 514.54675,
+      "end": 522.05
+    },
+    {
+      "word": "Music",
+      "start": 521.05,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 530.8166
+    },
+    {
+      "word": "Music",
+      "start": 530.8166,
+      "end": 537.0453
+    }
+  ],
+  "longform": {
+    "chunk_count": 20,
+    "skipped_silent_chunks": 0,
+    "duplicate_merge_count": 3,
+    "provenance": [
+      "core.longform.plan:auto",
+      "core.longform.slice-kind:energy",
+      "core.longform.timeline:identity",
+      "core.native.backend:gpu",
+      "core.longform.assembler",
+      "core.native.ggml",
+      "core.native.longform.policy:invocation-span-cap=30",
+      "core.longform.auto.disqualified:energy-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=42.47:audible_window_s=255.59-256.09:peak_dbfs=-27.0:audible_threshold_dbfs=-39.5",
+      "core.longform.auto.disqualified:vad-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=281.51:audible_window_s=0.00-0.50:peak_dbfs=-26.4:audible_threshold_dbfs=-39.5",
+      "core.longform.auto.disqualified:vad-identity:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=288.50:audible_window_s=0.00-0.50:peak_dbfs=-26.4:audible_threshold_dbfs=-39.5",
+      "core.longform.auto.selected:energy-identity:score=9672822:processed_samples=8885125:chunks=20:short_penalty=0:boundary_penalty=27697:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=760000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[0]:energy-identity:score=9672822:processed_samples=8885125:chunks=20:short_penalty=0:boundary_penalty=27697:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=760000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[1]:fixed-identity:score=9691417:processed_samples=8736725:chunks=19:short_penalty=147275:boundary_penalty=77417:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=720000:stability_bias=10000:contextual_credit=0:contextual_penalty=0",
+      "core.native.vad.engine:firered-stream-gpu",
+      "core.native.decode.truncated:slices=10@?:degenerate-repeat-guard;11@?:degenerate-repeat-guard;12@?:degenerate-repeat-guard;13@?:degenerate-repeat-guard;14@?:degenerate-repeat-guard;15@?:degenerate-repeat-guard;16@?:degenerate-repeat-guard;17@?:degenerate-repeat-guard;18@?:degenerate-repeat-guard;19@?:degenerate-repeat-guard;20@?:degenerate-repeat-guard"
+    ]
+  },
+  "truncated": [
+    {
+      "slice": 10,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 11,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 12,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 13,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 14,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 15,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 16,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 17,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 18,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 19,
+      "reason": "degenerate-repeat-guard"
+    },
+    {
+      "slice": 20,
+      "reason": "degenerate-repeat-guard"
+    }
+  ]
+}

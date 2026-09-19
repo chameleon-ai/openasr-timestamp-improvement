@@ -1,0 +1,440 @@
+{
+  "language": "english",
+  "duration": 11.0,
+  "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 11.0,
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 3.8546438,
+          "confidence": 0.7066163
+        },
+        {
+          "word": "so,",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.7956573
+        },
+        {
+          "word": "my",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.9983463
+        },
+        {
+          "word": "fellow",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.9984925
+        },
+        {
+          "word": "Americans,",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.90118355
+        },
+        {
+          "word": "ask",
+          "start": 3.8546438,
+          "end": 4.0136986,
+          "confidence": 0.98127675
+        },
+        {
+          "word": "not",
+          "start": 4.0136986,
+          "end": 4.1727533,
+          "confidence": 0.980508
+        },
+        {
+          "word": "what",
+          "start": 4.1727533,
+          "end": 4.25644,
+          "confidence": 0.9806116
+        },
+        {
+          "word": "your",
+          "start": 4.25644,
+          "end": 4.419151,
+          "confidence": 0.9934081
+        },
+        {
+          "word": "country",
+          "start": 4.419151,
+          "end": 4.6452885,
+          "confidence": 0.99900395
+        },
+        {
+          "word": "can",
+          "start": 4.6452885,
+          "end": 4.792402,
+          "confidence": 0.99938893
+        },
+        {
+          "word": "do",
+          "start": 4.792402,
+          "end": 4.792402,
+          "confidence": 0.9995766
+        },
+        {
+          "word": "for",
+          "start": 4.792402,
+          "end": 4.8348885,
+          "confidence": 0.99914217
+        },
+        {
+          "word": "you,",
+          "start": 4.8348885,
+          "end": 5.104134,
+          "confidence": 0.7706572
+        },
+        {
+          "word": "ask",
+          "start": 5.104134,
+          "end": 5.3308926,
+          "confidence": 0.99628025
+        },
+        {
+          "word": "what",
+          "start": 5.3308926,
+          "end": 5.3308926,
+          "confidence": 0.9988667
+        },
+        {
+          "word": "you",
+          "start": 5.3308926,
+          "end": 5.3308926,
+          "confidence": 0.99535984
+        },
+        {
+          "word": "can",
+          "start": 5.3308926,
+          "end": 5.3604054,
+          "confidence": 0.9995703
+        },
+        {
+          "word": "do",
+          "start": 5.3604054,
+          "end": 5.3899183,
+          "confidence": 0.99912924
+        },
+        {
+          "word": "for",
+          "start": 5.3899183,
+          "end": 5.4371715,
+          "confidence": 0.99918157
+        },
+        {
+          "word": "your",
+          "start": 5.4371715,
+          "end": 5.642769,
+          "confidence": 0.99866366
+        },
+        {
+          "word": "country.",
+          "start": 5.642769,
+          "end": 11.0,
+          "confidence": 0.975896
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.3308926,
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 3.8546438,
+          "confidence": 0.7066163
+        },
+        {
+          "word": "so,",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.7956573
+        },
+        {
+          "word": "my",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.9983463
+        },
+        {
+          "word": "fellow",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.9984925
+        },
+        {
+          "word": "Americans,",
+          "start": 3.8546438,
+          "end": 3.8546438,
+          "confidence": 0.90118355
+        },
+        {
+          "word": "ask",
+          "start": 3.8546438,
+          "end": 4.0136986,
+          "confidence": 0.98127675
+        },
+        {
+          "word": "not",
+          "start": 4.0136986,
+          "end": 4.1727533,
+          "confidence": 0.980508
+        },
+        {
+          "word": "what",
+          "start": 4.1727533,
+          "end": 4.25644,
+          "confidence": 0.9806116
+        },
+        {
+          "word": "your",
+          "start": 4.25644,
+          "end": 4.419151,
+          "confidence": 0.9934081
+        },
+        {
+          "word": "country",
+          "start": 4.419151,
+          "end": 4.6452885,
+          "confidence": 0.99900395
+        },
+        {
+          "word": "can",
+          "start": 4.6452885,
+          "end": 4.792402,
+          "confidence": 0.99938893
+        },
+        {
+          "word": "do",
+          "start": 4.792402,
+          "end": 4.792402,
+          "confidence": 0.9995766
+        },
+        {
+          "word": "for",
+          "start": 4.792402,
+          "end": 4.8348885,
+          "confidence": 0.99914217
+        },
+        {
+          "word": "you,",
+          "start": 4.8348885,
+          "end": 5.104134,
+          "confidence": 0.7706572
+        },
+        {
+          "word": "ask",
+          "start": 5.104134,
+          "end": 5.3308926,
+          "confidence": 0.99628025
+        },
+        {
+          "word": "what",
+          "start": 5.3308926,
+          "end": 5.3308926,
+          "confidence": 0.9988667
+        },
+        {
+          "word": "you",
+          "start": 5.3308926,
+          "end": 5.3308926,
+          "confidence": 0.99535984
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.3308926,
+      "end": 5.3604054,
+      "text": "can",
+      "words": [
+        {
+          "word": "can",
+          "start": 5.3308926,
+          "end": 5.3604054,
+          "confidence": 0.9995703
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.3604054,
+      "end": 11.0,
+      "text": "do for your country.",
+      "words": [
+        {
+          "word": "do",
+          "start": 5.3604054,
+          "end": 5.3899183,
+          "confidence": 0.99912924
+        },
+        {
+          "word": "for",
+          "start": 5.3899183,
+          "end": 5.4371715,
+          "confidence": 0.99918157
+        },
+        {
+          "word": "your",
+          "start": 5.4371715,
+          "end": 5.642769,
+          "confidence": 0.99866366
+        },
+        {
+          "word": "country.",
+          "start": 5.642769,
+          "end": 11.0,
+          "confidence": 0.975896
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_reliable",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 3.8546438,
+      "confidence": 0.7066163
+    },
+    {
+      "word": "so,",
+      "start": 3.8546438,
+      "end": 3.8546438,
+      "confidence": 0.7956573
+    },
+    {
+      "word": "my",
+      "start": 3.8546438,
+      "end": 3.8546438,
+      "confidence": 0.9983463
+    },
+    {
+      "word": "fellow",
+      "start": 3.8546438,
+      "end": 3.8546438,
+      "confidence": 0.9984925
+    },
+    {
+      "word": "Americans,",
+      "start": 3.8546438,
+      "end": 3.8546438,
+      "confidence": 0.90118355
+    },
+    {
+      "word": "ask",
+      "start": 3.8546438,
+      "end": 4.0136986,
+      "confidence": 0.98127675
+    },
+    {
+      "word": "not",
+      "start": 4.0136986,
+      "end": 4.1727533,
+      "confidence": 0.980508
+    },
+    {
+      "word": "what",
+      "start": 4.1727533,
+      "end": 4.25644,
+      "confidence": 0.9806116
+    },
+    {
+      "word": "your",
+      "start": 4.25644,
+      "end": 4.419151,
+      "confidence": 0.9934081
+    },
+    {
+      "word": "country",
+      "start": 4.419151,
+      "end": 4.6452885,
+      "confidence": 0.99900395
+    },
+    {
+      "word": "can",
+      "start": 4.6452885,
+      "end": 4.792402,
+      "confidence": 0.99938893
+    },
+    {
+      "word": "do",
+      "start": 4.792402,
+      "end": 4.792402,
+      "confidence": 0.9995766
+    },
+    {
+      "word": "for",
+      "start": 4.792402,
+      "end": 4.8348885,
+      "confidence": 0.99914217
+    },
+    {
+      "word": "you,",
+      "start": 4.8348885,
+      "end": 5.104134,
+      "confidence": 0.7706572
+    },
+    {
+      "word": "ask",
+      "start": 5.104134,
+      "end": 5.3308926,
+      "confidence": 0.99628025
+    },
+    {
+      "word": "what",
+      "start": 5.3308926,
+      "end": 5.3308926,
+      "confidence": 0.9988667
+    },
+    {
+      "word": "you",
+      "start": 5.3308926,
+      "end": 5.3308926,
+      "confidence": 0.99535984
+    },
+    {
+      "word": "can",
+      "start": 5.3308926,
+      "end": 5.3604054,
+      "confidence": 0.9995703
+    },
+    {
+      "word": "do",
+      "start": 5.3604054,
+      "end": 5.3899183,
+      "confidence": 0.99912924
+    },
+    {
+      "word": "for",
+      "start": 5.3899183,
+      "end": 5.4371715,
+      "confidence": 0.99918157
+    },
+    {
+      "word": "your",
+      "start": 5.4371715,
+      "end": 5.642769,
+      "confidence": 0.99866366
+    },
+    {
+      "word": "country.",
+      "start": 5.642769,
+      "end": 11.0,
+      "confidence": 0.975896
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "text": " Rick, the way I got into smoking stogies is very simple. I went home with Maria in 1977 when I met her at the tennis tournament. I went home with her to meet her parents.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.06,
+      "end": 5.6,
+      "text": " Rick, the way I got into smoking stogies is very simple.",
+      "tokens": [
+        50415,
+        11224,
+        11,
+        264,
+        636,
+        286,
+        658,
+        666,
+        14055,
+        342,
+        664,
+        530,
+        307,
+        588,
+        2199,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19955654939015707,
+      "compression_ratio": 1.3821138211382114,
+      "no_speech_prob": 6.5530254833579e-11,
+      "confidence": 0.9,
+      "words": [
+        {
+          "word": "Rick,",
+          "start": 1.06,
+          "end": 1.38,
+          "confidence": 0.798
+        },
+        {
+          "word": "the",
+          "start": 1.58,
+          "end": 1.9,
+          "confidence": 0.98
+        },
+        {
+          "word": "way",
+          "start": 1.9,
+          "end": 2.02,
+          "confidence": 1.0
+        },
+        {
+          "word": "I",
+          "start": 2.02,
+          "end": 2.16,
+          "confidence": 0.968
+        },
+        {
+          "word": "got",
+          "start": 2.16,
+          "end": 2.4,
+          "confidence": 0.986
+        },
+        {
+          "word": "into",
+          "start": 2.4,
+          "end": 2.62,
+          "confidence": 0.975
+        },
+        {
+          "word": "smoking",
+          "start": 2.62,
+          "end": 2.98,
+          "confidence": 0.988
+        },
+        {
+          "word": "stogies",
+          "start": 2.98,
+          "end": 3.82,
+          "confidence": 0.923
+        },
+        {
+          "word": "is",
+          "start": 3.82,
+          "end": 5.04,
+          "confidence": 0.594
+        },
+        {
+          "word": "very",
+          "start": 5.04,
+          "end": 5.28,
+          "confidence": 0.963
+        },
+        {
+          "word": "simple.",
+          "start": 5.28,
+          "end": 5.6,
+          "confidence": 0.893
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.9,
+      "end": 12.46,
+      "text": " I went home with Maria in 1977 when I met her at the tennis tournament.",
+      "tokens": [
+        50665,
+        286,
+        1437,
+        1280,
+        365,
+        12734,
+        294,
+        35092,
+        562,
+        286,
+        1131,
+        720,
+        412,
+        264,
+        18118,
+        13713,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19955654939015707,
+      "compression_ratio": 1.3821138211382114,
+      "no_speech_prob": 6.5530254833579e-11,
+      "confidence": 0.919,
+      "words": [
+        {
+          "word": "I",
+          "start": 6.9,
+          "end": 6.92,
+          "confidence": 0.775
+        },
+        {
+          "word": "went",
+          "start": 6.92,
+          "end": 7.22,
+          "confidence": 0.969
+        },
+        {
+          "word": "home",
+          "start": 7.22,
+          "end": 7.38,
+          "confidence": 0.993
+        },
+        {
+          "word": "with",
+          "start": 7.38,
+          "end": 7.62,
+          "confidence": 0.988
+        },
+        {
+          "word": "Maria",
+          "start": 7.62,
+          "end": 8.0,
+          "confidence": 0.976
+        },
+        {
+          "word": "in",
+          "start": 8.0,
+          "end": 8.78,
+          "confidence": 0.973
+        },
+        {
+          "word": "1977",
+          "start": 8.78,
+          "end": 9.52,
+          "confidence": 0.984
+        },
+        {
+          "word": "when",
+          "start": 9.52,
+          "end": 10.16,
+          "confidence": 0.754
+        },
+        {
+          "word": "I",
+          "start": 10.16,
+          "end": 10.32,
+          "confidence": 0.981
+        },
+        {
+          "word": "met",
+          "start": 10.32,
+          "end": 10.52,
+          "confidence": 0.988
+        },
+        {
+          "word": "her",
+          "start": 10.52,
+          "end": 10.74,
+          "confidence": 0.984
+        },
+        {
+          "word": "at",
+          "start": 10.74,
+          "end": 11.78,
+          "confidence": 0.666
+        },
+        {
+          "word": "the",
+          "start": 11.78,
+          "end": 11.9,
+          "confidence": 0.934
+        },
+        {
+          "word": "tennis",
+          "start": 11.9,
+          "end": 12.1,
+          "confidence": 0.975
+        },
+        {
+          "word": "tournament.",
+          "start": 12.1,
+          "end": 12.46,
+          "confidence": 0.929
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.6,
+      "end": 16.14,
+      "text": " I went home with her to meet her parents.",
+      "tokens": [
+        51015,
+        286,
+        1437,
+        1280,
+        365,
+        720,
+        281,
+        1677,
+        720,
+        3152,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19955654939015707,
+      "compression_ratio": 1.3821138211382114,
+      "no_speech_prob": 6.5530254833579e-11,
+      "confidence": 0.939,
+      "words": [
+        {
+          "word": "I",
+          "start": 13.6,
+          "end": 13.7,
+          "confidence": 0.834
+        },
+        {
+          "word": "went",
+          "start": 13.7,
+          "end": 13.92,
+          "confidence": 0.99
+        },
+        {
+          "word": "home",
+          "start": 13.92,
+          "end": 14.06,
+          "confidence": 0.996
+        },
+        {
+          "word": "with",
+          "start": 14.06,
+          "end": 14.3,
+          "confidence": 0.993
+        },
+        {
+          "word": "her",
+          "start": 14.3,
+          "end": 14.52,
+          "confidence": 0.996
+        },
+        {
+          "word": "to",
+          "start": 14.52,
+          "end": 15.48,
+          "confidence": 0.923
+        },
+        {
+          "word": "meet",
+          "start": 15.48,
+          "end": 15.66,
+          "confidence": 0.998
+        },
+        {
+          "word": "her",
+          "start": 15.66,
+          "end": 15.82,
+          "confidence": 0.996
+        },
+        {
+          "word": "parents.",
+          "start": 15.82,
+          "end": 16.14,
+          "confidence": 0.847
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

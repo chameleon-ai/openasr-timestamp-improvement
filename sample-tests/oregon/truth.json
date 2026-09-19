@@ -1,0 +1,751 @@
+{
+  "text": " *singing* This music is so good. The trail journal of... Violet. you're a surveyor who has come to independence in 1843 for the purpose of setting off on a journey west to oregon city you've already bought a large farm wagon but you still need to buy the other supplies you'll need for your journey hey what's up bud hey you're looking to hook up with so long all right oh howdy howdy howdy howdy who's this guy howdy oh",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.765,
+      "end": 6.42,
+      "text": " This music is so good.",
+      "tokens": [
+        50365,
+        639,
+        1318,
+        307,
+        370,
+        665,
+        13,
+        50693
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7774164893410422,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 2.114078877235581e-12,
+      "confidence": 0.759,
+      "words": [
+        {
+          "word": "*singing*",
+          "start": 0.765,
+          "end": 5.237,
+          "confidence": 0.451
+        },
+        {
+          "word": "This",
+          "start": 5.237,
+          "end": 5.37,
+          "confidence": 0.451
+        },
+        {
+          "word": "music",
+          "start": 5.37,
+          "end": 5.75,
+          "confidence": 0.991
+        },
+        {
+          "word": "is",
+          "start": 5.75,
+          "end": 5.87,
+          "confidence": 0.988
+        },
+        {
+          "word": "so",
+          "start": 5.87,
+          "end": 6.284,
+          "confidence": 0.99
+        },
+        {
+          "word": "good.",
+          "start": 6.284,
+          "end": 6.54,
+          "confidence": 0.66
+        },
+        {
+          "word": "*singing*",
+          "start": 7.514,
+          "end": 9.052,
+          "confidence": 0.451
+        },
+        {
+          "word": "*singing*",
+          "start": 11.645,
+          "end": 15.02,
+          "confidence": 0.451
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 17.497,
+      "end": 22.18,
+      "text": " The trail journal of...",
+      "tokens": [
+        51369,
+        440,
+        9924,
+        6708,
+        295,
+        485,
+        51517
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7774164893410422,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 2.114078877235581e-12,
+      "confidence": 0.556,
+      "words": [
+        {
+          "word": "*singing*",
+          "start": 17.497,
+          "end": 19.732,
+          "confidence": 0.451
+        },
+        {
+          "word": "The",
+          "start": 20.69,
+          "end": 20.83,
+          "confidence": 0.447
+        },
+        {
+          "word": "trail",
+          "start": 20.83,
+          "end": 21.237,
+          "confidence": 0.784
+        },
+        {
+          "word": "journal",
+          "start": 21.237,
+          "end": 21.719,
+          "confidence": 0.989
+        },
+        {
+          "word": "of...",
+          "start": 21.719,
+          "end": 22.293,
+          "confidence": 0.391
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 23.323,
+      "end": 24.346,
+      "text": " Violet.",
+      "tokens": [
+        51517,
+        24383,
+        302,
+        13,
+        51563
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7774164893410422,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 2.114078877235581e-12,
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "Violet.",
+          "start": 23.323,
+          "end": 24.346,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2396,
+      "start": 25.62,
+      "end": 29.807,
+      "text": " you're a surveyor who has come to independence in 1843 for the purpose of setting off on a",
+      "tokens": [
+        50365,
+        291,
+        434,
+        257,
+        11463,
+        2454,
+        567,
+        575,
+        808,
+        281,
+        14640,
+        294,
+        2443,
+        17201,
+        337,
+        264,
+        4334,
+        295,
+        3287,
+        766,
+        322,
+        257,
+        50661
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10683268243139916,
+      "compression_ratio": 1.6525821596244132,
+      "no_speech_prob": 1.7348109710921267e-12,
+      "confidence": 0.915,
+      "words": [
+        {
+          "word": "you're",
+          "start": 25.62,
+          "end": 25.82,
+          "confidence": 1.0
+        },
+        {
+          "word": "a",
+          "start": 25.82,
+          "end": 25.88,
+          "confidence": 1.0
+        },
+        {
+          "word": "surveyor",
+          "start": 25.88,
+          "end": 26.42,
+          "confidence": 1.0
+        },
+        {
+          "word": "who",
+          "start": 26.42,
+          "end": 26.5,
+          "confidence": 1.0
+        },
+        {
+          "word": "has",
+          "start": 26.5,
+          "end": 26.648,
+          "confidence": 1.0
+        },
+        {
+          "word": "come",
+          "start": 26.648,
+          "end": 26.814,
+          "confidence": 1.0
+        },
+        {
+          "word": "to",
+          "start": 26.814,
+          "end": 26.92,
+          "confidence": 1.0
+        },
+        {
+          "word": "independence",
+          "start": 26.92,
+          "end": 27.496,
+          "confidence": 1.0
+        },
+        {
+          "word": "in",
+          "start": 27.496,
+          "end": 27.587,
+          "confidence": 1.0
+        },
+        {
+          "word": "1843",
+          "start": 27.587,
+          "end": 28.4,
+          "confidence": 1.0
+        },
+        {
+          "word": "for",
+          "start": 28.4,
+          "end": 28.477,
+          "confidence": 1.0
+        },
+        {
+          "word": "the",
+          "start": 28.477,
+          "end": 28.6,
+          "confidence": 1.0
+        },
+        {
+          "word": "purpose",
+          "start": 28.6,
+          "end": 28.934,
+          "confidence": 1.0
+        },
+        {
+          "word": "of",
+          "start": 28.934,
+          "end": 29.009,
+          "confidence": 1.0
+        },
+        {
+          "word": "setting",
+          "start": 29.009,
+          "end": 29.39,
+          "confidence": 1.0
+        },
+        {
+          "word": "off",
+          "start": 29.39,
+          "end": 29.63,
+          "confidence": 1.0
+        },
+        {
+          "word": "on",
+          "start": 29.63,
+          "end": 29.74,
+          "confidence": 1.0
+        },
+        {
+          "word": "a",
+          "start": 29.74,
+          "end": 29.807,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2396,
+      "start": 29.807,
+      "end": 34.6,
+      "text": " journey west to oregon city you've already bought a large farm wagon but you still need to buy the",
+      "tokens": [
+        50661,
+        4671,
+        7009,
+        281,
+        277,
+        18364,
+        2307,
+        291,
+        600,
+        1217,
+        4243,
+        257,
+        2416,
+        5421,
+        34453,
+        457,
+        291,
+        920,
+        643,
+        281,
+        2256,
+        264,
+        50897
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10683268243139916,
+      "compression_ratio": 1.6525821596244132,
+      "no_speech_prob": 1.7348109710921267e-12,
+      "confidence": 0.85,
+      "words": [
+        {
+          "word": "journey",
+          "start": 29.807,
+          "end": 30.106,
+          "confidence": 1.0
+        },
+        {
+          "word": "west",
+          "start": 30.106,
+          "end": 30.563,
+          "confidence": 1.0
+        },
+        {
+          "word": "to",
+          "start": 30.563,
+          "end": 30.688,
+          "confidence": 1.0
+        },
+        {
+          "word": "oregon",
+          "start": 30.688,
+          "end": 31.07,
+          "confidence": 1.0
+        },
+        {
+          "word": "city",
+          "start": 31.07,
+          "end": 31.42,
+          "confidence": 0.991
+        },
+        {
+          "word": "you've",
+          "start": 31.868,
+          "end": 32.03,
+          "confidence": 0.931
+        },
+        {
+          "word": "already",
+          "start": 32.03,
+          "end": 32.375,
+          "confidence": 0.99
+        },
+        {
+          "word": "bought",
+          "start": 32.375,
+          "end": 32.583,
+          "confidence": 0.994
+        },
+        {
+          "word": "a",
+          "start": 32.583,
+          "end": 32.65,
+          "confidence": 0.999
+        },
+        {
+          "word": "large",
+          "start": 32.65,
+          "end": 32.982,
+          "confidence": 0.998
+        },
+        {
+          "word": "farm",
+          "start": 32.982,
+          "end": 33.264,
+          "confidence": 0.994
+        },
+        {
+          "word": "wagon",
+          "start": 33.264,
+          "end": 33.663,
+          "confidence": 0.985
+        },
+        {
+          "word": "but",
+          "start": 33.663,
+          "end": 33.755,
+          "confidence": 0.991
+        },
+        {
+          "word": "you",
+          "start": 33.755,
+          "end": 33.867,
+          "confidence": 0.981
+        },
+        {
+          "word": "still",
+          "start": 33.867,
+          "end": 34.108,
+          "confidence": 0.996
+        },
+        {
+          "word": "need",
+          "start": 34.108,
+          "end": 34.23,
+          "confidence": 1.0
+        },
+        {
+          "word": "to",
+          "start": 34.23,
+          "end": 34.3,
+          "confidence": 0.991
+        },
+        {
+          "word": "buy",
+          "start": 34.3,
+          "end": 34.5,
+          "confidence": 0.987
+        },
+        {
+          "word": "the",
+          "start": 34.5,
+          "end": 34.586,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2396,
+      "start": 34.586,
+      "end": 43.0,
+      "text": " other supplies you'll need for your journey hey what's up bud hey you're looking to hook up with",
+      "tokens": [
+        50897,
+        661,
+        11768,
+        291,
+        603,
+        643,
+        337,
+        428,
+        4671,
+        4177,
+        437,
+        311,
+        493,
+        3265,
+        4177,
+        291,
+        434,
+        1237,
+        281,
+        6328,
+        493,
+        365,
+        51321
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10683268243139916,
+      "compression_ratio": 1.6525821596244132,
+      "no_speech_prob": 1.7348109710921267e-12,
+      "confidence": 0.556,
+      "words": [
+        {
+          "word": "other",
+          "start": 34.586,
+          "end": 34.723,
+          "confidence": 0.531
+        },
+        {
+          "word": "supplies",
+          "start": 34.723,
+          "end": 35.213,
+          "confidence": 0.987
+        },
+        {
+          "word": "you'll",
+          "start": 35.213,
+          "end": 35.38,
+          "confidence": 0.993
+        },
+        {
+          "word": "need",
+          "start": 35.38,
+          "end": 35.583,
+          "confidence": 0.998
+        },
+        {
+          "word": "for",
+          "start": 35.583,
+          "end": 35.714,
+          "confidence": 0.996
+        },
+        {
+          "word": "your",
+          "start": 35.714,
+          "end": 35.916,
+          "confidence": 0.996
+        },
+        {
+          "word": "journey",
+          "start": 35.916,
+          "end": 36.306,
+          "confidence": 0.932
+        },
+        {
+          "word": "hey",
+          "start": 38.68,
+          "end": 39.586,
+          "confidence": 0.499
+        },
+        {
+          "word": "what's",
+          "start": 39.586,
+          "end": 39.827,
+          "confidence": 0.868
+        },
+        {
+          "word": "up",
+          "start": 39.827,
+          "end": 40.1,
+          "confidence": 0.997
+        },
+        {
+          "word": "bud",
+          "start": 40.1,
+          "end": 40.35,
+          "confidence": 0.845
+        },
+        {
+          "word": "hey",
+          "start": 40.54,
+          "end": 40.878,
+          "confidence": 0.012
+        },
+        {
+          "word": "you're",
+          "start": 40.895,
+          "end": 41.078,
+          "confidence": 0.424
+        },
+        {
+          "word": "looking",
+          "start": 41.078,
+          "end": 41.3,
+          "confidence": 0.055
+        },
+        {
+          "word": "*laughs*",
+          "start": 41.3,
+          "end": 42.117,
+          "confidence": 0.055
+        },
+        {
+          "word": "to",
+          "start": 42.266,
+          "end": 42.374,
+          "confidence": 0.267
+        },
+        {
+          "word": "hook",
+          "start": 42.374,
+          "end": 42.55,
+          "confidence": 0.988
+        },
+        {
+          "word": "up",
+          "start": 42.55,
+          "end": 42.777,
+          "confidence": 0.971
+        },
+        {
+          "word": "with",
+          "start": 42.777,
+          "end": 43.0,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2396,
+      "start": 43.53,
+      "end": 52.41,
+      "text": " so long all right oh howdy howdy howdy howdy who's this guy howdy",
+      "tokens": [
+        51321,
+        370,
+        938,
+        439,
+        558,
+        1954,
+        577,
+        3173,
+        577,
+        3173,
+        577,
+        3173,
+        577,
+        3173,
+        567,
+        311,
+        341,
+        2146,
+        577,
+        3173,
+        51781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10683268243139916,
+      "compression_ratio": 1.6525821596244132,
+      "no_speech_prob": 1.7348109710921267e-12,
+      "confidence": 0.744,
+      "words": [
+        {
+          "word": "so",
+          "start": 43.53,
+          "end": 43.66,
+          "confidence": 0.247
+        },
+        {
+          "word": "long",
+          "start": 43.66,
+          "end": 44.124,
+          "confidence": 0.994
+        },
+        {
+          "word": "alright",
+          "start": 46.069,
+          "end": 46.468,
+          "confidence": 0.437
+        },
+        {
+          "word": "oh",
+          "start": 46.638,
+          "end": 46.825,
+          "confidence": 0.921
+        },
+        {
+          "word": "howdy",
+          "start": 47.262,
+          "end": 47.6,
+          "confidence": 0.805
+        },
+        {
+          "word": "howdy",
+          "start": 48.184,
+          "end": 48.646,
+          "confidence": 0.967
+        },
+        {
+          "word": "howdy",
+          "start": 48.945,
+          "end": 49.277,
+          "confidence": 0.942
+        },
+        {
+          "word": "howdy",
+          "start": 49.6,
+          "end": 50.05,
+          "confidence": 0.299
+        },
+        {
+          "word": "who's",
+          "start": 50.628,
+          "end": 50.769,
+          "confidence": 0.981
+        },
+        {
+          "word": "this",
+          "start": 50.769,
+          "end": 50.923,
+          "confidence": 0.999
+        },
+        {
+          "word": "guy",
+          "start": 50.923,
+          "end": 51.106,
+          "confidence": 0.999
+        },
+        {
+          "word": "howdy",
+          "start": 51.106,
+          "end": 51.31,
+          "confidence": 0.896
+        },
+        {
+          "word": "howdy",
+          "start": 51.97,
+          "end": 52.41,
+          "confidence": 0.896
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5396,
+      "start": 54.776,
+      "end": 56.425,
+      "text": " ooh",
+      "tokens": [
+        50380,
+        1954,
+        50480
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.0843920707702637,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 2.142381966274698e-10,
+      "confidence": 0.015,
+      "words": [
+        {
+          "word": "ooh",
+          "start": 54.776,
+          "end": 56.425,
+          "confidence": 0.015
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,84 @@
+:root {
+  --bg: #111318; --panel: #171a21; --line: #262b36; --fg: #cdd3e1;
+  --dim: #6b7484; --accent: #7aa2f7; --truth: #7dc48d; --miss: #f7768e;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; background: var(--bg); color: var(--fg);
+  font: 13px/1.4 ui-sans-serif, system-ui, sans-serif; }
+header { display: flex; align-items: center; gap: 16px; padding: 8px 12px;
+  background: var(--panel); border-bottom: 1px solid var(--line); }
+.clip-name { font-weight: 600; font-size: 15px; }
+.meta { color: var(--dim); margin-left: auto; }
+.playstop { flex: 0 0 auto; width: 30px; height: 24px; margin-left: 10px;
+  background: #20242e; color: var(--fg); border: 1px solid #3a4150;
+  border-radius: 4px; font-size: 12px; line-height: 1; cursor: pointer; }
+.playstop:hover { background: #2a3142; border-color: var(--accent); color: var(--accent); }
+.playstop.playing { color: var(--accent); border-color: var(--accent); }
+.zoom { color: var(--dim); display: flex; align-items: center; gap: 6px; }
+
+#layout { display: flex; height: calc(100vh - 41px - 30px); }
+#hint { flex: 0 0 auto; height: 30px; display: flex; align-items: center;
+  gap: 8px; overflow-x: auto; background: var(--panel);
+  border-bottom: 1px solid var(--line); padding: 0 10px; }
+.chip { color: var(--dim); font-size: 11px; white-space: nowrap;
+  padding: 2px 7px; border: 1px solid var(--line); border-radius: 10px;
+  background: #1c202b; }
+.chip b { color: var(--fg); font-weight: 600; }
+.chip-miss b { color: var(--miss); }
+#sidebar { width: 150px; flex: 0 0 auto; overflow-y: auto; background: var(--panel);
+  border-right: 1px solid var(--line); padding: 6px; display: flex;
+  flex-direction: column; gap: 2px; }
+.clip { text-align: left; padding: 5px 8px; background: none; border: 0; color: var(--fg);
+  cursor: pointer; border-radius: 4px; white-space: nowrap; overflow: hidden;
+  text-overflow: ellipsis; }
+.clip:hover { background: #20242e; }
+.clip.sel { background: #2a3142; color: var(--accent); }
+.clip.uvr::after { content: " uv"; color: var(--dim); font-size: 10px; }
+
+#main { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+#waveform { flex: 0 0 auto; }
+#waveform:has(canvas) { border-bottom: 1px solid var(--line); }
+
+#lanescroll { flex: 1; overflow: auto; }
+#lanescroll-inner { position: relative; min-height: 100%; }
+/* label is a frozen (sticky) overlay; body is full-width so %-word x matches
+   the waveform exactly (waveWidth, not waveWidth − labelWidth) */
+.lane { position: relative; width: 100%; height: 30px; border-bottom: 1px solid var(--line); }
+.lane.truthlane { background: rgba(125, 196, 141, 0.05); }
+/* opaque and above the word boxes: the leftmost word space is covered, but
+   a real label column would shift words off the waveform (alignment bug).
+   width: max-content so long names (cohere-*) show in full; ellipsis is
+   only a fallback if max-width kicks in on a very narrow window */
+.lane-label { position: sticky; left: 0; width: max-content; min-width: 110px;
+  max-width: 100%; height: 100%; z-index: 3;
+  background: var(--panel); padding: 0 8px; display: flex; align-items: center;
+  border-right: 1px solid var(--line); font-size: 12px; white-space: nowrap;
+  overflow: hidden; text-overflow: ellipsis; box-shadow: 8px 0 12px -8px rgba(0,0,0,0.6); }
+.lane-label::after { content: "✓"; margin-left: auto; padding-left: 6px; color: var(--dim); }
+.lane-label.native::after { content: "native"; font-size: 10px; color: #e0af68; }
+.lane-body { position: absolute; top: 0; left: 0; right: 0; bottom: 0; }
+
+.word { position: absolute; top: 2px; bottom: 2px; overflow: hidden;
+  border-radius: 3px; background: #3b4252; border: 1px solid #4c566a;
+  font-size: 10px; line-height: 26px; padding: 0 3px; white-space: nowrap;
+  color: var(--fg); cursor: pointer; }
+.word:hover { background: #4c566a; z-index: 1; }
+.word.active { background: var(--accent); color: #0b0e14; border-color: var(--accent); }
+.word.miss { background: rgba(247, 118, 142, 0.15); border-color: var(--miss);
+  color: var(--miss); }
+.truthlane .word { background: rgba(125, 196, 141, 0.18);
+  border-color: rgba(125, 196, 141, 0.55); }
+.truthlane .word.active { background: var(--truth); color: #0b0e14; border-color: var(--truth); }
+/* drag-to-play region highlight: drawn in the lane area (transparent lanes
+   let it show through, word boxes + labels paint on top of it) */
+.play-sel { position: absolute; top: 0; bottom: 0; display: none;
+  background: rgba(122, 162, 247, 0.18);
+  border-left: 1px solid rgba(122, 162, 247, 0.8);
+  border-right: 1px solid rgba(122, 162, 247, 0.8);
+  pointer-events: none; }
+.cursor { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--miss);
+  opacity: 0.7; pointer-events: none; left: 0; }
+
+#now { flex: 0 0 auto; margin: 0; padding: 6px 12px; color: var(--dim);
+  font: 12px ui-monospace, monospace; max-height: 90px; overflow: auto;
+  background: var(--panel); border-top: 1px solid var(--line); white-space: pre-wrap; }

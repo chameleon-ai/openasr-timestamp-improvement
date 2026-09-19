@@ -1,0 +1,1149 @@
+{
+  "language": "english",
+  "duration": 56.73169,
+  "text": "Dada, West to Oregon City. You've already bought a large farm wagon, but you still need to buy the other supplies you'll need for your journey. Hey, what's up, bud? Hey, you looking for a train to hook up with? So long. All right. Oh, howdy. Howdy. Howdy. Who's this guy? Howdy.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "text": "Dada,",
+      "words": [
+        {
+          "word": "Dada,",
+          "start": 0.78,
+          "end": 1.7713332
+        },
+        {
+          "word": "Dada,",
+          "start": 1.6213332,
+          "end": 2.862
+        },
+        {
+          "word": "Dada,",
+          "start": 2.7120001,
+          "end": 3.5686667
+        },
+        {
+          "word": "Dada",
+          "start": 3.4186668,
+          "end": 4.44
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 56.73169,
+      "text": "West to Oregon City. You've already bought a large farm wagon, but you still need to buy the other supplies you'll need for your journey. Hey, what's up, bud? Hey, you looking for a train to hook up with? So long. All right. Oh, howdy. Howdy. Howdy. Who's this guy? Howdy.",
+      "words": [
+        {
+          "word": "West",
+          "start": 30.0,
+          "end": 30.423758,
+          "confidence": 0.48053396
+        },
+        {
+          "word": "to",
+          "start": 30.273758,
+          "end": 31.034641,
+          "confidence": 0.9280413
+        },
+        {
+          "word": "Oregon",
+          "start": 30.884642,
+          "end": 31.258642,
+          "confidence": 0.99859476
+        },
+        {
+          "word": "City.",
+          "start": 31.108643,
+          "end": 31.64531,
+          "confidence": 0.8720509
+        },
+        {
+          "word": "You've",
+          "start": 31.495308,
+          "end": 32.093307,
+          "confidence": 0.9942236
+        },
+        {
+          "word": "already",
+          "start": 31.943308,
+          "end": 32.30531,
+          "confidence": 0.99992585
+        },
+        {
+          "word": "bought",
+          "start": 32.155308,
+          "end": 32.52131,
+          "confidence": 0.99899083
+        },
+        {
+          "word": "a",
+          "start": 32.371307,
+          "end": 32.75731,
+          "confidence": 0.9999517
+        },
+        {
+          "word": "large",
+          "start": 32.607307,
+          "end": 32.92131,
+          "confidence": 0.999943
+        },
+        {
+          "word": "farm",
+          "start": 32.77131,
+          "end": 33.24131,
+          "confidence": 0.997352
+        },
+        {
+          "word": "wagon,",
+          "start": 33.09131,
+          "end": 33.61731,
+          "confidence": 0.99201137
+        },
+        {
+          "word": "but",
+          "start": 33.467308,
+          "end": 33.92931,
+          "confidence": 0.9991179
+        },
+        {
+          "word": "you",
+          "start": 33.77931,
+          "end": 33.92931,
+          "confidence": 0.99988115
+        },
+        {
+          "word": "still",
+          "start": 33.77931,
+          "end": 34.06931,
+          "confidence": 0.9974987
+        },
+        {
+          "word": "need",
+          "start": 33.919308,
+          "end": 34.385307,
+          "confidence": 0.9994868
+        },
+        {
+          "word": "to",
+          "start": 34.23531,
+          "end": 34.489307,
+          "confidence": 0.9979888
+        },
+        {
+          "word": "buy",
+          "start": 34.33931,
+          "end": 34.489307,
+          "confidence": 0.99739945
+        },
+        {
+          "word": "the",
+          "start": 34.33931,
+          "end": 34.62931,
+          "confidence": 0.99929523
+        },
+        {
+          "word": "other",
+          "start": 34.47931,
+          "end": 34.94531,
+          "confidence": 0.9989347
+        },
+        {
+          "word": "supplies",
+          "start": 34.795307,
+          "end": 35.18931,
+          "confidence": 0.9999168
+        },
+        {
+          "word": "you'll",
+          "start": 35.039307,
+          "end": 35.44931,
+          "confidence": 0.99469334
+        },
+        {
+          "word": "need",
+          "start": 35.29931,
+          "end": 35.53331,
+          "confidence": 0.9994531
+        },
+        {
+          "word": "for",
+          "start": 35.38331,
+          "end": 35.857307,
+          "confidence": 0.9993765
+        },
+        {
+          "word": "your",
+          "start": 35.70731,
+          "end": 36.995308,
+          "confidence": 0.9999225
+        },
+        {
+          "word": "journey.",
+          "start": 36.84531,
+          "end": 38.495308,
+          "confidence": 0.99539316
+        },
+        {
+          "word": "Hey,",
+          "start": 38.65931,
+          "end": 39.511307,
+          "confidence": 0.91953254
+        },
+        {
+          "word": "what's",
+          "start": 39.36131,
+          "end": 39.849308,
+          "confidence": 0.97367287
+        },
+        {
+          "word": "up,",
+          "start": 39.69931,
+          "end": 40.10131,
+          "confidence": 0.9922638
+        },
+        {
+          "word": "bud?",
+          "start": 39.95131,
+          "end": 40.62531,
+          "confidence": 0.88143766
+        },
+        {
+          "word": "Hey,",
+          "start": 40.475307,
+          "end": 40.84131,
+          "confidence": 0.6015293
+        },
+        {
+          "word": "you",
+          "start": 40.691307,
+          "end": 41.07731,
+          "confidence": 0.9879088
+        },
+        {
+          "word": "looking",
+          "start": 40.927307,
+          "end": 41.29731,
+          "confidence": 0.62971795
+        },
+        {
+          "word": "for",
+          "start": 41.14731,
+          "end": 41.66531,
+          "confidence": 0.19167781
+        },
+        {
+          "word": "a",
+          "start": 41.51531,
+          "end": 41.85331,
+          "confidence": 0.5838916
+        },
+        {
+          "word": "train",
+          "start": 41.70331,
+          "end": 42.177307,
+          "confidence": 0.4768359
+        },
+        {
+          "word": "to",
+          "start": 42.02731,
+          "end": 42.545307,
+          "confidence": 0.9980003
+        },
+        {
+          "word": "hook",
+          "start": 42.39531,
+          "end": 42.733307,
+          "confidence": 0.9980404
+        },
+        {
+          "word": "up",
+          "start": 42.58331,
+          "end": 43.05731,
+          "confidence": 0.9972414
+        },
+        {
+          "word": "with?",
+          "start": 42.90731,
+          "end": 43.509308,
+          "confidence": 0.73357457
+        },
+        {
+          "word": "So",
+          "start": 43.359306,
+          "end": 44.511307,
+          "confidence": 0.43183988
+        },
+        {
+          "word": "long.",
+          "start": 44.36131,
+          "end": 46.011307,
+          "confidence": 0.90968263
+        },
+        {
+          "word": "All",
+          "start": 45.893307,
+          "end": 46.371307,
+          "confidence": 0.6328104
+        },
+        {
+          "word": "right.",
+          "start": 46.221306,
+          "end": 46.81331,
+          "confidence": 0.8855941
+        },
+        {
+          "word": "Oh,",
+          "start": 46.663307,
+          "end": 47.941975,
+          "confidence": 0.7424103
+        },
+        {
+          "word": "howdy.",
+          "start": 47.791977,
+          "end": 49.137306,
+          "confidence": 0.56679016
+        },
+        {
+          "word": "Howdy.",
+          "start": 48.98731,
+          "end": 50.019974,
+          "confidence": 0.960988
+        },
+        {
+          "word": "Howdy.",
+          "start": 49.869972,
+          "end": 50.510643,
+          "confidence": 0.9045839
+        },
+        {
+          "word": "Who's",
+          "start": 50.36064,
+          "end": 50.733307,
+          "confidence": 0.9739625
+        },
+        {
+          "word": "this",
+          "start": 50.583305,
+          "end": 51.141304,
+          "confidence": 0.99949574
+        },
+        {
+          "word": "guy?",
+          "start": 50.991306,
+          "end": 52.113304,
+          "confidence": 0.9882499
+        },
+        {
+          "word": "Howdy.",
+          "start": 51.963306,
+          "end": 53.613304,
+          "confidence": 0.9875574
+        }
+      ]
+    }
+  ],
+  "subtitle_cues": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "text": "Dada,",
+      "words": [
+        {
+          "word": "Dada,",
+          "start": 0.78,
+          "end": 1.7713332
+        },
+        {
+          "word": "Dada,",
+          "start": 1.6213332,
+          "end": 2.862
+        },
+        {
+          "word": "Dada,",
+          "start": 2.7120001,
+          "end": 3.5686667
+        },
+        {
+          "word": "Dada",
+          "start": 3.4186668,
+          "end": 4.44
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 31.495308,
+      "text": "West to Oregon City.",
+      "words": [
+        {
+          "word": "West",
+          "start": 30.0,
+          "end": 30.423758,
+          "confidence": 0.48053396
+        },
+        {
+          "word": "to",
+          "start": 30.273758,
+          "end": 31.034641,
+          "confidence": 0.9280413
+        },
+        {
+          "word": "Oregon",
+          "start": 30.884642,
+          "end": 31.258642,
+          "confidence": 0.99859476
+        },
+        {
+          "word": "City.",
+          "start": 31.108643,
+          "end": 31.64531,
+          "confidence": 0.8720509
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 31.495308,
+      "end": 33.467308,
+      "text": "You've already bought a large farm wagon,",
+      "words": [
+        {
+          "word": "You've",
+          "start": 31.495308,
+          "end": 32.093307,
+          "confidence": 0.9942236
+        },
+        {
+          "word": "already",
+          "start": 31.943308,
+          "end": 32.30531,
+          "confidence": 0.99992585
+        },
+        {
+          "word": "bought",
+          "start": 32.155308,
+          "end": 32.52131,
+          "confidence": 0.99899083
+        },
+        {
+          "word": "a",
+          "start": 32.371307,
+          "end": 32.75731,
+          "confidence": 0.9999517
+        },
+        {
+          "word": "large",
+          "start": 32.607307,
+          "end": 32.92131,
+          "confidence": 0.999943
+        },
+        {
+          "word": "farm",
+          "start": 32.77131,
+          "end": 33.24131,
+          "confidence": 0.997352
+        },
+        {
+          "word": "wagon,",
+          "start": 33.09131,
+          "end": 33.61731,
+          "confidence": 0.99201137
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 33.467308,
+      "end": 35.29931,
+      "text": "but you still need to buy the other supplies you'll",
+      "words": [
+        {
+          "word": "but",
+          "start": 33.467308,
+          "end": 33.92931,
+          "confidence": 0.9991179
+        },
+        {
+          "word": "you",
+          "start": 33.77931,
+          "end": 33.92931,
+          "confidence": 0.99988115
+        },
+        {
+          "word": "still",
+          "start": 33.77931,
+          "end": 34.06931,
+          "confidence": 0.9974987
+        },
+        {
+          "word": "need",
+          "start": 33.919308,
+          "end": 34.385307,
+          "confidence": 0.9994868
+        },
+        {
+          "word": "to",
+          "start": 34.23531,
+          "end": 34.489307,
+          "confidence": 0.9979888
+        },
+        {
+          "word": "buy",
+          "start": 34.33931,
+          "end": 34.489307,
+          "confidence": 0.99739945
+        },
+        {
+          "word": "the",
+          "start": 34.33931,
+          "end": 34.62931,
+          "confidence": 0.99929523
+        },
+        {
+          "word": "other",
+          "start": 34.47931,
+          "end": 34.94531,
+          "confidence": 0.9989347
+        },
+        {
+          "word": "supplies",
+          "start": 34.795307,
+          "end": 35.18931,
+          "confidence": 0.9999168
+        },
+        {
+          "word": "you'll",
+          "start": 35.039307,
+          "end": 35.44931,
+          "confidence": 0.99469334
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 35.29931,
+      "end": 38.495308,
+      "text": "need for your journey.",
+      "words": [
+        {
+          "word": "need",
+          "start": 35.29931,
+          "end": 35.53331,
+          "confidence": 0.9994531
+        },
+        {
+          "word": "for",
+          "start": 35.38331,
+          "end": 35.857307,
+          "confidence": 0.9993765
+        },
+        {
+          "word": "your",
+          "start": 35.70731,
+          "end": 36.995308,
+          "confidence": 0.9999225
+        },
+        {
+          "word": "journey.",
+          "start": 36.84531,
+          "end": 38.495308,
+          "confidence": 0.99539316
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 38.65931,
+      "end": 40.475307,
+      "text": "Hey, what's up, bud?",
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 38.65931,
+          "end": 39.511307,
+          "confidence": 0.91953254
+        },
+        {
+          "word": "what's",
+          "start": 39.36131,
+          "end": 39.849308,
+          "confidence": 0.97367287
+        },
+        {
+          "word": "up,",
+          "start": 39.69931,
+          "end": 40.10131,
+          "confidence": 0.9922638
+        },
+        {
+          "word": "bud?",
+          "start": 39.95131,
+          "end": 40.62531,
+          "confidence": 0.88143766
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 40.475307,
+      "end": 43.359306,
+      "text": "Hey, you looking for a train to hook up with?",
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 40.475307,
+          "end": 40.84131,
+          "confidence": 0.6015293
+        },
+        {
+          "word": "you",
+          "start": 40.691307,
+          "end": 41.07731,
+          "confidence": 0.9879088
+        },
+        {
+          "word": "looking",
+          "start": 40.927307,
+          "end": 41.29731,
+          "confidence": 0.62971795
+        },
+        {
+          "word": "for",
+          "start": 41.14731,
+          "end": 41.66531,
+          "confidence": 0.19167781
+        },
+        {
+          "word": "a",
+          "start": 41.51531,
+          "end": 41.85331,
+          "confidence": 0.5838916
+        },
+        {
+          "word": "train",
+          "start": 41.70331,
+          "end": 42.177307,
+          "confidence": 0.4768359
+        },
+        {
+          "word": "to",
+          "start": 42.02731,
+          "end": 42.545307,
+          "confidence": 0.9980003
+        },
+        {
+          "word": "hook",
+          "start": 42.39531,
+          "end": 42.733307,
+          "confidence": 0.9980404
+        },
+        {
+          "word": "up",
+          "start": 42.58331,
+          "end": 43.05731,
+          "confidence": 0.9972414
+        },
+        {
+          "word": "with?",
+          "start": 42.90731,
+          "end": 43.509308,
+          "confidence": 0.73357457
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 43.359306,
+      "end": 45.893307,
+      "text": "So long.",
+      "words": [
+        {
+          "word": "So",
+          "start": 43.359306,
+          "end": 44.511307,
+          "confidence": 0.43183988
+        },
+        {
+          "word": "long.",
+          "start": 44.36131,
+          "end": 46.011307,
+          "confidence": 0.90968263
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 45.893307,
+      "end": 46.663307,
+      "text": "All right.",
+      "words": [
+        {
+          "word": "All",
+          "start": 45.893307,
+          "end": 46.371307,
+          "confidence": 0.6328104
+        },
+        {
+          "word": "right.",
+          "start": 46.221306,
+          "end": 46.81331,
+          "confidence": 0.8855941
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 46.663307,
+      "end": 48.98731,
+      "text": "Oh, howdy.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 46.663307,
+          "end": 47.941975,
+          "confidence": 0.7424103
+        },
+        {
+          "word": "howdy.",
+          "start": 47.791977,
+          "end": 49.137306,
+          "confidence": 0.56679016
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 48.98731,
+      "end": 49.869972,
+      "text": "Howdy.",
+      "words": [
+        {
+          "word": "Howdy.",
+          "start": 48.98731,
+          "end": 50.019974,
+          "confidence": 0.960988
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 49.869972,
+      "end": 50.36064,
+      "text": "Howdy.",
+      "words": [
+        {
+          "word": "Howdy.",
+          "start": 49.869972,
+          "end": 50.510643,
+          "confidence": 0.9045839
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 50.36064,
+      "end": 51.963306,
+      "text": "Who's this guy?",
+      "words": [
+        {
+          "word": "Who's",
+          "start": 50.36064,
+          "end": 50.733307,
+          "confidence": 0.9739625
+        },
+        {
+          "word": "this",
+          "start": 50.583305,
+          "end": 51.141304,
+          "confidence": 0.99949574
+        },
+        {
+          "word": "guy?",
+          "start": 50.991306,
+          "end": 52.113304,
+          "confidence": 0.9882499
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 51.963306,
+      "end": 53.613304,
+      "text": "Howdy.",
+      "words": [
+        {
+          "word": "Howdy.",
+          "start": 51.963306,
+          "end": 53.613304,
+          "confidence": 0.9875574
+        }
+      ]
+    }
+  ],
+  "timeline_quality": "native_approximate",
+  "words": [
+    {
+      "word": "Dada,",
+      "start": 0.78,
+      "end": 1.7713332
+    },
+    {
+      "word": "Dada,",
+      "start": 1.6213332,
+      "end": 2.862
+    },
+    {
+      "word": "Dada,",
+      "start": 2.7120001,
+      "end": 3.5686667
+    },
+    {
+      "word": "Dada",
+      "start": 3.4186668,
+      "end": 4.44
+    },
+    {
+      "word": "West",
+      "start": 30.0,
+      "end": 30.423758,
+      "confidence": 0.48053396
+    },
+    {
+      "word": "to",
+      "start": 30.273758,
+      "end": 31.034641,
+      "confidence": 0.9280413
+    },
+    {
+      "word": "Oregon",
+      "start": 30.884642,
+      "end": 31.258642,
+      "confidence": 0.99859476
+    },
+    {
+      "word": "City.",
+      "start": 31.108643,
+      "end": 31.64531,
+      "confidence": 0.8720509
+    },
+    {
+      "word": "You've",
+      "start": 31.495308,
+      "end": 32.093307,
+      "confidence": 0.9942236
+    },
+    {
+      "word": "already",
+      "start": 31.943308,
+      "end": 32.30531,
+      "confidence": 0.99992585
+    },
+    {
+      "word": "bought",
+      "start": 32.155308,
+      "end": 32.52131,
+      "confidence": 0.99899083
+    },
+    {
+      "word": "a",
+      "start": 32.371307,
+      "end": 32.75731,
+      "confidence": 0.9999517
+    },
+    {
+      "word": "large",
+      "start": 32.607307,
+      "end": 32.92131,
+      "confidence": 0.999943
+    },
+    {
+      "word": "farm",
+      "start": 32.77131,
+      "end": 33.24131,
+      "confidence": 0.997352
+    },
+    {
+      "word": "wagon,",
+      "start": 33.09131,
+      "end": 33.61731,
+      "confidence": 0.99201137
+    },
+    {
+      "word": "but",
+      "start": 33.467308,
+      "end": 33.92931,
+      "confidence": 0.9991179
+    },
+    {
+      "word": "you",
+      "start": 33.77931,
+      "end": 33.92931,
+      "confidence": 0.99988115
+    },
+    {
+      "word": "still",
+      "start": 33.77931,
+      "end": 34.06931,
+      "confidence": 0.9974987
+    },
+    {
+      "word": "need",
+      "start": 33.919308,
+      "end": 34.385307,
+      "confidence": 0.9994868
+    },
+    {
+      "word": "to",
+      "start": 34.23531,
+      "end": 34.489307,
+      "confidence": 0.9979888
+    },
+    {
+      "word": "buy",
+      "start": 34.33931,
+      "end": 34.489307,
+      "confidence": 0.99739945
+    },
+    {
+      "word": "the",
+      "start": 34.33931,
+      "end": 34.62931,
+      "confidence": 0.99929523
+    },
+    {
+      "word": "other",
+      "start": 34.47931,
+      "end": 34.94531,
+      "confidence": 0.9989347
+    },
+    {
+      "word": "supplies",
+      "start": 34.795307,
+      "end": 35.18931,
+      "confidence": 0.9999168
+    },
+    {
+      "word": "you'll",
+      "start": 35.039307,
+      "end": 35.44931,
+      "confidence": 0.99469334
+    },
+    {
+      "word": "need",
+      "start": 35.29931,
+      "end": 35.53331,
+      "confidence": 0.9994531
+    },
+    {
+      "word": "for",
+      "start": 35.38331,
+      "end": 35.857307,
+      "confidence": 0.9993765
+    },
+    {
+      "word": "your",
+      "start": 35.70731,
+      "end": 36.995308,
+      "confidence": 0.9999225
+    },
+    {
+      "word": "journey.",
+      "start": 36.84531,
+      "end": 38.495308,
+      "confidence": 0.99539316
+    },
+    {
+      "word": "Hey,",
+      "start": 38.65931,
+      "end": 39.511307,
+      "confidence": 0.91953254
+    },
+    {
+      "word": "what's",
+      "start": 39.36131,
+      "end": 39.849308,
+      "confidence": 0.97367287
+    },
+    {
+      "word": "up,",
+      "start": 39.69931,
+      "end": 40.10131,
+      "confidence": 0.9922638
+    },
+    {
+      "word": "bud?",
+      "start": 39.95131,
+      "end": 40.62531,
+      "confidence": 0.88143766
+    },
+    {
+      "word": "Hey,",
+      "start": 40.475307,
+      "end": 40.84131,
+      "confidence": 0.6015293
+    },
+    {
+      "word": "you",
+      "start": 40.691307,
+      "end": 41.07731,
+      "confidence": 0.9879088
+    },
+    {
+      "word": "looking",
+      "start": 40.927307,
+      "end": 41.29731,
+      "confidence": 0.62971795
+    },
+    {
+      "word": "for",
+      "start": 41.14731,
+      "end": 41.66531,
+      "confidence": 0.19167781
+    },
+    {
+      "word": "a",
+      "start": 41.51531,
+      "end": 41.85331,
+      "confidence": 0.5838916
+    },
+    {
+      "word": "train",
+      "start": 41.70331,
+      "end": 42.177307,
+      "confidence": 0.4768359
+    },
+    {
+      "word": "to",
+      "start": 42.02731,
+      "end": 42.545307,
+      "confidence": 0.9980003
+    },
+    {
+      "word": "hook",
+      "start": 42.39531,
+      "end": 42.733307,
+      "confidence": 0.9980404
+    },
+    {
+      "word": "up",
+      "start": 42.58331,
+      "end": 43.05731,
+      "confidence": 0.9972414
+    },
+    {
+      "word": "with?",
+      "start": 42.90731,
+      "end": 43.509308,
+      "confidence": 0.73357457
+    },
+    {
+      "word": "So",
+      "start": 43.359306,
+      "end": 44.511307,
+      "confidence": 0.43183988
+    },
+    {
+      "word": "long.",
+      "start": 44.36131,
+      "end": 46.011307,
+      "confidence": 0.90968263
+    },
+    {
+      "word": "All",
+      "start": 45.893307,
+      "end": 46.371307,
+      "confidence": 0.6328104
+    },
+    {
+      "word": "right.",
+      "start": 46.221306,
+      "end": 46.81331,
+      "confidence": 0.8855941
+    },
+    {
+      "word": "Oh,",
+      "start": 46.663307,
+      "end": 47.941975,
+      "confidence": 0.7424103
+    },
+    {
+      "word": "howdy.",
+      "start": 47.791977,
+      "end": 49.137306,
+      "confidence": 0.56679016
+    },
+    {
+      "word": "Howdy.",
+      "start": 48.98731,
+      "end": 50.019974,
+      "confidence": 0.960988
+    },
+    {
+      "word": "Howdy.",
+      "start": 49.869972,
+      "end": 50.510643,
+      "confidence": 0.9045839
+    },
+    {
+      "word": "Who's",
+      "start": 50.36064,
+      "end": 50.733307,
+      "confidence": 0.9739625
+    },
+    {
+      "word": "this",
+      "start": 50.583305,
+      "end": 51.141304,
+      "confidence": 0.99949574
+    },
+    {
+      "word": "guy?",
+      "start": 50.991306,
+      "end": 52.113304,
+      "confidence": 0.9882499
+    },
+    {
+      "word": "Howdy.",
+      "start": 51.963306,
+      "end": 53.613304,
+      "confidence": 0.9875574
+    }
+  ],
+  "longform": {
+    "chunk_count": 2,
+    "skipped_silent_chunks": 0,
+    "duplicate_merge_count": 0,
+    "provenance": [
+      "core.longform.plan:auto",
+      "core.longform.slice-kind:fixed",
+      "core.longform.timeline:identity",
+      "core.native.backend:gpu",
+      "core.longform.assembler",
+      "core.native.ggml",
+      "core.native.longform.policy:conservative-seq2seq-no-padding",
+      "core.native.longform.policy:conservative-seq2seq-overlap=0",
+      "core.native.longform.policy:conservative-seq2seq-disable-prompt-carry",
+      "core.native.longform.policy:conservative-seq2seq-chunk-cap=30",
+      "core.longform.auto.disqualified:energy-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=2.85:audible_window_s=24.50-25.00:peak_dbfs=-41.1:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.disqualified:vad-packed:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=3.81:audible_window_s=24.20-24.70:peak_dbfs=-40.0:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.disqualified:vad-identity:coverage_dominance:drops_audible_content_near_recording_speech_level:dropped_total_s=3.81:audible_window_s=24.20-24.70:peak_dbfs=-40.0:audible_threshold_dbfs=-43.0",
+      "core.longform.auto.selected:fixed-identity:score=961035:processed_samples=907707:chunks=2:short_penalty=0:boundary_penalty=3328:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=40000:stability_bias=10000:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[0]:fixed-identity:score=961035:processed_samples=907707:chunks=2:short_penalty=0:boundary_penalty=3328:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=40000:stability_bias=10000:contextual_credit=0:contextual_penalty=0",
+      "core.longform.auto.candidate[1]:energy-identity:score=1166718:processed_samples=907707:chunks=3:short_penalty=178693:boundary_penalty=318:elision_penalty=0:gap_edge_penalty=0:seam_penalty=0:chunk_penalty=80000:stability_bias=0:contextual_credit=0:contextual_penalty=0",
+      "core.native.vad.engine:firered-stream-gpu",
+      "core.native.decode.truncated:slices=1@?:degenerate-repeat-guard"
+    ]
+  },
+  "truncated": [
+    {
+      "slice": 1,
+      "reason": "degenerate-repeat-guard"
+    }
+  ]
+}

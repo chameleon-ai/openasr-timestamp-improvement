@@ -1,0 +1,3879 @@
+{
+  "text": " We'll be right back. We'll be right back. We'll be right back. We'll be right back. We'll be right back. We'll be right back. We'll be right back. We'll be right back. I mean howdy can y'all hear me howdy y'all can Howdy, y'all yes ma'am i'm gonna do that accent for the entire stream and i'm gonna offend an entire nation i got a second i'm floating just a wee bit there we go there we go all right how's it good look at me i've been all i got i got a new fit and everything and check this out fingers and i know that that is uh not a new thing for us here on the bonnie barksall channel because i've had fingers before i mean i've had these rooting toting gosh darn fingers before uh but this time i'm using them newfangled gloves so i can actually grab things and pick things up like look i'm i'm grabbing a very patriotic bottle of diet coke and i'm going to open it and I'm gonna take a sip look at that isn't it cool it's pretty amazing right it moves uh it moves pretty well it's pretty accurate oops I've lost an earbud hang on where is it come back oh there we go anyway uh as this is uh happy independence day uh america america yeah hello hello hello america yeah happy independence day oh where's my face gone there it is yeah oh no i accidentally locked my phone wait no don't do that no no no don't do an emergency call no no help everything's going wrong my earbuds are too big for my ears they don't stay in wait there we go all right i have a face again oh no my earbuds just keep falling out i don't know what to do i don't know what to do hang on screw them in screw them in and then we will get on with the festivities i promise listen it wouldn't be a bonnie box full stream if everything didn't fall apart anyway all right you cowpoke uh red white and blue blooded americans i would like y'all to please stand for the uh what's it called the national anthem our beautiful country's national anthem everybody please i will be i will be performing this on the noble instrument known as the kazoo from memory so i'll do my best here we go , . , here , I forgot. I forgot it. I mean, I would never forget it because I am a true American. That is just how it goes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.98,
+      "end": 17.74,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47132306628757054,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 5.556345661350548e-11,
+      "confidence": 0.516,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 8.98,
+          "end": 9.0,
+          "confidence": 0.162
+        },
+        {
+          "word": "be",
+          "start": 9.0,
+          "end": 9.96,
+          "confidence": 0.795
+        },
+        {
+          "word": "right",
+          "start": 9.96,
+          "end": 9.98,
+          "confidence": 0.919
+        },
+        {
+          "word": "back.",
+          "start": 9.98,
+          "end": 17.74,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 29.54,
+      "end": 44.4,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2703009711371528,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 4.50492074199893e-11,
+      "confidence": 0.662,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 29.54,
+          "end": 32.62,
+          "confidence": 0.346
+        },
+        {
+          "word": "be",
+          "start": 32.62,
+          "end": 36.16,
+          "confidence": 0.769
+        },
+        {
+          "word": "right",
+          "start": 36.16,
+          "end": 43.16,
+          "confidence": 0.919
+        },
+        {
+          "word": "back.",
+          "start": 43.16,
+          "end": 44.4,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 59.58,
+      "end": 78.2,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3646229108174642,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 9.497525682578001e-11,
+      "confidence": 0.576,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 59.58,
+          "end": 61.92,
+          "confidence": 0.236
+        },
+        {
+          "word": "be",
+          "start": 61.92,
+          "end": 64.42,
+          "confidence": 0.739
+        },
+        {
+          "word": "right",
+          "start": 64.42,
+          "end": 69.84,
+          "confidence": 0.9
+        },
+        {
+          "word": "back.",
+          "start": 69.84,
+          "end": 78.2,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 9000,
+      "start": 97.62,
+      "end": 106.44,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3123781681060791,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 7.411864871853524e-11,
+      "confidence": 0.637,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 97.62,
+          "end": 97.64,
+          "confidence": 0.313
+        },
+        {
+          "word": "be",
+          "start": 97.64,
+          "end": 97.66,
+          "confidence": 0.749
+        },
+        {
+          "word": "right",
+          "start": 97.66,
+          "end": 97.74,
+          "confidence": 0.92
+        },
+        {
+          "word": "back.",
+          "start": 97.74,
+          "end": 106.44,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 12000,
+      "start": 119.52,
+      "end": 136.8,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3710975382063124,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 8.484497132643654e-11,
+      "confidence": 0.59,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 119.52,
+          "end": 121.52,
+          "confidence": 0.244
+        },
+        {
+          "word": "be",
+          "start": 121.52,
+          "end": 126.32,
+          "confidence": 0.791
+        },
+        {
+          "word": "right",
+          "start": 126.32,
+          "end": 131.46,
+          "confidence": 0.91
+        },
+        {
+          "word": "back.",
+          "start": 131.46,
+          "end": 136.8,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 15000,
+      "start": 149.6,
+      "end": 166.66,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31567743089463973,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 8.422856856427074e-11,
+      "confidence": 0.671,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 149.6,
+          "end": 151.2,
+          "confidence": 0.361
+        },
+        {
+          "word": "be",
+          "start": 151.2,
+          "end": 154.54,
+          "confidence": 0.764
+        },
+        {
+          "word": "right",
+          "start": 154.54,
+          "end": 157.96,
+          "confidence": 0.917
+        },
+        {
+          "word": "back.",
+          "start": 157.96,
+          "end": 166.66,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 18000,
+      "start": 191.4,
+      "end": 193.98,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28670880529615617,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 5.259358226705757e-11,
+      "confidence": 0.644,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 191.4,
+          "end": 191.68,
+          "confidence": 0.321
+        },
+        {
+          "word": "be",
+          "start": 191.68,
+          "end": 191.7,
+          "confidence": 0.76
+        },
+        {
+          "word": "right",
+          "start": 191.7,
+          "end": 192.7,
+          "confidence": 0.917
+        },
+        {
+          "word": "back.",
+          "start": 192.7,
+          "end": 193.98,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 21000,
+      "start": 238.62,
+      "end": 239.04,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5000812212626139,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 7.372830818086484e-11,
+      "confidence": 0.593,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 238.62,
+          "end": 238.64,
+          "confidence": 0.304
+        },
+        {
+          "word": "be",
+          "start": 238.64,
+          "end": 239.0,
+          "confidence": 0.546
+        },
+        {
+          "word": "right",
+          "start": 239.0,
+          "end": 239.02,
+          "confidence": 0.875
+        },
+        {
+          "word": "back.",
+          "start": 239.02,
+          "end": 239.04,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 24000,
+      "start": 239.5,
+      "end": 269.18,
+      "text": " I mean howdy can y'all hear me howdy y'all can",
+      "tokens": [
+        50365,
+        286,
+        914,
+        577,
+        3173,
+        393,
+        288,
+        6,
+        336,
+        1568,
+        385,
+        577,
+        3173,
+        288,
+        6,
+        336,
+        393,
+        51825
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5635933399200439,
+      "compression_ratio": 1.1219512195121952,
+      "no_speech_prob": 1.3939506016483194e-12,
+      "confidence": 0.626,
+      "words": [
+        {
+          "word": "I",
+          "start": 239.5,
+          "end": 248.92,
+          "confidence": 0.066
+        },
+        {
+          "word": "mean",
+          "start": 248.92,
+          "end": 261.76,
+          "confidence": 0.425
+        },
+        {
+          "word": "howdy",
+          "start": 261.76,
+          "end": 262.38,
+          "confidence": 0.72
+        },
+        {
+          "word": "can",
+          "start": 262.38,
+          "end": 263.6,
+          "confidence": 0.439
+        },
+        {
+          "word": "y'all",
+          "start": 263.6,
+          "end": 263.92,
+          "confidence": 0.96
+        },
+        {
+          "word": "hear",
+          "start": 263.92,
+          "end": 264.24,
+          "confidence": 0.972
+        },
+        {
+          "word": "me",
+          "start": 264.24,
+          "end": 264.56,
+          "confidence": 0.976
+        },
+        {
+          "word": "howdy",
+          "start": 264.56,
+          "end": 268.22,
+          "confidence": 0.457
+        },
+        {
+          "word": "y'all",
+          "start": 268.22,
+          "end": 268.66,
+          "confidence": 0.928
+        },
+        {
+          "word": "can",
+          "start": 268.66,
+          "end": 269.18,
+          "confidence": 0.623
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 26920,
+      "start": 274.82,
+      "end": 285.04,
+      "text": " Howdy, y'all yes ma'am i'm gonna do that accent for the entire stream and i'm gonna offend an entire nation",
+      "tokens": [
+        50365,
+        1012,
+        3173,
+        11,
+        288,
+        6,
+        336,
+        2086,
+        463,
+        6,
+        335,
+        741,
+        478,
+        799,
+        360,
+        300,
+        11982,
+        337,
+        264,
+        2302,
+        4309,
+        293,
+        741,
+        478,
+        799,
+        41836,
+        364,
+        2302,
+        4790,
+        51161
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.306594390135545,
+      "compression_ratio": 1.5081967213114753,
+      "no_speech_prob": 1.0317066211767978e-12,
+      "confidence": 0.611,
+      "words": [
+        {
+          "word": "Howdy,",
+          "start": 274.82,
+          "end": 275.26,
+          "confidence": 0.295
+        },
+        {
+          "word": "y'all",
+          "start": 275.38,
+          "end": 279.56,
+          "confidence": 0.467
+        },
+        {
+          "word": "yes",
+          "start": 279.56,
+          "end": 279.94,
+          "confidence": 0.041
+        },
+        {
+          "word": "ma'am",
+          "start": 279.94,
+          "end": 280.92,
+          "confidence": 0.863
+        },
+        {
+          "word": "i'm",
+          "start": 280.92,
+          "end": 281.82,
+          "confidence": 0.355
+        },
+        {
+          "word": "gonna",
+          "start": 281.82,
+          "end": 281.96,
+          "confidence": 0.932
+        },
+        {
+          "word": "do",
+          "start": 281.96,
+          "end": 282.1,
+          "confidence": 0.989
+        },
+        {
+          "word": "that",
+          "start": 282.1,
+          "end": 282.3,
+          "confidence": 0.98
+        },
+        {
+          "word": "accent",
+          "start": 282.3,
+          "end": 282.56,
+          "confidence": 0.456
+        },
+        {
+          "word": "for",
+          "start": 282.56,
+          "end": 282.76,
+          "confidence": 0.979
+        },
+        {
+          "word": "the",
+          "start": 282.76,
+          "end": 282.88,
+          "confidence": 0.934
+        },
+        {
+          "word": "entire",
+          "start": 282.88,
+          "end": 283.12,
+          "confidence": 0.997
+        },
+        {
+          "word": "stream",
+          "start": 283.12,
+          "end": 283.38,
+          "confidence": 0.979
+        },
+        {
+          "word": "and",
+          "start": 283.38,
+          "end": 283.54,
+          "confidence": 0.8
+        },
+        {
+          "word": "i'm",
+          "start": 283.54,
+          "end": 283.66,
+          "confidence": 0.914
+        },
+        {
+          "word": "gonna",
+          "start": 283.66,
+          "end": 283.76,
+          "confidence": 0.842
+        },
+        {
+          "word": "offend",
+          "start": 283.76,
+          "end": 284.08,
+          "confidence": 0.77
+        },
+        {
+          "word": "an",
+          "start": 284.08,
+          "end": 284.28,
+          "confidence": 0.826
+        },
+        {
+          "word": "entire",
+          "start": 284.28,
+          "end": 284.6,
+          "confidence": 0.943
+        },
+        {
+          "word": "nation",
+          "start": 284.6,
+          "end": 285.04,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 26920,
+      "start": 287.76,
+      "end": 294.84,
+      "text": " i got a second i'm floating just a wee bit there we go there we go all right",
+      "tokens": [
+        51285,
+        741,
+        658,
+        257,
+        1150,
+        741,
+        478,
+        12607,
+        445,
+        257,
+        32753,
+        857,
+        456,
+        321,
+        352,
+        456,
+        321,
+        352,
+        439,
+        558,
+        51645
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.306594390135545,
+      "compression_ratio": 1.5081967213114753,
+      "no_speech_prob": 1.0317066211767978e-12,
+      "confidence": 0.792,
+      "words": [
+        {
+          "word": "i",
+          "start": 287.76,
+          "end": 287.92,
+          "confidence": 0.025
+        },
+        {
+          "word": "got",
+          "start": 287.92,
+          "end": 288.06,
+          "confidence": 0.943
+        },
+        {
+          "word": "a",
+          "start": 288.06,
+          "end": 288.18,
+          "confidence": 0.998
+        },
+        {
+          "word": "second",
+          "start": 288.18,
+          "end": 288.38,
+          "confidence": 0.996
+        },
+        {
+          "word": "i'm",
+          "start": 288.38,
+          "end": 288.62,
+          "confidence": 0.951
+        },
+        {
+          "word": "floating",
+          "start": 288.62,
+          "end": 288.86,
+          "confidence": 0.973
+        },
+        {
+          "word": "just",
+          "start": 288.86,
+          "end": 289.2,
+          "confidence": 0.989
+        },
+        {
+          "word": "a",
+          "start": 289.2,
+          "end": 289.34,
+          "confidence": 0.993
+        },
+        {
+          "word": "wee",
+          "start": 289.34,
+          "end": 289.52,
+          "confidence": 0.992
+        },
+        {
+          "word": "bit",
+          "start": 289.52,
+          "end": 289.8,
+          "confidence": 0.996
+        },
+        {
+          "word": "there",
+          "start": 289.8,
+          "end": 291.36,
+          "confidence": 0.673
+        },
+        {
+          "word": "we",
+          "start": 291.36,
+          "end": 291.54,
+          "confidence": 0.996
+        },
+        {
+          "word": "go",
+          "start": 291.54,
+          "end": 291.8,
+          "confidence": 0.999
+        },
+        {
+          "word": "there",
+          "start": 291.8,
+          "end": 292.42,
+          "confidence": 0.973
+        },
+        {
+          "word": "we",
+          "start": 292.42,
+          "end": 292.82,
+          "confidence": 0.998
+        },
+        {
+          "word": "go",
+          "start": 292.82,
+          "end": 293.32,
+          "confidence": 0.997
+        },
+        {
+          "word": "all",
+          "start": 293.32,
+          "end": 294.14,
+          "confidence": 0.922
+        },
+        {
+          "word": "right",
+          "start": 294.14,
+          "end": 294.84,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 29920,
+      "start": 299.3,
+      "end": 300.94,
+      "text": " how's it good look at me i've been all",
+      "tokens": [
+        50365,
+        577,
+        311,
+        309,
+        665,
+        574,
+        412,
+        385,
+        741,
+        600,
+        668,
+        439,
+        50449
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13884233784031225,
+      "compression_ratio": 1.7006369426751593,
+      "no_speech_prob": 1.484031755989712e-12,
+      "confidence": 0.518,
+      "words": [
+        {
+          "word": "how's",
+          "start": 299.3,
+          "end": 299.58,
+          "confidence": 0.288
+        },
+        {
+          "word": "it",
+          "start": 299.58,
+          "end": 299.7,
+          "confidence": 0.901
+        },
+        {
+          "word": "good",
+          "start": 299.7,
+          "end": 299.84,
+          "confidence": 0.305
+        },
+        {
+          "word": "look",
+          "start": 299.84,
+          "end": 299.98,
+          "confidence": 0.503
+        },
+        {
+          "word": "at",
+          "start": 299.98,
+          "end": 300.16,
+          "confidence": 0.978
+        },
+        {
+          "word": "me",
+          "start": 300.16,
+          "end": 300.28,
+          "confidence": 0.996
+        },
+        {
+          "word": "i've",
+          "start": 300.28,
+          "end": 300.54,
+          "confidence": 0.41
+        },
+        {
+          "word": "been",
+          "start": 300.54,
+          "end": 300.68,
+          "confidence": 0.986
+        },
+        {
+          "word": "all",
+          "start": 300.68,
+          "end": 300.94,
+          "confidence": 0.389
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 29920,
+      "start": 303.98,
+      "end": 307.88,
+      "text": " i got i got a new fit and everything and check this out",
+      "tokens": [
+        50597,
+        741,
+        658,
+        741,
+        658,
+        257,
+        777,
+        3318,
+        293,
+        1203,
+        293,
+        1520,
+        341,
+        484,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13884233784031225,
+      "compression_ratio": 1.7006369426751593,
+      "no_speech_prob": 1.484031755989712e-12,
+      "confidence": 0.6,
+      "words": [
+        {
+          "word": "i",
+          "start": 303.98,
+          "end": 304.1,
+          "confidence": 0.014
+        },
+        {
+          "word": "got",
+          "start": 304.1,
+          "end": 304.26,
+          "confidence": 0.894
+        },
+        {
+          "word": "i",
+          "start": 304.26,
+          "end": 304.5,
+          "confidence": 0.116
+        },
+        {
+          "word": "got",
+          "start": 304.5,
+          "end": 304.76,
+          "confidence": 0.991
+        },
+        {
+          "word": "a",
+          "start": 304.76,
+          "end": 304.86,
+          "confidence": 0.999
+        },
+        {
+          "word": "new",
+          "start": 304.86,
+          "end": 305.0,
+          "confidence": 0.998
+        },
+        {
+          "word": "fit",
+          "start": 305.0,
+          "end": 305.42,
+          "confidence": 0.998
+        },
+        {
+          "word": "and",
+          "start": 305.42,
+          "end": 305.86,
+          "confidence": 0.98
+        },
+        {
+          "word": "everything",
+          "start": 305.86,
+          "end": 306.18,
+          "confidence": 0.998
+        },
+        {
+          "word": "and",
+          "start": 306.18,
+          "end": 306.94,
+          "confidence": 0.977
+        },
+        {
+          "word": "check",
+          "start": 306.94,
+          "end": 307.4,
+          "confidence": 0.971
+        },
+        {
+          "word": "this",
+          "start": 307.4,
+          "end": 307.62,
+          "confidence": 0.998
+        },
+        {
+          "word": "out",
+          "start": 307.62,
+          "end": 307.88,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 29920,
+      "start": 311.2,
+      "end": 317.0,
+      "text": " fingers and i know that that is uh not a new thing for us here on the bonnie",
+      "tokens": [
+        50961,
+        7350,
+        293,
+        741,
+        458,
+        300,
+        300,
+        307,
+        2232,
+        406,
+        257,
+        777,
+        551,
+        337,
+        505,
+        510,
+        322,
+        264,
+        4428,
+        2766,
+        51253
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13884233784031225,
+      "compression_ratio": 1.7006369426751593,
+      "no_speech_prob": 1.484031755989712e-12,
+      "confidence": 0.696,
+      "words": [
+        {
+          "word": "fingers",
+          "start": 311.2,
+          "end": 311.48,
+          "confidence": 0.718
+        },
+        {
+          "word": "and",
+          "start": 311.48,
+          "end": 313.0,
+          "confidence": 0.687
+        },
+        {
+          "word": "i",
+          "start": 313.0,
+          "end": 313.3,
+          "confidence": 0.028
+        },
+        {
+          "word": "know",
+          "start": 313.3,
+          "end": 313.6,
+          "confidence": 0.999
+        },
+        {
+          "word": "that",
+          "start": 313.6,
+          "end": 313.84,
+          "confidence": 0.999
+        },
+        {
+          "word": "that",
+          "start": 313.84,
+          "end": 314.06,
+          "confidence": 0.988
+        },
+        {
+          "word": "is",
+          "start": 314.06,
+          "end": 314.48,
+          "confidence": 0.999
+        },
+        {
+          "word": "uh",
+          "start": 314.48,
+          "end": 314.78,
+          "confidence": 0.139
+        },
+        {
+          "word": "not",
+          "start": 314.78,
+          "end": 315.36,
+          "confidence": 0.97
+        },
+        {
+          "word": "a",
+          "start": 315.36,
+          "end": 315.52,
+          "confidence": 0.998
+        },
+        {
+          "word": "new",
+          "start": 315.52,
+          "end": 315.66,
+          "confidence": 0.98
+        },
+        {
+          "word": "thing",
+          "start": 315.66,
+          "end": 315.88,
+          "confidence": 0.986
+        },
+        {
+          "word": "for",
+          "start": 315.88,
+          "end": 316.06,
+          "confidence": 0.989
+        },
+        {
+          "word": "us",
+          "start": 316.06,
+          "end": 316.32,
+          "confidence": 0.998
+        },
+        {
+          "word": "here",
+          "start": 316.32,
+          "end": 316.54,
+          "confidence": 0.982
+        },
+        {
+          "word": "on",
+          "start": 316.54,
+          "end": 316.7,
+          "confidence": 0.995
+        },
+        {
+          "word": "the",
+          "start": 316.7,
+          "end": 316.8,
+          "confidence": 0.973
+        },
+        {
+          "word": "bonnie",
+          "start": 316.8,
+          "end": 317.0,
+          "confidence": 0.786
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 29920,
+      "start": 317.0,
+      "end": 322.58,
+      "text": " barksall channel because i've had fingers before i mean i've had these rooting toting gosh darn",
+      "tokens": [
+        51253,
+        16202,
+        82,
+        336,
+        2269,
+        570,
+        741,
+        600,
+        632,
+        7350,
+        949,
+        741,
+        914,
+        741,
+        600,
+        632,
+        613,
+        41572,
+        281,
+        783,
+        6502,
+        29063,
+        51537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13884233784031225,
+      "compression_ratio": 1.7006369426751593,
+      "no_speech_prob": 1.484031755989712e-12,
+      "confidence": 0.526,
+      "words": [
+        {
+          "word": "barksall",
+          "start": 317.0,
+          "end": 317.38,
+          "confidence": 0.031
+        },
+        {
+          "word": "channel",
+          "start": 317.38,
+          "end": 317.62,
+          "confidence": 0.944
+        },
+        {
+          "word": "because",
+          "start": 317.62,
+          "end": 317.98,
+          "confidence": 0.712
+        },
+        {
+          "word": "i've",
+          "start": 317.98,
+          "end": 318.16,
+          "confidence": 0.632
+        },
+        {
+          "word": "had",
+          "start": 318.16,
+          "end": 318.32,
+          "confidence": 0.998
+        },
+        {
+          "word": "fingers",
+          "start": 318.32,
+          "end": 318.58,
+          "confidence": 0.992
+        },
+        {
+          "word": "before",
+          "start": 318.58,
+          "end": 318.96,
+          "confidence": 0.982
+        },
+        {
+          "word": "i",
+          "start": 318.96,
+          "end": 319.82,
+          "confidence": 0.877
+        },
+        {
+          "word": "mean",
+          "start": 319.82,
+          "end": 319.96,
+          "confidence": 0.994
+        },
+        {
+          "word": "i've",
+          "start": 319.96,
+          "end": 320.24,
+          "confidence": 0.999
+        },
+        {
+          "word": "had",
+          "start": 320.24,
+          "end": 320.44,
+          "confidence": 0.997
+        },
+        {
+          "word": "these",
+          "start": 320.44,
+          "end": 320.7,
+          "confidence": 0.995
+        },
+        {
+          "word": "rooting",
+          "start": 320.7,
+          "end": 321.08,
+          "confidence": 0.448
+        },
+        {
+          "word": "toting",
+          "start": 321.08,
+          "end": 321.52,
+          "confidence": 0.812
+        },
+        {
+          "word": "gosh",
+          "start": 321.52,
+          "end": 322.04,
+          "confidence": 0.708
+        },
+        {
+          "word": "darn",
+          "start": 322.04,
+          "end": 322.58,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 32264,
+      "start": 322.58,
+      "end": 332.9,
+      "text": " fingers before uh but this time i'm using them newfangled gloves so i can actually grab things",
+      "tokens": [
+        50365,
+        7350,
+        949,
+        2232,
+        457,
+        341,
+        565,
+        741,
+        478,
+        1228,
+        552,
+        777,
+        19134,
+        1493,
+        14976,
+        370,
+        741,
+        393,
+        767,
+        4444,
+        721,
+        50881
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08137091811822385,
+      "compression_ratio": 1.446969696969697,
+      "no_speech_prob": 8.037376645307626e-13,
+      "confidence": 0.746,
+      "words": [
+        {
+          "word": "fingers",
+          "start": 322.58,
+          "end": 323.0,
+          "confidence": 0.915
+        },
+        {
+          "word": "before",
+          "start": 323.0,
+          "end": 323.58,
+          "confidence": 0.999
+        },
+        {
+          "word": "uh",
+          "start": 323.58,
+          "end": 324.88,
+          "confidence": 0.28
+        },
+        {
+          "word": "but",
+          "start": 324.88,
+          "end": 325.36,
+          "confidence": 0.998
+        },
+        {
+          "word": "this",
+          "start": 325.36,
+          "end": 325.62,
+          "confidence": 1.0
+        },
+        {
+          "word": "time",
+          "start": 325.62,
+          "end": 326.08,
+          "confidence": 0.999
+        },
+        {
+          "word": "i'm",
+          "start": 326.08,
+          "end": 327.12,
+          "confidence": 0.23
+        },
+        {
+          "word": "using",
+          "start": 327.12,
+          "end": 327.42,
+          "confidence": 0.946
+        },
+        {
+          "word": "them",
+          "start": 327.42,
+          "end": 327.76,
+          "confidence": 0.976
+        },
+        {
+          "word": "newfangled",
+          "start": 327.76,
+          "end": 328.68,
+          "confidence": 0.871
+        },
+        {
+          "word": "gloves",
+          "start": 328.68,
+          "end": 329.14,
+          "confidence": 0.985
+        },
+        {
+          "word": "so",
+          "start": 329.14,
+          "end": 331.52,
+          "confidence": 0.593
+        },
+        {
+          "word": "i",
+          "start": 331.52,
+          "end": 331.66,
+          "confidence": 0.775
+        },
+        {
+          "word": "can",
+          "start": 331.66,
+          "end": 331.82,
+          "confidence": 0.982
+        },
+        {
+          "word": "actually",
+          "start": 331.82,
+          "end": 332.1,
+          "confidence": 0.956
+        },
+        {
+          "word": "grab",
+          "start": 332.1,
+          "end": 332.52,
+          "confidence": 0.828
+        },
+        {
+          "word": "things",
+          "start": 332.52,
+          "end": 332.9,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 32264,
+      "start": 332.98,
+      "end": 340.32,
+      "text": " and pick things up like look i'm i'm grabbing a very patriotic bottle of diet coke and i'm going",
+      "tokens": [
+        50881,
+        293,
+        1888,
+        721,
+        493,
+        411,
+        574,
+        741,
+        478,
+        741,
+        478,
+        23771,
+        257,
+        588,
+        18311,
+        9411,
+        7817,
+        295,
+        6339,
+        33659,
+        293,
+        741,
+        478,
+        516,
+        51249
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08137091811822385,
+      "compression_ratio": 1.446969696969697,
+      "no_speech_prob": 8.037376645307626e-13,
+      "confidence": 0.894,
+      "words": [
+        {
+          "word": "and",
+          "start": 332.98,
+          "end": 333.12,
+          "confidence": 0.939
+        },
+        {
+          "word": "pick",
+          "start": 333.12,
+          "end": 333.32,
+          "confidence": 0.953
+        },
+        {
+          "word": "things",
+          "start": 333.32,
+          "end": 333.52,
+          "confidence": 0.996
+        },
+        {
+          "word": "up",
+          "start": 333.52,
+          "end": 333.76,
+          "confidence": 0.997
+        },
+        {
+          "word": "like",
+          "start": 333.76,
+          "end": 333.94,
+          "confidence": 0.678
+        },
+        {
+          "word": "look",
+          "start": 333.94,
+          "end": 334.14,
+          "confidence": 0.665
+        },
+        {
+          "word": "i'm",
+          "start": 334.14,
+          "end": 334.52,
+          "confidence": 0.621
+        },
+        {
+          "word": "i'm",
+          "start": 334.52,
+          "end": 334.78,
+          "confidence": 0.776
+        },
+        {
+          "word": "grabbing",
+          "start": 334.78,
+          "end": 335.06,
+          "confidence": 0.996
+        },
+        {
+          "word": "a",
+          "start": 335.06,
+          "end": 335.34,
+          "confidence": 0.999
+        },
+        {
+          "word": "very",
+          "start": 335.34,
+          "end": 335.6,
+          "confidence": 0.999
+        },
+        {
+          "word": "patriotic",
+          "start": 335.6,
+          "end": 336.38,
+          "confidence": 0.998
+        },
+        {
+          "word": "bottle",
+          "start": 336.38,
+          "end": 336.86,
+          "confidence": 0.985
+        },
+        {
+          "word": "of",
+          "start": 336.86,
+          "end": 337.3,
+          "confidence": 0.996
+        },
+        {
+          "word": "diet",
+          "start": 337.3,
+          "end": 337.76,
+          "confidence": 0.97
+        },
+        {
+          "word": "coke",
+          "start": 337.76,
+          "end": 338.36,
+          "confidence": 0.965
+        },
+        {
+          "word": "and",
+          "start": 338.36,
+          "end": 339.92,
+          "confidence": 0.938
+        },
+        {
+          "word": "i'm",
+          "start": 339.92,
+          "end": 340.12,
+          "confidence": 0.987
+        },
+        {
+          "word": "going",
+          "start": 340.12,
+          "end": 340.32,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 34032,
+      "start": 353.56,
+      "end": 356.44,
+      "text": " to open it and I'm gonna take a sip look at that isn't it cool it's pretty amazing right it moves",
+      "tokens": [
+        50365,
+        281,
+        1269,
+        309,
+        293,
+        286,
+        478,
+        799,
+        747,
+        257,
+        29668,
+        574,
+        412,
+        300,
+        1943,
+        380,
+        309,
+        1627,
+        309,
+        311,
+        1238,
+        2243,
+        558,
+        309,
+        6067,
+        51177
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19181543026330336,
+      "compression_ratio": 1.4924242424242424,
+      "no_speech_prob": 1.2692386204549155e-12,
+      "confidence": 0.754,
+      "words": [
+        {
+          "word": "to",
+          "start": 353.56,
+          "end": 353.58,
+          "confidence": 0.356
+        },
+        {
+          "word": "open",
+          "start": 353.58,
+          "end": 353.6,
+          "confidence": 0.997
+        },
+        {
+          "word": "it",
+          "start": 353.6,
+          "end": 353.62,
+          "confidence": 0.999
+        },
+        {
+          "word": "and",
+          "start": 353.62,
+          "end": 353.64,
+          "confidence": 0.926
+        },
+        {
+          "word": "I'm",
+          "start": 353.64,
+          "end": 353.66,
+          "confidence": 0.764
+        },
+        {
+          "word": "gonna",
+          "start": 353.66,
+          "end": 353.68,
+          "confidence": 0.745
+        },
+        {
+          "word": "take",
+          "start": 353.68,
+          "end": 353.7,
+          "confidence": 0.993
+        },
+        {
+          "word": "a",
+          "start": 353.7,
+          "end": 353.72,
+          "confidence": 0.982
+        },
+        {
+          "word": "sip",
+          "start": 353.72,
+          "end": 353.74,
+          "confidence": 0.97
+        },
+        {
+          "word": "look",
+          "start": 353.74,
+          "end": 353.76,
+          "confidence": 0.089
+        },
+        {
+          "word": "at",
+          "start": 353.76,
+          "end": 353.86,
+          "confidence": 0.916
+        },
+        {
+          "word": "that",
+          "start": 353.86,
+          "end": 353.96,
+          "confidence": 0.717
+        },
+        {
+          "word": "isn't",
+          "start": 353.96,
+          "end": 354.3,
+          "confidence": 0.734
+        },
+        {
+          "word": "it",
+          "start": 354.3,
+          "end": 354.34,
+          "confidence": 0.923
+        },
+        {
+          "word": "cool",
+          "start": 354.34,
+          "end": 354.62,
+          "confidence": 0.983
+        },
+        {
+          "word": "it's",
+          "start": 354.62,
+          "end": 355.02,
+          "confidence": 0.761
+        },
+        {
+          "word": "pretty",
+          "start": 355.02,
+          "end": 355.24,
+          "confidence": 0.991
+        },
+        {
+          "word": "amazing",
+          "start": 355.24,
+          "end": 355.62,
+          "confidence": 0.889
+        },
+        {
+          "word": "right",
+          "start": 355.62,
+          "end": 355.98,
+          "confidence": 0.902
+        },
+        {
+          "word": "it",
+          "start": 355.98,
+          "end": 356.18,
+          "confidence": 0.701
+        },
+        {
+          "word": "moves",
+          "start": 356.18,
+          "end": 356.44,
+          "confidence": 0.905
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 34032,
+      "start": 356.66,
+      "end": 362.18,
+      "text": " uh it moves pretty well it's pretty accurate oops I've lost an earbud hang on where is it come back",
+      "tokens": [
+        51177,
+        2232,
+        309,
+        6067,
+        1238,
+        731,
+        309,
+        311,
+        1238,
+        8559,
+        34166,
+        286,
+        600,
+        2731,
+        364,
+        1273,
+        18281,
+        3967,
+        322,
+        689,
+        307,
+        309,
+        808,
+        646,
+        51457
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19181543026330336,
+      "compression_ratio": 1.4924242424242424,
+      "no_speech_prob": 1.2692386204549155e-12,
+      "confidence": 0.83,
+      "words": [
+        {
+          "word": "uh",
+          "start": 356.66,
+          "end": 356.84,
+          "confidence": 0.093
+        },
+        {
+          "word": "it",
+          "start": 356.84,
+          "end": 357.06,
+          "confidence": 0.79
+        },
+        {
+          "word": "moves",
+          "start": 357.06,
+          "end": 357.26,
+          "confidence": 0.99
+        },
+        {
+          "word": "pretty",
+          "start": 357.26,
+          "end": 357.48,
+          "confidence": 0.999
+        },
+        {
+          "word": "well",
+          "start": 357.48,
+          "end": 357.72,
+          "confidence": 0.987
+        },
+        {
+          "word": "it's",
+          "start": 357.72,
+          "end": 358.0,
+          "confidence": 0.914
+        },
+        {
+          "word": "pretty",
+          "start": 358.0,
+          "end": 358.12,
+          "confidence": 0.999
+        },
+        {
+          "word": "accurate",
+          "start": 358.12,
+          "end": 358.4,
+          "confidence": 0.995
+        },
+        {
+          "word": "oops",
+          "start": 358.4,
+          "end": 358.74,
+          "confidence": 0.841
+        },
+        {
+          "word": "I've",
+          "start": 358.74,
+          "end": 359.86,
+          "confidence": 0.685
+        },
+        {
+          "word": "lost",
+          "start": 359.86,
+          "end": 360.02,
+          "confidence": 0.995
+        },
+        {
+          "word": "an",
+          "start": 360.02,
+          "end": 360.18,
+          "confidence": 0.992
+        },
+        {
+          "word": "earbud",
+          "start": 360.18,
+          "end": 360.52,
+          "confidence": 0.903
+        },
+        {
+          "word": "hang",
+          "start": 360.52,
+          "end": 360.7,
+          "confidence": 0.953
+        },
+        {
+          "word": "on",
+          "start": 360.7,
+          "end": 360.92,
+          "confidence": 0.879
+        },
+        {
+          "word": "where",
+          "start": 360.92,
+          "end": 361.38,
+          "confidence": 0.949
+        },
+        {
+          "word": "is",
+          "start": 361.38,
+          "end": 361.56,
+          "confidence": 0.997
+        },
+        {
+          "word": "it",
+          "start": 361.56,
+          "end": 361.72,
+          "confidence": 0.995
+        },
+        {
+          "word": "come",
+          "start": 361.72,
+          "end": 362.0,
+          "confidence": 0.949
+        },
+        {
+          "word": "back",
+          "start": 362.0,
+          "end": 362.18,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 36216,
+      "start": 363.2,
+      "end": 372.7,
+      "text": " oh there we go anyway uh as this is uh happy independence day uh america america yeah",
+      "tokens": [
+        50365,
+        1954,
+        456,
+        321,
+        352,
+        4033,
+        2232,
+        382,
+        341,
+        307,
+        2232,
+        2055,
+        14640,
+        786,
+        2232,
+        16116,
+        2262,
+        16116,
+        2262,
+        1338,
+        50893
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1810611556558048,
+      "compression_ratio": 1.870748299319728,
+      "no_speech_prob": 8.909630672127022e-11,
+      "confidence": 0.675,
+      "words": [
+        {
+          "word": "oh",
+          "start": 363.2,
+          "end": 363.3,
+          "confidence": 0.175
+        },
+        {
+          "word": "there",
+          "start": 363.3,
+          "end": 364.12,
+          "confidence": 0.808
+        },
+        {
+          "word": "we",
+          "start": 364.12,
+          "end": 364.24,
+          "confidence": 0.998
+        },
+        {
+          "word": "go",
+          "start": 364.24,
+          "end": 364.38,
+          "confidence": 0.999
+        },
+        {
+          "word": "anyway",
+          "start": 364.38,
+          "end": 366.16,
+          "confidence": 0.784
+        },
+        {
+          "word": "uh",
+          "start": 366.16,
+          "end": 366.72,
+          "confidence": 0.408
+        },
+        {
+          "word": "as",
+          "start": 366.72,
+          "end": 367.12,
+          "confidence": 0.994
+        },
+        {
+          "word": "this",
+          "start": 367.12,
+          "end": 367.34,
+          "confidence": 0.999
+        },
+        {
+          "word": "is",
+          "start": 367.34,
+          "end": 367.54,
+          "confidence": 0.997
+        },
+        {
+          "word": "uh",
+          "start": 367.54,
+          "end": 367.84,
+          "confidence": 0.431
+        },
+        {
+          "word": "happy",
+          "start": 367.84,
+          "end": 368.86,
+          "confidence": 0.936
+        },
+        {
+          "word": "independence",
+          "start": 368.86,
+          "end": 369.78,
+          "confidence": 0.92
+        },
+        {
+          "word": "day",
+          "start": 369.78,
+          "end": 370.26,
+          "confidence": 0.995
+        },
+        {
+          "word": "uh",
+          "start": 370.26,
+          "end": 370.84,
+          "confidence": 0.593
+        },
+        {
+          "word": "america",
+          "start": 370.84,
+          "end": 371.8,
+          "confidence": 0.958
+        },
+        {
+          "word": "america",
+          "start": 371.8,
+          "end": 372.48,
+          "confidence": 0.78
+        },
+        {
+          "word": "yeah",
+          "start": 372.48,
+          "end": 372.7,
+          "confidence": 0.104
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 36216,
+      "start": 374.08,
+      "end": 381.0,
+      "text": " hello hello hello america yeah happy independence day oh where's my face gone there it is",
+      "tokens": [
+        50957,
+        7751,
+        7751,
+        7751,
+        16116,
+        2262,
+        1338,
+        2055,
+        14640,
+        786,
+        1954,
+        689,
+        311,
+        452,
+        1851,
+        2780,
+        456,
+        309,
+        307,
+        51305
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1810611556558048,
+      "compression_ratio": 1.870748299319728,
+      "no_speech_prob": 8.909630672127022e-11,
+      "confidence": 0.608,
+      "words": [
+        {
+          "word": "hello",
+          "start": 374.08,
+          "end": 374.38,
+          "confidence": 0.038
+        },
+        {
+          "word": "hello",
+          "start": 374.38,
+          "end": 374.88,
+          "confidence": 0.76
+        },
+        {
+          "word": "hello",
+          "start": 374.88,
+          "end": 375.4,
+          "confidence": 0.857
+        },
+        {
+          "word": "america",
+          "start": 375.4,
+          "end": 377.14,
+          "confidence": 0.229
+        },
+        {
+          "word": "yeah",
+          "start": 377.14,
+          "end": 377.36,
+          "confidence": 0.307
+        },
+        {
+          "word": "happy",
+          "start": 377.36,
+          "end": 377.78,
+          "confidence": 0.915
+        },
+        {
+          "word": "independence",
+          "start": 377.78,
+          "end": 378.2,
+          "confidence": 0.916
+        },
+        {
+          "word": "day",
+          "start": 378.2,
+          "end": 378.72,
+          "confidence": 0.981
+        },
+        {
+          "word": "oh",
+          "start": 378.72,
+          "end": 379.08,
+          "confidence": 0.648
+        },
+        {
+          "word": "where's",
+          "start": 379.08,
+          "end": 379.56,
+          "confidence": 0.936
+        },
+        {
+          "word": "my",
+          "start": 379.56,
+          "end": 379.64,
+          "confidence": 0.99
+        },
+        {
+          "word": "face",
+          "start": 379.64,
+          "end": 379.94,
+          "confidence": 0.975
+        },
+        {
+          "word": "gone",
+          "start": 379.94,
+          "end": 380.18,
+          "confidence": 0.944
+        },
+        {
+          "word": "there",
+          "start": 380.18,
+          "end": 380.74,
+          "confidence": 0.774
+        },
+        {
+          "word": "it",
+          "start": 380.74,
+          "end": 380.86,
+          "confidence": 0.983
+        },
+        {
+          "word": "is",
+          "start": 380.86,
+          "end": 381.0,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 36216,
+      "start": 383.52,
+      "end": 388.86,
+      "text": " yeah oh no i accidentally locked my phone wait no don't do that no no no don't do an emergency call",
+      "tokens": [
+        51429,
+        1338,
+        1954,
+        572,
+        741,
+        15715,
+        9376,
+        452,
+        2593,
+        1699,
+        572,
+        500,
+        380,
+        360,
+        300,
+        572,
+        572,
+        572,
+        500,
+        380,
+        360,
+        364,
+        7473,
+        818,
+        51697
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1810611556558048,
+      "compression_ratio": 1.870748299319728,
+      "no_speech_prob": 8.909630672127022e-11,
+      "confidence": 0.784,
+      "words": [
+        {
+          "word": "yeah",
+          "start": 383.52,
+          "end": 383.76,
+          "confidence": 0.179
+        },
+        {
+          "word": "oh",
+          "start": 383.76,
+          "end": 384.2,
+          "confidence": 0.639
+        },
+        {
+          "word": "no",
+          "start": 384.2,
+          "end": 384.38,
+          "confidence": 0.847
+        },
+        {
+          "word": "i",
+          "start": 384.38,
+          "end": 384.66,
+          "confidence": 0.176
+        },
+        {
+          "word": "accidentally",
+          "start": 384.66,
+          "end": 384.92,
+          "confidence": 0.982
+        },
+        {
+          "word": "locked",
+          "start": 384.92,
+          "end": 385.24,
+          "confidence": 0.978
+        },
+        {
+          "word": "my",
+          "start": 385.24,
+          "end": 385.44,
+          "confidence": 0.994
+        },
+        {
+          "word": "phone",
+          "start": 385.44,
+          "end": 385.68,
+          "confidence": 0.987
+        },
+        {
+          "word": "wait",
+          "start": 385.68,
+          "end": 385.96,
+          "confidence": 0.863
+        },
+        {
+          "word": "no",
+          "start": 385.96,
+          "end": 386.26,
+          "confidence": 0.949
+        },
+        {
+          "word": "don't",
+          "start": 386.26,
+          "end": 386.56,
+          "confidence": 0.982
+        },
+        {
+          "word": "do",
+          "start": 386.56,
+          "end": 386.64,
+          "confidence": 0.993
+        },
+        {
+          "word": "that",
+          "start": 386.64,
+          "end": 386.82,
+          "confidence": 0.997
+        },
+        {
+          "word": "no",
+          "start": 386.82,
+          "end": 387.52,
+          "confidence": 0.633
+        },
+        {
+          "word": "no",
+          "start": 387.52,
+          "end": 387.66,
+          "confidence": 0.986
+        },
+        {
+          "word": "no",
+          "start": 387.66,
+          "end": 387.84,
+          "confidence": 0.939
+        },
+        {
+          "word": "don't",
+          "start": 387.84,
+          "end": 388.06,
+          "confidence": 0.879
+        },
+        {
+          "word": "do",
+          "start": 388.06,
+          "end": 388.16,
+          "confidence": 0.952
+        },
+        {
+          "word": "an",
+          "start": 388.16,
+          "end": 388.24,
+          "confidence": 0.838
+        },
+        {
+          "word": "emergency",
+          "start": 388.24,
+          "end": 388.5,
+          "confidence": 0.926
+        },
+        {
+          "word": "call",
+          "start": 388.5,
+          "end": 388.86,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 38880,
+      "start": 388.86,
+      "end": 398.44,
+      "text": " no no help everything's going wrong my earbuds are too big for my ears they don't stay in wait",
+      "tokens": [
+        50365,
+        572,
+        572,
+        854,
+        1203,
+        311,
+        516,
+        2085,
+        452,
+        40441,
+        366,
+        886,
+        955,
+        337,
+        452,
+        8798,
+        436,
+        500,
+        380,
+        1754,
+        294,
+        1699,
+        50849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13625878651936849,
+      "compression_ratio": 1.7358490566037736,
+      "no_speech_prob": 7.461650654988494e-13,
+      "confidence": 0.659,
+      "words": [
+        {
+          "word": "no",
+          "start": 388.86,
+          "end": 389.04,
+          "confidence": 0.2
+        },
+        {
+          "word": "no",
+          "start": 389.04,
+          "end": 389.18,
+          "confidence": 0.662
+        },
+        {
+          "word": "help",
+          "start": 389.18,
+          "end": 390.74,
+          "confidence": 0.368
+        },
+        {
+          "word": "everything's",
+          "start": 390.74,
+          "end": 391.46,
+          "confidence": 0.936
+        },
+        {
+          "word": "going",
+          "start": 391.46,
+          "end": 391.6,
+          "confidence": 0.996
+        },
+        {
+          "word": "wrong",
+          "start": 391.6,
+          "end": 391.98,
+          "confidence": 0.994
+        },
+        {
+          "word": "my",
+          "start": 391.98,
+          "end": 393.7,
+          "confidence": 0.736
+        },
+        {
+          "word": "earbuds",
+          "start": 393.7,
+          "end": 393.96,
+          "confidence": 0.2
+        },
+        {
+          "word": "are",
+          "start": 393.96,
+          "end": 394.26,
+          "confidence": 0.927
+        },
+        {
+          "word": "too",
+          "start": 394.26,
+          "end": 394.44,
+          "confidence": 0.818
+        },
+        {
+          "word": "big",
+          "start": 394.44,
+          "end": 394.98,
+          "confidence": 0.97
+        },
+        {
+          "word": "for",
+          "start": 394.98,
+          "end": 395.22,
+          "confidence": 0.972
+        },
+        {
+          "word": "my",
+          "start": 395.22,
+          "end": 395.38,
+          "confidence": 0.921
+        },
+        {
+          "word": "ears",
+          "start": 395.38,
+          "end": 395.64,
+          "confidence": 0.995
+        },
+        {
+          "word": "they",
+          "start": 395.64,
+          "end": 395.82,
+          "confidence": 0.943
+        },
+        {
+          "word": "don't",
+          "start": 395.82,
+          "end": 396.04,
+          "confidence": 0.509
+        },
+        {
+          "word": "stay",
+          "start": 396.04,
+          "end": 396.22,
+          "confidence": 0.199
+        },
+        {
+          "word": "in",
+          "start": 396.22,
+          "end": 396.44,
+          "confidence": 0.978
+        },
+        {
+          "word": "wait",
+          "start": 396.44,
+          "end": 398.44,
+          "confidence": 0.823
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 38880,
+      "start": 401.68,
+      "end": 403.2,
+      "text": " there we go all right i have a face again",
+      "tokens": [
+        51001,
+        456,
+        321,
+        352,
+        439,
+        558,
+        741,
+        362,
+        257,
+        1851,
+        797,
+        51085
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13625878651936849,
+      "compression_ratio": 1.7358490566037736,
+      "no_speech_prob": 7.461650654988494e-13,
+      "confidence": 0.571,
+      "words": [
+        {
+          "word": "there",
+          "start": 401.68,
+          "end": 401.8,
+          "confidence": 0.119
+        },
+        {
+          "word": "we",
+          "start": 401.8,
+          "end": 401.94,
+          "confidence": 0.997
+        },
+        {
+          "word": "go",
+          "start": 401.94,
+          "end": 402.08,
+          "confidence": 0.998
+        },
+        {
+          "word": "all",
+          "start": 402.08,
+          "end": 402.34,
+          "confidence": 0.433
+        },
+        {
+          "word": "right",
+          "start": 402.34,
+          "end": 402.46,
+          "confidence": 0.994
+        },
+        {
+          "word": "i",
+          "start": 402.46,
+          "end": 402.58,
+          "confidence": 0.082
+        },
+        {
+          "word": "have",
+          "start": 402.58,
+          "end": 402.68,
+          "confidence": 0.954
+        },
+        {
+          "word": "a",
+          "start": 402.68,
+          "end": 402.78,
+          "confidence": 0.997
+        },
+        {
+          "word": "face",
+          "start": 402.78,
+          "end": 402.98,
+          "confidence": 0.979
+        },
+        {
+          "word": "again",
+          "start": 402.98,
+          "end": 403.2,
+          "confidence": 0.936
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 38880,
+      "start": 410.36,
+      "end": 413.22,
+      "text": " oh no my earbuds just keep falling out i don't know what to do",
+      "tokens": [
+        51433,
+        1954,
+        572,
+        452,
+        40441,
+        445,
+        1066,
+        7440,
+        484,
+        741,
+        500,
+        380,
+        458,
+        437,
+        281,
+        360,
+        51585
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13625878651936849,
+      "compression_ratio": 1.7358490566037736,
+      "no_speech_prob": 7.461650654988494e-13,
+      "confidence": 0.715,
+      "words": [
+        {
+          "word": "oh",
+          "start": 410.36,
+          "end": 410.5,
+          "confidence": 0.182
+        },
+        {
+          "word": "no",
+          "start": 410.5,
+          "end": 410.7,
+          "confidence": 0.919
+        },
+        {
+          "word": "my",
+          "start": 410.7,
+          "end": 411.42,
+          "confidence": 0.769
+        },
+        {
+          "word": "earbuds",
+          "start": 411.42,
+          "end": 411.66,
+          "confidence": 0.906
+        },
+        {
+          "word": "just",
+          "start": 411.66,
+          "end": 411.92,
+          "confidence": 0.997
+        },
+        {
+          "word": "keep",
+          "start": 411.92,
+          "end": 412.04,
+          "confidence": 0.993
+        },
+        {
+          "word": "falling",
+          "start": 412.04,
+          "end": 412.3,
+          "confidence": 0.989
+        },
+        {
+          "word": "out",
+          "start": 412.3,
+          "end": 412.52,
+          "confidence": 0.997
+        },
+        {
+          "word": "i",
+          "start": 412.52,
+          "end": 412.62,
+          "confidence": 0.06
+        },
+        {
+          "word": "don't",
+          "start": 412.62,
+          "end": 412.78,
+          "confidence": 0.985
+        },
+        {
+          "word": "know",
+          "start": 412.78,
+          "end": 412.86,
+          "confidence": 0.998
+        },
+        {
+          "word": "what",
+          "start": 412.86,
+          "end": 412.96,
+          "confidence": 0.992
+        },
+        {
+          "word": "to",
+          "start": 412.96,
+          "end": 413.06,
+          "confidence": 0.998
+        },
+        {
+          "word": "do",
+          "start": 413.06,
+          "end": 413.22,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 38880,
+      "start": 414.42,
+      "end": 418.26,
+      "text": " i don't know what to do hang on screw them in screw them in and then we will",
+      "tokens": [
+        51637,
+        741,
+        500,
+        380,
+        458,
+        437,
+        281,
+        360,
+        3967,
+        322,
+        5630,
+        552,
+        294,
+        5630,
+        552,
+        294,
+        293,
+        550,
+        321,
+        486,
+        51833
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13625878651936849,
+      "compression_ratio": 1.7358490566037736,
+      "no_speech_prob": 7.461650654988494e-13,
+      "confidence": 0.664,
+      "words": [
+        {
+          "word": "i",
+          "start": 414.42,
+          "end": 414.44,
+          "confidence": 0.037
+        },
+        {
+          "word": "don't",
+          "start": 414.44,
+          "end": 414.7,
+          "confidence": 0.979
+        },
+        {
+          "word": "know",
+          "start": 414.7,
+          "end": 414.78,
+          "confidence": 0.997
+        },
+        {
+          "word": "what",
+          "start": 414.78,
+          "end": 414.92,
+          "confidence": 0.995
+        },
+        {
+          "word": "to",
+          "start": 414.92,
+          "end": 415.04,
+          "confidence": 0.998
+        },
+        {
+          "word": "do",
+          "start": 415.04,
+          "end": 415.26,
+          "confidence": 0.997
+        },
+        {
+          "word": "hang",
+          "start": 415.26,
+          "end": 415.82,
+          "confidence": 0.067
+        },
+        {
+          "word": "on",
+          "start": 415.82,
+          "end": 415.94,
+          "confidence": 0.911
+        },
+        {
+          "word": "screw",
+          "start": 415.94,
+          "end": 416.16,
+          "confidence": 0.819
+        },
+        {
+          "word": "them",
+          "start": 416.16,
+          "end": 416.38,
+          "confidence": 0.533
+        },
+        {
+          "word": "in",
+          "start": 416.38,
+          "end": 416.6,
+          "confidence": 0.991
+        },
+        {
+          "word": "screw",
+          "start": 416.6,
+          "end": 417.34,
+          "confidence": 0.508
+        },
+        {
+          "word": "them",
+          "start": 417.34,
+          "end": 417.56,
+          "confidence": 0.963
+        },
+        {
+          "word": "in",
+          "start": 417.56,
+          "end": 417.68,
+          "confidence": 0.993
+        },
+        {
+          "word": "and",
+          "start": 417.68,
+          "end": 417.82,
+          "confidence": 0.975
+        },
+        {
+          "word": "then",
+          "start": 417.82,
+          "end": 417.96,
+          "confidence": 0.982
+        },
+        {
+          "word": "we",
+          "start": 417.96,
+          "end": 418.12,
+          "confidence": 0.985
+        },
+        {
+          "word": "will",
+          "start": 418.12,
+          "end": 418.26,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 41816,
+      "start": 418.26,
+      "end": 421.78,
+      "text": " get on with the festivities i promise listen it wouldn't be a bonnie box full stream if",
+      "tokens": [
+        50365,
+        483,
+        322,
+        365,
+        264,
+        6633,
+        43539,
+        741,
+        6228,
+        2140,
+        309,
+        2759,
+        380,
+        312,
+        257,
+        4428,
+        2766,
+        2424,
+        1577,
+        4309,
+        498,
+        50553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08138703588229507,
+      "compression_ratio": 1.5314285714285714,
+      "no_speech_prob": 8.589295182222234e-13,
+      "confidence": 0.85,
+      "words": [
+        {
+          "word": "get",
+          "start": 418.26,
+          "end": 418.4,
+          "confidence": 0.535
+        },
+        {
+          "word": "on",
+          "start": 418.4,
+          "end": 418.54,
+          "confidence": 0.998
+        },
+        {
+          "word": "with",
+          "start": 418.54,
+          "end": 418.68,
+          "confidence": 0.998
+        },
+        {
+          "word": "the",
+          "start": 418.68,
+          "end": 418.82,
+          "confidence": 0.997
+        },
+        {
+          "word": "festivities",
+          "start": 418.82,
+          "end": 419.28,
+          "confidence": 0.999
+        },
+        {
+          "word": "i",
+          "start": 419.28,
+          "end": 419.46,
+          "confidence": 0.387
+        },
+        {
+          "word": "promise",
+          "start": 419.46,
+          "end": 419.68,
+          "confidence": 0.992
+        },
+        {
+          "word": "listen",
+          "start": 419.68,
+          "end": 420.3,
+          "confidence": 0.836
+        },
+        {
+          "word": "it",
+          "start": 420.3,
+          "end": 420.46,
+          "confidence": 0.989
+        },
+        {
+          "word": "wouldn't",
+          "start": 420.46,
+          "end": 420.64,
+          "confidence": 0.993
+        },
+        {
+          "word": "be",
+          "start": 420.64,
+          "end": 420.7,
+          "confidence": 0.995
+        },
+        {
+          "word": "a",
+          "start": 420.7,
+          "end": 420.8,
+          "confidence": 0.994
+        },
+        {
+          "word": "bonnie",
+          "start": 420.8,
+          "end": 420.96,
+          "confidence": 0.873
+        },
+        {
+          "word": "box",
+          "start": 420.96,
+          "end": 421.14,
+          "confidence": 0.942
+        },
+        {
+          "word": "full",
+          "start": 421.14,
+          "end": 421.28,
+          "confidence": 0.354
+        },
+        {
+          "word": "stream",
+          "start": 421.28,
+          "end": 421.48,
+          "confidence": 0.943
+        },
+        {
+          "word": "if",
+          "start": 421.48,
+          "end": 421.78,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 41816,
+      "start": 421.8,
+      "end": 433.82,
+      "text": " everything didn't fall apart anyway all right you cowpoke uh red white and blue blooded americans",
+      "tokens": [
+        50553,
+        1203,
+        994,
+        380,
+        2100,
+        4936,
+        4033,
+        439,
+        558,
+        291,
+        8408,
+        48776,
+        2232,
+        2182,
+        2418,
+        293,
+        3344,
+        3390,
+        292,
+        16116,
+        34332,
+        51157
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08138703588229507,
+      "compression_ratio": 1.5314285714285714,
+      "no_speech_prob": 8.589295182222234e-13,
+      "confidence": 0.707,
+      "words": [
+        {
+          "word": "everything",
+          "start": 421.8,
+          "end": 422.34,
+          "confidence": 0.285
+        },
+        {
+          "word": "didn't",
+          "start": 422.34,
+          "end": 422.6,
+          "confidence": 0.982
+        },
+        {
+          "word": "fall",
+          "start": 422.6,
+          "end": 422.76,
+          "confidence": 0.97
+        },
+        {
+          "word": "apart",
+          "start": 422.76,
+          "end": 423.32,
+          "confidence": 0.972
+        },
+        {
+          "word": "anyway",
+          "start": 423.32,
+          "end": 425.92,
+          "confidence": 0.248
+        },
+        {
+          "word": "all",
+          "start": 425.92,
+          "end": 428.48,
+          "confidence": 0.535
+        },
+        {
+          "word": "right",
+          "start": 428.48,
+          "end": 428.7,
+          "confidence": 0.904
+        },
+        {
+          "word": "you",
+          "start": 428.7,
+          "end": 428.98,
+          "confidence": 0.968
+        },
+        {
+          "word": "cowpoke",
+          "start": 428.98,
+          "end": 429.94,
+          "confidence": 0.62
+        },
+        {
+          "word": "uh",
+          "start": 429.94,
+          "end": 430.56,
+          "confidence": 0.173
+        },
+        {
+          "word": "red",
+          "start": 430.56,
+          "end": 431.12,
+          "confidence": 0.97
+        },
+        {
+          "word": "white",
+          "start": 431.12,
+          "end": 431.56,
+          "confidence": 0.959
+        },
+        {
+          "word": "and",
+          "start": 431.56,
+          "end": 431.78,
+          "confidence": 0.945
+        },
+        {
+          "word": "blue",
+          "start": 431.78,
+          "end": 432.1,
+          "confidence": 0.872
+        },
+        {
+          "word": "blooded",
+          "start": 432.1,
+          "end": 432.82,
+          "confidence": 0.823
+        },
+        {
+          "word": "americans",
+          "start": 432.82,
+          "end": 433.82,
+          "confidence": 0.972
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 41816,
+      "start": 435.48,
+      "end": 444.06,
+      "text": " i would like y'all to please stand for the uh what's it called the national anthem",
+      "tokens": [
+        51225,
+        741,
+        576,
+        411,
+        288,
+        6,
+        336,
+        281,
+        1767,
+        1463,
+        337,
+        264,
+        2232,
+        437,
+        311,
+        309,
+        1219,
+        264,
+        4048,
+        42383,
+        51673
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08138703588229507,
+      "compression_ratio": 1.5314285714285714,
+      "no_speech_prob": 8.589295182222234e-13,
+      "confidence": 0.778,
+      "words": [
+        {
+          "word": "i",
+          "start": 435.48,
+          "end": 435.62,
+          "confidence": 0.012
+        },
+        {
+          "word": "would",
+          "start": 435.62,
+          "end": 435.84,
+          "confidence": 0.999
+        },
+        {
+          "word": "like",
+          "start": 435.84,
+          "end": 436.1,
+          "confidence": 1.0
+        },
+        {
+          "word": "y'all",
+          "start": 436.1,
+          "end": 436.44,
+          "confidence": 0.995
+        },
+        {
+          "word": "to",
+          "start": 436.44,
+          "end": 436.62,
+          "confidence": 1.0
+        },
+        {
+          "word": "please",
+          "start": 436.62,
+          "end": 436.9,
+          "confidence": 1.0
+        },
+        {
+          "word": "stand",
+          "start": 436.9,
+          "end": 437.5,
+          "confidence": 0.999
+        },
+        {
+          "word": "for",
+          "start": 437.5,
+          "end": 439.58,
+          "confidence": 0.772
+        },
+        {
+          "word": "the",
+          "start": 439.58,
+          "end": 439.88,
+          "confidence": 0.998
+        },
+        {
+          "word": "uh",
+          "start": 439.88,
+          "end": 440.48,
+          "confidence": 0.973
+        },
+        {
+          "word": "what's",
+          "start": 440.48,
+          "end": 441.14,
+          "confidence": 0.994
+        },
+        {
+          "word": "it",
+          "start": 441.14,
+          "end": 441.22,
+          "confidence": 1.0
+        },
+        {
+          "word": "called",
+          "start": 441.22,
+          "end": 441.46,
+          "confidence": 0.999
+        },
+        {
+          "word": "the",
+          "start": 441.46,
+          "end": 442.8,
+          "confidence": 0.977
+        },
+        {
+          "word": "national",
+          "start": 442.8,
+          "end": 443.44,
+          "confidence": 0.995
+        },
+        {
+          "word": "anthem",
+          "start": 443.44,
+          "end": 444.06,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 44432,
+      "start": 445.4,
+      "end": 454.72,
+      "text": " our beautiful country's national anthem everybody please i will be i will be performing this on",
+      "tokens": [
+        50413,
+        527,
+        2238,
+        1941,
+        311,
+        4048,
+        42383,
+        2201,
+        1767,
+        741,
+        486,
+        312,
+        741,
+        486,
+        312,
+        10205,
+        341,
+        322,
+        50881
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2329019918674376,
+      "compression_ratio": 1.4047619047619047,
+      "no_speech_prob": 6.186346465479609e-13,
+      "confidence": 0.803,
+      "words": [
+        {
+          "word": "our",
+          "start": 445.4,
+          "end": 445.6,
+          "confidence": 0.495
+        },
+        {
+          "word": "beautiful",
+          "start": 445.6,
+          "end": 446.2,
+          "confidence": 0.983
+        },
+        {
+          "word": "country's",
+          "start": 446.2,
+          "end": 447.4,
+          "confidence": 0.974
+        },
+        {
+          "word": "national",
+          "start": 447.4,
+          "end": 447.92,
+          "confidence": 0.853
+        },
+        {
+          "word": "anthem",
+          "start": 447.92,
+          "end": 448.64,
+          "confidence": 0.972
+        },
+        {
+          "word": "everybody",
+          "start": 448.64,
+          "end": 450.1,
+          "confidence": 0.208
+        },
+        {
+          "word": "please",
+          "start": 450.1,
+          "end": 450.88,
+          "confidence": 0.933
+        },
+        {
+          "word": "i",
+          "start": 450.88,
+          "end": 452.2,
+          "confidence": 0.367
+        },
+        {
+          "word": "will",
+          "start": 452.2,
+          "end": 452.34,
+          "confidence": 0.996
+        },
+        {
+          "word": "be",
+          "start": 452.34,
+          "end": 452.56,
+          "confidence": 0.999
+        },
+        {
+          "word": "i",
+          "start": 452.56,
+          "end": 453.06,
+          "confidence": 0.965
+        },
+        {
+          "word": "will",
+          "start": 453.06,
+          "end": 453.24,
+          "confidence": 0.99
+        },
+        {
+          "word": "be",
+          "start": 453.24,
+          "end": 453.4,
+          "confidence": 0.993
+        },
+        {
+          "word": "performing",
+          "start": 453.4,
+          "end": 453.96,
+          "confidence": 0.974
+        },
+        {
+          "word": "this",
+          "start": 453.96,
+          "end": 454.34,
+          "confidence": 0.992
+        },
+        {
+          "word": "on",
+          "start": 454.34,
+          "end": 454.72,
+          "confidence": 0.972
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 44432,
+      "start": 454.72,
+      "end": 472.64,
+      "text": " the noble instrument known as the kazoo from memory so i'll do my best here we go",
+      "tokens": [
+        50881,
+        264,
+        20171,
+        7198,
+        2570,
+        382,
+        264,
+        30623,
+        1986,
+        490,
+        4675,
+        370,
+        741,
+        603,
+        360,
+        452,
+        1151,
+        510,
+        321,
+        352,
+        51781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2329019918674376,
+      "compression_ratio": 1.4047619047619047,
+      "no_speech_prob": 6.186346465479609e-13,
+      "confidence": 0.722,
+      "words": [
+        {
+          "word": "the",
+          "start": 454.72,
+          "end": 454.9,
+          "confidence": 0.595
+        },
+        {
+          "word": "noble",
+          "start": 454.9,
+          "end": 455.18,
+          "confidence": 0.945
+        },
+        {
+          "word": "instrument",
+          "start": 455.18,
+          "end": 455.82,
+          "confidence": 0.997
+        },
+        {
+          "word": "known",
+          "start": 455.82,
+          "end": 456.44,
+          "confidence": 0.98
+        },
+        {
+          "word": "as",
+          "start": 456.44,
+          "end": 456.78,
+          "confidence": 0.995
+        },
+        {
+          "word": "the",
+          "start": 456.78,
+          "end": 456.96,
+          "confidence": 0.931
+        },
+        {
+          "word": "kazoo",
+          "start": 456.96,
+          "end": 457.62,
+          "confidence": 0.907
+        },
+        {
+          "word": "from",
+          "start": 457.62,
+          "end": 463.12,
+          "confidence": 0.143
+        },
+        {
+          "word": "memory",
+          "start": 463.12,
+          "end": 465.02,
+          "confidence": 0.969
+        },
+        {
+          "word": "so",
+          "start": 465.02,
+          "end": 465.92,
+          "confidence": 0.745
+        },
+        {
+          "word": "i'll",
+          "start": 465.92,
+          "end": 469.9,
+          "confidence": 0.493
+        },
+        {
+          "word": "do",
+          "start": 469.9,
+          "end": 470.1,
+          "confidence": 0.991
+        },
+        {
+          "word": "my",
+          "start": 470.1,
+          "end": 470.5,
+          "confidence": 0.773
+        },
+        {
+          "word": "best",
+          "start": 470.5,
+          "end": 471.24,
+          "confidence": 0.948
+        },
+        {
+          "word": "here",
+          "start": 471.24,
+          "end": 472.34,
+          "confidence": 0.282
+        },
+        {
+          "word": "we",
+          "start": 472.34,
+          "end": 472.52,
+          "confidence": 0.98
+        },
+        {
+          "word": "go",
+          "start": 472.52,
+          "end": 472.64,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 47432,
+      "start": 480.18,
+      "end": 480.2,
+      "text": " ,",
+      "tokens": [
+        50365,
+        3182,
+        50634
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.225746379179113,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 1.5058921123967117e-11,
+      "confidence": 0.001,
+      "words": [
+        {
+          "word": ",",
+          "start": 480.18,
+          "end": 480.2,
+          "confidence": 0.001
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 47432,
+      "start": 490.84,
+      "end": 490.86,
+      "text": " .",
+      "tokens": [
+        50634,
+        2411,
+        51235
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.225746379179113,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 1.5058921123967117e-11,
+      "confidence": 0.029,
+      "words": [
+        {
+          "word": ".",
+          "start": 490.84,
+          "end": 490.86,
+          "confidence": 0.029
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 47432,
+      "start": 497.94,
+      "end": 497.96,
+      "text": " ,",
+      "tokens": [
+        51235,
+        3182,
+        51576
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.225746379179113,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 1.5058921123967117e-11,
+      "confidence": 0.001,
+      "words": [
+        {
+          "word": ",",
+          "start": 497.94,
+          "end": 497.96,
+          "confidence": 0.001
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 47432,
+      "start": 498.04,
+      "end": 498.36,
+      "text": " here",
+      "tokens": [
+        51576,
+        510,
+        51798
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.225746379179113,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 1.5058921123967117e-11,
+      "confidence": 0.0,
+      "words": [
+        {
+          "word": "here",
+          "start": 498.04,
+          "end": 498.36,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 47432,
+      "start": 503.04,
+      "end": 503.06,
+      "text": " ,",
+      "tokens": [
+        51798,
+        3182,
+        51837
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.225746379179113,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 1.5058921123967117e-11,
+      "confidence": 0.001,
+      "words": [
+        {
+          "word": ",",
+          "start": 503.04,
+          "end": 503.06,
+          "confidence": 0.001
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 50376,
+      "start": 527.18,
+      "end": 527.44,
+      "text": " I forgot.",
+      "tokens": [
+        50365,
+        286,
+        5298,
+        13,
+        51556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9875033451960638,
+      "compression_ratio": 0.9166666666666666,
+      "no_speech_prob": 2.869241736563888e-12,
+      "confidence": 0.331,
+      "words": [
+        {
+          "word": "I",
+          "start": 527.18,
+          "end": 527.2,
+          "confidence": 0.069
+        },
+        {
+          "word": "forgot.",
+          "start": 527.2,
+          "end": 527.44,
+          "confidence": 0.727
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 50376,
+      "start": 528.54,
+      "end": 529.6,
+      "text": " I forgot it.",
+      "tokens": [
+        51583,
+        286,
+        5298,
+        309,
+        13,
+        51657
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9875033451960638,
+      "compression_ratio": 0.9166666666666666,
+      "no_speech_prob": 2.869241736563888e-12,
+      "confidence": 0.547,
+      "words": [
+        {
+          "word": "I",
+          "start": 528.54,
+          "end": 528.62,
+          "confidence": 0.648
+        },
+        {
+          "word": "forgot",
+          "start": 528.62,
+          "end": 529.12,
+          "confidence": 0.84
+        },
+        {
+          "word": "it.",
+          "start": 529.12,
+          "end": 529.6,
+          "confidence": 0.406
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 52960,
+      "start": 531.4,
+      "end": 534.34,
+      "text": " I mean, I would never forget it because I am a true American.",
+      "tokens": [
+        50365,
+        286,
+        914,
+        11,
+        286,
+        576,
+        1128,
+        2870,
+        309,
+        570,
+        286,
+        669,
+        257,
+        2074,
+        2665,
+        13,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14345842820626717,
+      "compression_ratio": 1.0481927710843373,
+      "no_speech_prob": 3.991266692149331e-11,
+      "confidence": 0.889,
+      "words": [
+        {
+          "word": "I",
+          "start": 531.4,
+          "end": 531.42,
+          "confidence": 0.578
+        },
+        {
+          "word": "mean,",
+          "start": 531.42,
+          "end": 531.66,
+          "confidence": 0.78
+        },
+        {
+          "word": "I",
+          "start": 531.72,
+          "end": 531.84,
+          "confidence": 0.976
+        },
+        {
+          "word": "would",
+          "start": 531.84,
+          "end": 532.02,
+          "confidence": 0.984
+        },
+        {
+          "word": "never",
+          "start": 532.02,
+          "end": 532.28,
+          "confidence": 0.991
+        },
+        {
+          "word": "forget",
+          "start": 532.28,
+          "end": 532.68,
+          "confidence": 0.994
+        },
+        {
+          "word": "it",
+          "start": 532.68,
+          "end": 532.92,
+          "confidence": 0.992
+        },
+        {
+          "word": "because",
+          "start": 532.92,
+          "end": 533.14,
+          "confidence": 0.771
+        },
+        {
+          "word": "I",
+          "start": 533.14,
+          "end": 533.44,
+          "confidence": 0.967
+        },
+        {
+          "word": "am",
+          "start": 533.44,
+          "end": 533.58,
+          "confidence": 0.967
+        },
+        {
+          "word": "a",
+          "start": 533.58,
+          "end": 533.68,
+          "confidence": 0.988
+        },
+        {
+          "word": "true",
+          "start": 533.68,
+          "end": 533.9,
+          "confidence": 0.987
+        },
+        {
+          "word": "American.",
+          "start": 533.9,
+          "end": 534.34,
+          "confidence": 0.861
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 52960,
+      "start": 534.38,
+      "end": 535.56,
+      "text": " That is just how it goes.",
+      "tokens": [
+        50613,
+        663,
+        307,
+        445,
+        577,
+        309,
+        1709,
+        13,
+        50672
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14345842820626717,
+      "compression_ratio": 1.0481927710843373,
+      "no_speech_prob": 3.991266692149331e-11,
+      "confidence": 0.556,
+      "words": [
+        {
+          "word": "That",
+          "start": 534.38,
+          "end": 534.56,
+          "confidence": 0.026
+        },
+        {
+          "word": "is",
+          "start": 534.56,
+          "end": 534.8,
+          "confidence": 0.92
+        },
+        {
+          "word": "just",
+          "start": 534.8,
+          "end": 534.94,
+          "confidence": 0.989
+        },
+        {
+          "word": "how",
+          "start": 534.94,
+          "end": 535.12,
+          "confidence": 0.996
+        },
+        {
+          "word": "it",
+          "start": 535.12,
+          "end": 535.26,
+          "confidence": 0.997
+        },
+        {
+          "word": "goes.",
+          "start": 535.26,
+          "end": 535.56,
+          "confidence": 0.839
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

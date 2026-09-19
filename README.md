@@ -21,7 +21,7 @@ Basically, I directed Qwen at the openasr codebase, gave it general direction, a
 ## Test Structure
 
 A lot of my tests contain copyrighted audio, and I don't want to deal with a takedown notice, so I won't be sharing a good bit of them, but I've included a 
-[sample test suite](https://github.com/chameleon-ai/openasr-timestamp-improvement/sample-tests/) that shows the test structure and a couple examples.
+[sample test suite](https://github.com/chameleon-ai/openasr-timestamp-improvement/tree/main/sample-tests) that shows the test structure and a couple examples.
 
 Start with a directory split into a subdirectory per clip. Each subdirectory has the clip as well as a truth reference:
 ```
@@ -123,7 +123,7 @@ This is a good ballpark score. The "In-Window" percentage measures the words tha
 
 ### Measurement Examples
 
-Here are some measurements from the included test samples. For a full report, run `suite.py` located in the [sample test suite](https://github.com/chameleon-ai/openasr-timestamp-improvement/sample-tests/).
+Here are some measurements from the included test samples. For a full report, run `suite.py` located in the [sample test suite](https://github.com/chameleon-ai/openasr-timestamp-improvement/tree/main/sample-tests).
 
 |"bonnie" clip|F1|TempErr|InWin|
 | ----------- | ----------- | ----------- | ----------- |
@@ -197,4 +197,41 @@ Relative performance among these samples ranges from **on-par** to **38%** (2.6x
 
 ![Benchmark Statistics](assets/bench-statistics.png)
 
-The full benchmark statistics are recorded [here](https://github.com/chameleon-ai/openasr-timestamp-improvement/assets/benchmarks.ods) if you wish to review them.
+The full benchmark statistics are recorded [here](https://github.com/chameleon-ai/openasr-timestamp-improvement/blob/main/assets/benchmarks.ods) if you wish to review them.
+
+## Vs Whisper Timestamped
+
+Compared to [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) built on pytorch, OpenASR is dramatically faster. I believe a major difference is that the individual time slice is coarser in OpenASR, but the native ggml implementation without pytorch overhead certainly helps speed things up.
+
+![Transcription Time](assets/bench-vs-timestamped1.png)
+![Transcription Time](assets/bench-vs-timestamped2.png)
+
+For very short duration clips (~10 seconds), OpenASR performance is at least **on-par**. For longer clips, expect a comparative speed-up anywhere from **2-8x**.
+
+|"bonnie" clip|F1|TempErr|InWin|
+| ----------- | ----------- | ----------- | ----------- |
+| whisper-timestamped | **0.923** | 0.573 | **96%** |
+| OpenASR (DTW) | 0.918 | **0.234** | 95% |
+
+For the "bonnie" test case, the scores are fairly close. whisper-timestamped wins on word accuracy and OpenASR wins on timing accuracy.
+
+|"jfk" clip|F1|TempErr|InWin|
+| ----------- | ----------- | ----------- | ----------- |
+| whisper-timestamped | 1.000 | **0.091** | **100%**|
+| OpenASR (DTW) | 1.000 | 0.125 | **100%** |
+
+In the above "jfk" test, whisper-timestamped technically wins, but OpenASR's scores are still pretty competetive.
+
+|"arnold" clip|F1|TempErr|InWin|
+| ----------- | ----------- | ----------- | ----------- |
+| whisper-timestamped | 1.000 | 0.140 | 97% |
+| OpenASR (DTW) | 1.000 | **0.121** | **100%** |
+
+Another neck and neck case, this time OpenASR technically wins by a hair.
+
+|"oregon" clip|F1|TempErr|InWin|
+| ----------- | ----------- | ----------- | ----------- |
+| whisper-timestamped | **0.933** | **0.135** | **99%** |
+| OpenASR (DTW) | 0.881 | 0.323 | 94% |
+
+The weakest of the set, all metrics are lagging behind whisper-timestamped by a meaningful amount.

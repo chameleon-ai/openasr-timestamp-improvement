@@ -124,6 +124,7 @@ This is a good ballpark score. The "In-Window" percentage measures the words tha
 ### Measurement Examples
 
 Here are some measurements from the included test samples. For a full report, run `suite.py` located in the [sample test suite](https://github.com/chameleon-ai/openasr-timestamp-improvement/sample-tests/).
+
 |"bonnie" clip|F1|TempErr|InWin|
 | ----------- | ----------- | ----------- | ----------- |
 | cohere (stock) | 0.888 | 3.522 | 11% |
